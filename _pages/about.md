@@ -17,6 +17,6 @@ permalink: /about.html
 
 You could check my Resume on my [Linkedin profile](https://www.linkedin.com/in/zbendhiba/){:target="_blank"}.
 
-### Contact me
+### Contact me 
 
 N/A
