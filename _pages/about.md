@@ -1,6 +1,6 @@
 ---
 title: "About"
-permalink: /about.html
+permalink: /about/
 ---
 
 ### Hi there 👋
