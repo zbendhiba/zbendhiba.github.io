@@ -23,7 +23,7 @@ permalink: /about/
 - Playlist talks (EN)
 <iframe src="https://www.youtube.com/embed/playlist?list=PL4Cp-I9ZvnyHULPCUG6t03kv2n3irlvCF" width="560" height="315" frameborder="0"> </iframe>
 
-- Panels (FR)
+- Playlist panels (FR)
 <iframe src="https://youtube.com/embed/playlist?list=PL4Cp-I9ZvnyHmVWqa69QBzd27_32Ojkd2" width="560" height="315" frameborder="0"></iframe>
 
 
