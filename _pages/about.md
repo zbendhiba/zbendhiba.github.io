@@ -31,8 +31,3 @@ For full references and link to the slide decks, check my [conference page](http
 
 ### Resume
 You could check Resume on my [Linkedin profile](https://www.linkedin.com/in/zbendhiba/){:target="_blank"}.
-
-
-### Contact me 
-
-N/A
