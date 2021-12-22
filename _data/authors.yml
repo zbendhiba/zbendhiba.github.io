@@ -5,7 +5,6 @@ Zineb Bendhiba:
   bio         : "Open source software engineer"
   avatar      : "/assets/images/zineb-square.jpg"
   links:
-
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://zinebbendhiba.com"
