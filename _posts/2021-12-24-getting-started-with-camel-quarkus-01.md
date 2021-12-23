@@ -12,9 +12,9 @@ tags:
 ## Introducing the Getting Started with Camel Quarkus series
 I've decided to create a series of blog posts to help in getting started with [Camel Quarkus](https://camel.apache.org/camel-quarkus/){:target="_blank"}. This is the first one of the series.
 
-In this blog post, I show you how to create and run quickly your first camel-quarkus application. We will create a simple Quarkus application, that shows a log every 1s. To achieve this, we will use the [Camel Quarkus Timer Extension](https://camel.apache.org/camel-quarkus/latest/reference/extensions/timer.html){:target="_blank"} to set up our timer.
+In this blog post, I show you how to quickly create and run your first camel-quarkus application. We will create a simple Quarkus application, that shows a log every 1s. To achieve this, we will use the [Camel Quarkus Timer Extension](https://camel.apache.org/camel-quarkus/latest/reference/extensions/timer.html){:target="_blank"} to set up our timer.
 
-Note that by the time I'm writing this, I'm using the Quarkus 2.6.0.Final version. The source code of the example is available at [the examples repository](https://github.com/zbendhiba/zinebbendhiba.com-examples/tree/main/cq-test-1){:target="_blank"} 
+Note that this post was created using the Quarkus version 2.6.0.Final. The source code of the example is available at [the examples repository](https://github.com/zbendhiba/zinebbendhiba.com-examples/tree/main/cq-test-1){:target="_blank"} 
 
 ## Prerequisites
 Before jumping into the code, let's make sure you have everything installed to run the first example. You'll need :
@@ -30,7 +30,7 @@ Start your application from [code.quarkus.app](https://code.quarkus.io/?extensio
 - Delete the GreetingResource class and the test classes, as we won't need those in our project
 
 ## Create the RouteBuilder
-Create class, named TimerRouteBuilder. The class will contain the Camel Route Configuration. For this purpose, TimerRouteBuilder should extend [RouteBuilder](https://camel.apache.org/manual/route-builder.html){:target="_blank"}. The RouteBuilder is a base class which is derived from to create routing rules using the DSL. Instances of RouteBuilder are then added to the CamelContext.
+Create a class, named TimerRouteBuilder. The class will contain the Camel Route Configuration. For this purpose, TimerRouteBuilder should extend [RouteBuilder](https://camel.apache.org/manual/route-builder.html){:target="_blank"}. The RouteBuilder is a base class which is derived from to create routing rules using the DSL. Instances of RouteBuilder are then added to the CamelContext.
 
 Override the configure method. 
 
@@ -110,7 +110,7 @@ You should be able to see that the application has started, and that the timer i
 ```
 
 ## Try hot deployment
-Leave the application running and update the log message, set the message "Hello World Camel Timer!". Save the TimeRouteBuilder class, and see the logs. You'll notice that the application was redeployed and you'll have the new log message. Also, notice that deployment was so quick. The application and the Camel Route has started in very few milliseconds.
+Leave the application running and update the log message, set the message "Hello World Camel Timer!". Save the TimeRouteBuilder class, and see the logs. You'll notice that the application was re-deployed and you'll have the new log message. Also, notice that deployment was so quick. The application and the Camel Route was started within a few milliseconds.
 
 ```
 2021-12-22 19:11:01,206 INFO  [org.apa.cam.imp.eng.AbstractCamelContext] (Quarkus Main Thread) Apache Camel 3.14.0 (camel-2) started in 2ms (build:0ms init:1ms start:1ms)
