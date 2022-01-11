@@ -8,10 +8,10 @@ permalink: /about/
 - 🖥I’m an Open Source software engineer working [@RedHat](https://www.redhat.com/){:target="_blank"}.
 - 🐪I’m a committer in the [Apache Camel](https://camel.apache.org/){:target="_blank"} project.
 - 🔭I’m currently working on [Camel Quarkus](https://camel.apache.org/camel-quarkus){:target="_blank"}.
-- 🗣I sometimes speak at conferences/events. [Check Conference references section 👇](#conference-references).
+- 🗣I speak at conferences/events. [Check Conference references section 👇](#conference-references).
 - 👯‍♀I'm a member of the [Duchess France](https://www.duchess-france.org/){:target="_blank"} board.
 - 😎I'm a member of [Devoxx France CFP committee](https://cfp.devoxx.fr/2022/committee.html){:target="_blank"} since 2022.
-- 📚I've written a technical article in magazine [Check Articles section 👇](#articles).
+- 📚I write a technical article in magazines [Check Articles section 👇](#articles).
 - 😄Pronouns: She / Her / Hers
 - 💃Hobbies: dance
 
