@@ -8,8 +8,10 @@ permalink: /about/
 - 🖥I’m an Open Source software engineer working [@RedHat](https://www.redhat.com/){:target="_blank"}.
 - 🐪I’m a committer in the [Apache Camel](https://camel.apache.org/){:target="_blank"} project.
 - 🔭I’m currently working on [Camel Quarkus](https://camel.apache.org/camel-quarkus){:target="_blank"}.
-- 🗣I sometimes speak at conferences/events. [See section 👇](#conference-references)
+- 🗣I sometimes speak at conferences/events. [Check Conference references section 👇](#conference-references).
 - 👯‍♀I'm a member of the [Duchess France](https://www.duchess-france.org/){:target="_blank"} board.
+- 😎I'm a member of [Devoxx France CFP committee](https://cfp.devoxx.fr/2022/committee.html){:target="_blank"} since 2022.
+- 📚I've written a technical article in magazine [Check Articles section 👇](#articles).
 - 😄Pronouns: She / Her / Hers
 - 💃Hobbies: dance
 
@@ -28,6 +30,9 @@ permalink: /about/
 
 
 For full references and link to the slide decks, check my [conference page](https://github.com/zbendhiba/conference-talks){:target="_blank"}.
+
+### Articles
+- Programmez! Hors série #5 (November 2021) [Intégration Camel Quarkus](https://www.programmez.com/magazine/article/integration-camel-quarkus){:target="_blank"}
 
 ### Resume
 You could check Resume on my [Linkedin profile](https://www.linkedin.com/in/zbendhiba/){:target="_blank"}.
