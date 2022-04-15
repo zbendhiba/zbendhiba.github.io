@@ -1,7 +1,7 @@
 ---
 title: "Getting started with Camel Quarkus - Part 1 - Create your first application"
 categories:
-  - Camel Quarkus
+  - camel-quarkus
 tags:
   - ApacheCamel
   - Java
