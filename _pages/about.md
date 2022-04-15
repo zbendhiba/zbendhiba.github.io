@@ -29,7 +29,7 @@ permalink: /about/
 <iframe src="https://youtube.com/embed/playlist?list=PL4Cp-I9ZvnyHmVWqa69QBzd27_32Ojkd2" width="560" height="315" frameborder="0"></iframe>
 
 
-For full references and link to the slide decks, check my [conference page](https://github.com/zbendhiba/conference-talks){:target="_blank"}.
+For full references and link to the slide decks, check my [conference page](/conf).
 
 ### Articles
 - Programmez! Hors série #5 (November 2021) [Intégration Camel Quarkus](https://www.programmez.com/magazine/article/integration-camel-quarkus){:target="_blank"}
