@@ -9,7 +9,7 @@ permalink: /conf/
 | ------------- |---------------|:------:|------|
 | 2022-07-19    | [JBCN conf](https://www.jbcnconf.com/2022/) | Scaling Camel to the Cloud | EN |
 | 2022-06-30    | [Sunny Tech](https://sunny-tech.io/) | Intégration à l'ère du cloud <br>avec Camel Quarkus<br>| FR |
-| 2022-06-17    | Bucharest<br>Tech Week | [Integrating systems in the age of<br> Quarkus, serverless and Kafka](https://www.linkedin.com/posts/techweekro_have-you-ever-got-the-task-to-implement-an-activity-6917478509586092032-yJok?utm_source=linkedin_share&utm_medium=member_desktop_web)| EN |
+| 2022-06-17    | [Bucharest<br>Tech Week](https://www.techweek.ro/java-summit) | [Integrating systems in the age of<br> Quarkus, serverless and Kafka](https://www.linkedin.com/posts/techweekro_have-you-ever-got-the-task-to-implement-an-activity-6917478509586092032-yJok?utm_source=linkedin_share&utm_medium=member_desktop_web)| EN |
 | 2022-05-12    | [Devoxx UK](https://www.devoxx.co.uk/) | [Integrating systems in the age of<br> Quarkus, serverless and Kafka](https://www.devoxx.co.uk/talk/?id=4725)| EN |
 | 2022-04-20    | [Devoxx FR](https://www.devoxx.fr/) | [Workshop - Intégration à l'ère<br> du cloud avec Camel Quarkus<br>](https://cfp.devoxx.fr/2022/talk/NOF-9542/Integration_a_l'ere_du_cloud_avec_Camel_Quarkus)| FR |
 | <span style="color:gray">2022-04-05</span>   | <span style="color:gray">DevDay AXA</span>    | <span style="color:gray">Intégration à l'ère du cloud <br>avec Camel Quarkus<br>[SLIDES](https://github.com/zbendhiba/conference-talks/blob/main/2022/CEQ-DevDay-20220405.pdf) - [DEMO](https://github.com/zbendhiba/telegram-kafka/tree/axa-final)</span> | <span style="color:gray">FR</span> |
