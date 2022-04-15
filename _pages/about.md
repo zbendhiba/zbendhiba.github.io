@@ -7,7 +7,7 @@ permalink: /about/
 
 - 🖥I’m an Open Source software engineer working [@RedHat](https://www.redhat.com/){:target="_blank"}.
 - 🐪I’m a committer and PMC member of the [Apache Camel](https://camel.apache.org/){:target="_blank"} project.
-- 🔭I’m currently working on [Camel Quarkus](https://camel.apache.org/camel-quarkus){:target="_blank"}.
+- 🔭I’m currently working on [Apache Camel extensions for Quarkus](https://camel.apache.org/camel-quarkus){:target="_blank"}.
 - 🗣I speak at conferences/events. [Check Conference references section 👇](#conference-references).
 - 👯‍♀I'm a member of the [Duchess France](https://www.duchess-france.org/){:target="_blank"} board.
 - 😎I'm a member of [Devoxx France CFP committee](https://cfp.devoxx.fr/2022/committee.html){:target="_blank"} since 2022.
