@@ -27,6 +27,6 @@ permalink: /conf/
 
 | Date          | Event         | Panel  | Lang |
 | ------------- |---------------|:-----:|--------|
-| 2022-06-07    | [Libre à vous!](https://www.libreavous.org/) | Les femmes dans les projets libres! | FR |
+| <span style="color:gray">2022-06-07   </span> | <span style="color:gray">[Libre à vous!](https://www.libreavous.org/) </span>| <span style="color:gray">La diversité de genre dans les projets libres! <br>[RECORDING](https://www.libreavous.org/146-la-diversite-de-genre-dans-les-projets-libres-soupcons-de-favoritisme-dans) </span>| <span style="color:gray">FR</span> |
 | <span style="color:gray">2021-11-10</span> | <span style="color:gray">[Open Source<br>Experience](https://www.opensource-experience.com/)</span> | <span style="color:gray">Diversité & Open source<br>[RECORDING](https://youtu.be/xUvJBIBMfbA)</span> | <span style="color:gray">FR</span> |
 | <span style="color:gray">2021-06-22</span>|<span style="color:gray">[DevNation Day](https://developers.redhat.com/devnation/devnationday-france)</span> | <span style="color:gray"> Etre un.e développeur.se Open<br> Source épanoui.e<br>[RECORDING](https://youtu.be/pleWDBfFhOg)</span>  | <span style="color:gray">FR</span> |
