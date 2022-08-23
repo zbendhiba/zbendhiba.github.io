@@ -10,7 +10,7 @@ permalink: /about/
 - 🔭I’m currently working on [Apache Camel extensions for Quarkus](https://camel.apache.org/camel-quarkus){:target="_blank"}.
 - 🗣I speak at conferences/events. [Check Conference references section 👇](#conference-references).
 - 👯‍♀I'm a member of the [Duchess France](https://www.duchess-france.org/){:target="_blank"} board.
-- 😎I'm a member of [Devoxx France CFP committee](https://cfp.devoxx.fr/2022/committee.html){:target="_blank"} since 2022.
+- 😎I'm a member of [Devoxx France CFP committee](https://cfp.devoxx.fr/2022/committee.html){:target="_blank"} and [Devoxx Morocco CFP committee](https://devoxx.ma/){:target="_blank"} since 2022.
 - 📚I write in magazines [Check Articles section 👇](#articles).
 - 😄Pronouns: She / Her / Hers
 - 💃Hobbies: dance
