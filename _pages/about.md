@@ -16,14 +16,14 @@ permalink: /about/
 - 💃Hobbies: dance
 
 ### Conference references
+- Playlist talks (EN)
+<iframe src="https://www.youtube.com/embed/playlist?list=PL4Cp-I9ZvnyHULPCUG6t03kv2n3irlvCF" width="560" height="315" frameborder="0"> </iframe>
+
 - Playlist talks (FR)
 <iframe src="https://youtube.com/embed/playlist?list=PL4Cp-I9ZvnyEFHJVHcPJpvvKXDLCUrCzy" width="560" height="315" frameborder="0"> </iframe>
 
 - Playlist talks (MAR)
 <iframe src="https://youtube.com/embed/playlist?list=PL4Cp-I9ZvnyGSZBes0SLg646a-VgmXkRS" width="560" height="315" frameborder="0"> </iframe>
-
-- Playlist talks (EN)
-<iframe src="https://www.youtube.com/embed/playlist?list=PL4Cp-I9ZvnyHULPCUG6t03kv2n3irlvCF" width="560" height="315" frameborder="0"> </iframe>
 
 - Playlist panels (FR)
 <iframe src="https://youtube.com/embed/playlist?list=PL4Cp-I9ZvnyHmVWqa69QBzd27_32Ojkd2" width="560" height="315" frameborder="0"></iframe>
