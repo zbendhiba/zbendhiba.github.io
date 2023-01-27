@@ -46,6 +46,8 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : "ZinebBendhiba"
+mastodon: 
+  username               : "@zbendhiba@mastodon.social"
 og_image                 : "/assets/images/zineb-square.jpg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -55,6 +57,7 @@ social:
   links: # An array of links to social media profiles
     - https://twitter.com/ZinebBendhiba
     - https://github.com/zbendhiba
+    - https://mastodon.social/@zbendhiba
 
 # Analytics
 analytics:
@@ -66,8 +69,8 @@ analytics:
 # Site Author
 author:
   name             : "Zineb Bendhiba"
-  avatar           : "/assets/images/zineb-square.jpg"
-  bio              : "Open source software engineer at RedHat."
+  avatar           : "/assets/images/zineb_bendhiba_2022.jpg"
+  bio              : "My name is Zineb. I was born in Casablanca, Morocco, but have been living in Paris, France since 2011. I am an Open Source and Java enthusiast, working at Red Hat. You can read more about me in the [About me](https://zinebbendhiba.com/about/) section."
   location         : "Paris, France"
   links:
     - label: "Twitter"
@@ -76,6 +79,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/zbendhiba"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: " https://mastodon.social/@zbendhiba"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:contact@contact.zinebbendhiba.com"
@@ -90,6 +96,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/zbendhiba"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: " https://mastodon.social/@zbendhiba"
 
 
 # Reading Files
