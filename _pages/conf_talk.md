@@ -5,7 +5,7 @@ permalink: /conf/
 
 ### Confs & workshops
 
-| Date          | Event         | Talk  | Lang |
+| Date<br>_______________________________ |Event <br>_______________________________        | Talk <br>_____________________________________________________________________________________________________________ | Lang <br>_______________________________|
 | ------------- |---------------|:------:|------|
 | 2023-03-07  | [KCD France](https://www.kcdfrance.fr/) | TBD  | FR|
 | <span style="color:gray">2023-02-01 </span>   | <span style="color:gray">[Red Hat Tech <br> Exchange](https://quarkus.io/insights/)</span> | <span style="color:gray">Serverless Integration <br> with Camel & Quarkus <br>[DEMO](https://github.com/zbendhiba/telegram-kafka/tree/20200201-rhte)</span> | <span style="color:gray">EN </span>|
@@ -31,7 +31,7 @@ permalink: /conf/
 
 ### Panels
 
-| Date          | Event         | Panel  | Lang |
+| Date<br>_______________________________ |Event <br>_______________________________        | Talk <br>_____________________________________________________________________________________________________________ | Lang <br>_______________________________|
 | ------------- |---------------|:-----:|--------|
 | <span style="color:gray">2022-06-07   </span> | <span style="color:gray">[Libre à vous!](https://www.libreavous.org/) </span>| <span style="color:gray">La diversité de genre dans les projets libres! <br>[RECORDING](https://www.libreavous.org/146-la-diversite-de-genre-dans-les-projets-libres-soupcons-de-favoritisme-dans) </span>| <span style="color:gray">FR</span> |
 | <span style="color:gray">2021-11-10</span> | <span style="color:gray">[Open Source<br>Experience](https://www.opensource-experience.com/)</span> | <span style="color:gray">Diversité & Open source<br>[RECORDING](https://youtu.be/xUvJBIBMfbA)</span> | <span style="color:gray">FR</span> |
