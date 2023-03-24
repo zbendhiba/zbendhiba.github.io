@@ -70,7 +70,7 @@ analytics:
 author:
   name             : "Zineb Bendhiba"
   avatar           : "/assets/images/zineb_bendhiba_2022.jpg"
-  bio              : "My name is Zineb. I was born in Casablanca, Morocco, but have been living in Paris, France since 2011. I am an Open Source and Java enthusiast, working at Red Hat. You can read more about me in the [About me](https://zinebbendhiba.com/about/) section."
+  bio              : "Hi, I'm Zineb Bendhiba, an experienced Open Source Java developer with a passion for Enterprise Integration & Cloud-native technologies. I'm an active contributor to the open source integration project Apache Camel."
   location         : "Paris, France"
   links:
     - label: "Twitter"

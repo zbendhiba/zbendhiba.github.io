@@ -5,7 +5,12 @@ permalink: /about/
 
 ### Hi there 👋
 
-- 🖥I’m an Open Source software engineer working [@RedHat](https://www.redhat.com/){:target="_blank"}.
+I'm Zineb Bendhiba, an experienced Open Source Java developer with a passion for Enterprise Integration & Cloud-native technologies. I'm an active contributor to the open source integration project Apache Camel.
+
+I'm passionate about using open-source tools to help organizations overcome the toughest integration challenges, and I believe that Apache Camel is one of the most powerful and flexible integration frameworks available today. Through my work with Apache Camel, I've gained a wealth of experience working with modern Cloud-native technologies like Kubernetes, Quarkus and Knative, and I'm always looking for new ways to apply this knowledge to real-world challenges.
+
+# Facts about me
+- 🖥I’m an Senior Software Engineer working [@RedHat](https://www.redhat.com/){:target="_blank"}.
 - 🐪I’m a committer and member of the Project Management Committee (PMC) for [Apache Camel](https://camel.apache.org/){:target="_blank"} project.
 - 🔭I’m currently working on [Apache Camel extensions for Quarkus](https://camel.apache.org/camel-quarkus){:target="_blank"}.
 - 🗣I speak at conferences/events. [Check Conference references section 👇](#conference-references).
