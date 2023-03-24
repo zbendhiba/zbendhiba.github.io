@@ -7,18 +7,21 @@ permalink: /about/
 
 I'm Zineb Bendhiba, an experienced Open Source Java developer with a passion for Enterprise Integration & Cloud-native technologies. I'm an active contributor to the open source integration project Apache Camel.
 
-I'm passionate about using open-source tools to help organizations overcome the toughest integration challenges, and I believe that Apache Camel is one of the most powerful and flexible integration frameworks available today. Through my work with Apache Camel, I've gained a wealth of experience working with modern Cloud-native technologies like Kubernetes, Quarkus and Knative, and I'm always looking for new ways to apply this knowledge to real-world challenges.
+I'm passionate about using open-source tools to help organizations overcome the toughest integration challenges, and I believe that Apache Camel is one of the most powerful and flexible integration frameworks available today. 
+
+Through my work with Apache Camel, I've gained a wealth of experience working with modern Cloud-native technologies like Kubernetes, Quarkus and Knative, and I'm always looking for new ways to apply this knowledge to real-world challenges.
 
 # Facts about me
-- 🖥I’m an Senior Software Engineer working [@RedHat](https://www.redhat.com/){:target="_blank"}.
-- 🐪I’m a committer and member of the Project Management Committee (PMC) for [Apache Camel](https://camel.apache.org/){:target="_blank"} project.
-- 🔭I’m currently working on [Apache Camel extensions for Quarkus](https://camel.apache.org/camel-quarkus){:target="_blank"}.
-- 🗣I speak at conferences/events. [Check Conference references section 👇](#conference-references).
-- 👯‍♀I'm a member of the [Duchess France](https://www.duchess-france.org/){:target="_blank"} board.
-- 😎I'm a member of [Devoxx France CFP committee](https://cfp.devoxx.fr/2022/committee.html){:target="_blank"} and [Devoxx Morocco CFP committee](https://devoxx.ma/){:target="_blank"} since 2022.
-- 📚I write in magazines [Check Articles section 👇](#articles).
-- 😄Pronouns: She / Her / Hers
-- 💃Hobbies: dance
+- 🖥 Senior Software Engineer at [Red Hat](https://www.redhat.com/)
+- 🐪 [Apache Camel](https://camel.apache.org/){:target="_blank"} committer and member of the Project Management Committee (PMC)
+- 🔭 Currently working on [Apache Camel extensions for Quarkus](https://camel.apache.org/camel-quarkus){:target="_blank"}.
+- 🗣 Conference speaker ([see Conference references section 👇](#conference-references))
+- 👯‍♀️ Member of the [Duchess France](https://www.duchess-france.org/) community
+- 😎 CFP committee member for Devoxx France and Devoxx Morocco conferences since 2022
+- 📚 Magazine writer ([see Articles section 👇](#articles))
+- 😄 Pronouns: She / Her / Hers
+- 💃 Hobbies: dance
+
 
 ### Conference references
 - Playlist talks (EN)
