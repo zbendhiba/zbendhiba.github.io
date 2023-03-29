@@ -7,6 +7,8 @@ permalink: /conf/
 
 | Date<br>_______________________________ |Event <br>_______________________________        | Talk <br>_____________________________________________________________________________________________________________ | Lang <br>_______________________________|
 | ------------- |---------------|:------:|------|
+2023-07-10 | [Riviera Dev](https://rivieradev.fr/)|A Story about Serverless Camels Living in Containers  | EN|
+2023-07-10 | [Riviera Dev](https://rivieradev.fr/)|Améliorez votre intégration de systèmes avec Apache Camel Quarkus (Workshop)  | FR|
 | <span style="color:gray">2023-03-07</span>  | <span style="color:gray">[KCD France](https://www.kcdfrance.fr/)</span>| <span style="color:gray">Intégration Serverless avec Apache Camel <br> [SLIDES](https://github.com/zbendhiba/zbendhiba.github.io/tree/main/assets/confs/2023/20230307-CamelServerless.pdf) </span> | <span style="color:gray">FR</span>|
 | <span style="color:gray">2023-02-01 </span>   | <span style="color:gray">[Red Hat Tech <br> Exchange](https://quarkus.io/insights/)</span> | <span style="color:gray">Serverless Integration <br> with Camel & Quarkus <br>[DEMO](https://github.com/zbendhiba/telegram-kafka/tree/20200201-rhte)</span> | <span style="color:gray">EN </span>|
 | <span style="color:gray">2022-11-28 </span>   | <span style="color:gray">[Quarkus <br> Insights](https://quarkus.io/insights/)</span> | <span style="color:gray">Episode #110 Apache Camel <br>[RECORDING](https://camel.apache.org/blog/2022/12/quarkus-insights/) - [DEMO](https://github.com/zbendhiba/telegram-kafka/tree/221128-quarkus-insights)</span> | <span style="color:gray">EN </span>|
