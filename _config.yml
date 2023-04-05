@@ -70,7 +70,7 @@ analytics:
 author:
   name             : "Zineb Bendhiba"
   avatar           : "/assets/images/zineb_bendhiba_2022.jpg"
-  bio              : "Hi, I'm Zineb Bendhiba, an experienced Open Source Java developer with a passion for Enterprise Integration & Cloud-native technologies. I'm an active contributor to the open source integration project Apache Camel."
+  bio              : "I'm a Senior Software Engineer at Red Hat. I'm a passionate Open source Java developer with a strong interest in Open Source Software and Enterprise Integration. With over 15 years of experience in the software industry, I have developed a deep expertise in building robust, scalable applications using Java technologies. As an active committer and PMC member of Apache Camel, I work on developing Camel extensions for Quarkus, bringing Apache Camel integration capabilities to the Cloud Native Java applications."
   location         : "Paris, France"
   links:
     - label: "Twitter"
