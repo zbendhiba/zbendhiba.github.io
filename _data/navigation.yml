@@ -1,10 +1,12 @@
-# main links links
+# main links
 main:
   - title: "Home"
     url: /
   - title: "Blog"
     url: /year-archive/
-  - title: "Conf Talks"
+  - title: "Talks"
     url: /conf/
+  - title: "Podcasts"
+    url: /podcast/
   - title: "About"
     url: /about/
