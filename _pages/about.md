@@ -37,7 +37,7 @@ Through my work with Apache Camel, I've gained a wealth of experience working wi
 <iframe src="https://youtube.com/embed/playlist?list=PL4Cp-I9ZvnyHmVWqa69QBzd27_32Ojkd2" width="560" height="315" frameborder="0"></iframe>
 
 
-For full references and link to the slide decks, check my [conference page](/conf).
+For full references and link to the slide decks, check my [Talks](/conf) and my [Podcasts](/podcast) pages .
 
 ### Articles
 - Programmez! Hors série #5 (November 2021) [Intégration Camel Quarkus](https://www.programmez.com/magazine/article/integration-camel-quarkus){:target="_blank"}
