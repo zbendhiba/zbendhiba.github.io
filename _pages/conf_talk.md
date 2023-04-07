@@ -28,8 +28,8 @@ permalink: /conf/
 ## Upcoming
 
 | ------------- |---------------|:------:|
-| 07-10 | [Riviera Dev](https://rivieradev.fr/)|🇬🇧 A Story about Serverless Camels Living in Containers  |
-| 07-10 | [Riviera Dev](https://rivieradev.fr/)|🇫🇷 Améliorez votre intégration de systèmes avec Apache Camel Quarkus (Workshop)  | 
+| 07-10 | [Riviera Dev](https://rivieradev.fr/)|🇬🇧 [A Story about Serverless Camels Living in Containers](/talk/serverless-camels/) |
+| 07-10 | [Riviera Dev](https://rivieradev.fr/)|🇫🇷 [Améliorez votre intégration de systèmes avec Apache Camel Quarkus (Workshop)](/talk/camel-quarkus-workshop-fr/)  | 
 
 ## 2023
 
