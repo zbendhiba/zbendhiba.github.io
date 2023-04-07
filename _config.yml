@@ -105,6 +105,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - _talks
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
