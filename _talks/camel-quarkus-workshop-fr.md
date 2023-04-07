@@ -1,9 +1,11 @@
 ---
 layout: single
 title: 🇫🇷 Améliorez votre intégration de systèmes avec Apache Camel Quarkus
-permalink: /talk/camel-quarkus-workshop-fr/
+permalink: /lab/camel-quarkus-workshop-fr/
 author_profile: true
 ---
+
+#### Abstract et Workshop préparé avec [Alexandre Gallice](https://twitter.com/AlexGallice){:target="_blank"}
 
 L'interconnectivité des systèmes informatiques est essentielle à mesure que la technologie évolue.[Apache Camel](https://camel.apache.org/){:target="_blank"} est un projet Open Source fiable et bien établi qui fournit plus de 350 connecteurs pour répondre aux besoins croissants d'intégration entre les systèmes.
 
@@ -15,4 +17,4 @@ Nous commencerons par développer de simples Route Camel "Hello world!". Ensuite
 
 Enfin, vous apprendrez comment personnaliser le code en implémentant des transformations, des filtres et des routages basés sur le contenu en utilisant des [Enterprise Integration Patterns](https://www.enterpriseintegrationpatterns.com/){:target="_blank"} disponibles dans [Apache Camel](https://camel.apache.org/){:target="_blank"}.
 
-Je vous conseille de préparer les prérequis au préalable.
+Je vous conseille de préparer [les prérequis](https://github.com/aldettinger/camel-quarkus-workshop){:target="_blank"} au préalable.
