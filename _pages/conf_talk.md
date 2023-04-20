@@ -28,7 +28,7 @@ permalink: /conf/
 ## Upcoming
 
 | ------------- |---------------|:------:|
-| 07-10 | [Riviera Dev](https://rivieradev.fr/){:target="_blank"}|🇬🇧 [A Story about Serverless Camels Living in Containers](/talk/serverless-camels/) with [Kevin Dubois](https://twitter.com/kevindubois){:target="_blank"} |
+| 07-11 | [Riviera Dev](https://rivieradev.fr/){:target="_blank"}|🇬🇧 [A Story about Serverless Camels Living in Containers](/talk/serverless-camels/) with [Kevin Dubois](https://twitter.com/kevindubois){:target="_blank"} |
 | 07-10 | [Riviera Dev](https://rivieradev.fr/){:target="_blank"}|🇫🇷 [Améliorez votre intégration de systèmes avec Apache Camel Quarkus (Workshop)](/lab/camel-quarkus-workshop-fr/)  | 
 | 07-05 | [DevBCN](https://www.devbcn.com/){:target="_blank"}|🇬🇧 [Build a Multichannel Hub with Apache Camel and Quarkus (Workshop)](/lab/multichannel-hub-camel-quarkus/)  with [Bruno Meseguer](https://www.linkedin.com/in/bruno-meseguer-a764421/){:target="_blank"} | 
 
