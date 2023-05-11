@@ -44,3 +44,7 @@ For full references and link to the slide decks, check my [Talks](/conf) and my 
 
 ### Resume
 You could check Resume on my [Linkedin profile](https://www.linkedin.com/in/zbendhiba/){:target="_blank"}.
+
+## Bio in French
+
+Zineb est Senior Software Engineer chez Red Hat, avec plus de 15 ans d'expérience dans le développement logiciel. Elle est une développeuse Java Open Source passionnée avec un fort intérêt pour les logiciels Open Source et les solutions d'Integration. En tant que contributrice active et membre du PMC d'Apache Camel, elle travaille sur le développement d'extensions Camel pour Quarkus, offrant ainsi les capacités d'intégration de Apache Camel pour les applications Java Cloud Native.
