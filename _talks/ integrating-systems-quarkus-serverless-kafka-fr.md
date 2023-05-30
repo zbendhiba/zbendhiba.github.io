@@ -24,6 +24,7 @@ Après avoir expliqué quelques concepts essentiels, nous verrons à travers un 
 
 
 #### slides
+- [Alpes JUG 2023](https://github.com/zbendhiba/zbendhiba.github.io/tree/main/assets/confs/2023/20230530-AlpesJUG.pptx){:target="_blank"}
 - [Devoxx France 2022](https://github.com/zbendhiba/zbendhiba.github.io/tree/main/assets/confs/2022/Devoxx_FR_2022_CEQ_talk.pdf){:target="_blank"}
 - [Sunny Tech 2022](https://github.com/zbendhiba/zbendhiba.github.io/tree/main/assets/confs/2022/220630-sunnytech.pdf){:target="_blank"}
 - [DevNation Day France 2022](https://github.com/zbendhiba/zbendhiba.github.io/tree/main/assets/confs/2022/220628-devnationDay.pdf){:target="_blank"}
@@ -34,6 +35,7 @@ Après avoir expliqué quelques concepts essentiels, nous verrons à travers un 
 
 
 #### demos
+- [Alpes JUG 2023](https://github.com/zbendhiba/telegram-kafka/tree/230530-AlpesJug){:target="_blank"}
 - [Devoxx France 2022](https://github.com/zbendhiba/telegram-kafka/tree/devoxx-fr-2022){:target="_blank"}
 - [Sunny Tech 2022](https://github.com/zbendhiba/telegram-kafka/tree/220630-sunny-tech){:target="_blank"}
 - [DevNation Day France 2022](https://github.com/zbendhiba/telegram-kafka/tree/220628-devnation-day){:target="_blank"}
