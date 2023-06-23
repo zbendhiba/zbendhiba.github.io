@@ -32,3 +32,5 @@ nb-configuration.xml
 # Vi/Vim
 *.swp
 
+# Jeykill
+Gemfile.lock
