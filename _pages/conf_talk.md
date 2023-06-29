@@ -37,7 +37,7 @@ permalink: /conf/
 ## 2023
 
 | ------------- |---------------|:------:|
-| 07-05 | [DevNation Day: Modern App Dev](https://hopin.com/events/devnation-day-modern-app-dev-fc3c3a8d-2226-4bf8-a0c1-38d1d37cad83/registration#schedule/){:target="_blank"}|🇬🇧 [Build a Multichannel Hub with Apache Camel and Quarkus (Workshop)](/lab/multichannel-hub-camel-quarkus/) with [Bruno Meseguer](https://www.linkedin.com/in/bruno-meseguer-a764421/){:target="_blank"} |
+| 06-29 | [DevNation Day: Modern App Dev](https://hopin.com/events/devnation-day-modern-app-dev-fc3c3a8d-2226-4bf8-a0c1-38d1d37cad83/registration#schedule/){:target="_blank"}|🇬🇧 [Build a Multichannel Hub with Apache Camel and Quarkus (Workshop)](/lab/multichannel-hub-camel-quarkus/) with [Bruno Meseguer](https://www.linkedin.com/in/bruno-meseguer-a764421/){:target="_blank"} |
 | 05-30 | Alpes JUG | 🇫🇷 [Intégration à l'ère du cloud avec Camel Quarkus](/talk/integrating-systems-quarkus-serverless-kafka-fr/){:target="_blank"} |
 | 03-07  | [KCD France](https://www.kcdfrance.fr/){:target="_blank"}| 🇫🇷 [Intégration Serverless avec Apache Camel](/talk/serverless-integration-camel-fr) | 
 | 02-01 | Red Hat Tech Exchange | 🇬🇧 [Serverless Integration  with Camel & Quarkus](/talk/serverless-integration-camel) with [Kevin Dubois](https://twitter.com/kevindubois){:target="_blank"}|
