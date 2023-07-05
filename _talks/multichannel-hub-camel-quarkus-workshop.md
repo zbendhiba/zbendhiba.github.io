@@ -19,3 +19,6 @@ Takeaways:
 - Evolve its architecture as you progress in the workshop.
 - Sample a variety of cutting-edge cloud-native technologies.
 - Understand better than ever how to use the latest generation of [Apache Camel](https://camel.apache.org/){:target="_blank"}.
+
+#### slides
+- [DevBCN 2023 with Bruno Meseguer](https://github.com/zbendhiba/zbendhiba.github.io/tree/main/assets/confs/2023/2023_devBCN.pdf){:target="_blank"}
