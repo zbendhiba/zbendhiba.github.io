@@ -18,3 +18,7 @@ Nous commencerons par développer de simples Route Camel "Hello world!". Ensuite
 Enfin, vous apprendrez comment personnaliser le code en implémentant des transformations, des filtres et des routages basés sur le contenu en utilisant des [Enterprise Integration Patterns](https://www.enterpriseintegrationpatterns.com/){:target="_blank"} disponibles dans [Apache Camel](https://camel.apache.org/){:target="_blank"}.
 
 Je vous conseille de préparer [les prérequis](https://github.com/aldettinger/camel-quarkus-workshop){:target="_blank"} au préalable.
+
+#### slides
+- [Riviera Dev 2023](https://github.com/zbendhiba/zbendhiba.github.io/tree/main/assets/confs/2023/workshop-2023-07-10.pdf){:target="_blank"}
+
