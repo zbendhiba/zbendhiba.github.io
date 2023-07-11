@@ -17,3 +17,14 @@ Apache Camel has been around for a while, but it is more relevant now than it ha
 Attendees should come away from this talk with the following:
 - Why you would want to use Apache Camel to create easy to understand, reusable and distributed integration components.
 - How the next iteration of Apache Camel (based on Quarkus) can leverage Kubernetes and/or Serverless computing and event driven architectures to deploy early and often.
+
+
+#### Slides
+- [SLIDES](https://github.com/zbendhiba/zbendhiba.github.io/tree/main/assets/confs/2023/230711-riviera.pdf){:target="_blank"}
+
+#### Demo
+- [Camel Quarkus](https://github.com/kdubois/CamelQuarkusVoter){:target="_blank"}
+- [Camel k](https://github.com/zbendhiba/telegram-kafka/tree/20230711-riviera){:target="_blank"}
+
+
+
