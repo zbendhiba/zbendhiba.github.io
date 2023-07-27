@@ -28,7 +28,7 @@ permalink: /conf/
 ## Upcoming
 
 | ------------- |---------------|:------:|
-| 12-06 | [Open Source Experience 2023]https://www.opensource-experience.com/){:target="_blank"}|🇬🇧 [Interconnecter des systèmes disparates de manière efficace](/talk/connecting-disparate-systems-fr) |
+| 12-06 | [Open Source Experience 2023](https://www.opensource-experience.com/){:target="_blank"}|🇬🇧 [Interconnecter des systèmes disparates de manière efficace](/talk/connecting-disparate-systems-fr) |
 | 10-24 | [Accento 2023](https://2023.accento.dev/){:target="_blank"}|🇬🇧 [Connecting disparate systems in a lightweight way](/talk/connecting-disparate-systems) |
 
 ## 2023
