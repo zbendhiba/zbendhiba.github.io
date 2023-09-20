@@ -20,7 +20,7 @@ In this session, we leveraged Apache Camel to explore integration patterns that 
 The recording is already available.
 <iframe src="https://www.youtube.com/embed/4tjrCP27aHU" width="560" height="315" frameborder="0"> </iframe>
 
-You can access the presentation slides and code[here](/talk/eip-microservices/).
+You can access the presentation slides and code [here](/talk/eip-microservices/).
 
 If you have any questions or feedback, please feel free to reach out. 
 
