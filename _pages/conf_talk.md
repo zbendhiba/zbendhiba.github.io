@@ -34,6 +34,7 @@ permalink: /conf/
 | 10-11 | [Devoxx Morocco](https://devoxx.ma/){:target="_blank"}|🇬🇧 [Cloud Native Java Development with Quarkus](/lab/quarkus/)  with [Kevin Dubois](https://twitter.com/kevindubois){:target="_blank"}|
 
 ## 2023
+
 | ------------- |---------------|:------:|
 | 09-14 | [DevNation Tech Talk](https://developers.redhat.com/devnation/tech-talks/beyond-rest-and-crud){:target="_blank"}|🇬🇧 [Beyond REST and CRUD: Integration patterns in Microservices](/talk/eip-microservices/) with [Erin Schnabel](https://www.linkedin.com/in/erinschnabel/){:target="_blank"}|
 | 07-11 | [Riviera Dev](https://rivieradev.fr/){:target="_blank"}|🇬🇧 [A Story about Serverless Camels Living in Containers](/talk/serverless-camels/) with [Kevin Dubois](https://twitter.com/kevindubois){:target="_blank"} |
