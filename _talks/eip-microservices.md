@@ -15,7 +15,7 @@ The flow of information and events through distributed systems goes well beyond 
 - [Slides](https://github.com/zbendhiba/zbendhiba.github.io/tree/main/assets/confs/2023/20230914-beyond-rest-eip.pdf){:target="_blank"}
 
 ### Code
-- [Demo live](https://github.com/zbendhiba/camel-rest-demo){:target="_blank"}
+- [Live Demo](https://github.com/zbendhiba/camel-rest-demo){:target="_blank"}
 - [Pockets cli](https://github.com/ebullient/pockets-cli){:target="_blank"}
 
 
