@@ -14,3 +14,9 @@ We'll start by introducing Apache Camel, a powerful tool that offers over 300 co
 Next, we'll dive into developing a Java application that can seamlessly connect various systems using Apache Camel. With just a few lines of code, we can utilize the power of Camel to transform and transfer data between different systems. Furthermore, we'll explore how Camel JBang and Quarkus can greatly improve the developer experience.
 
 By the end of this talk, you'll have the tools and knowledge to connect your Java microservices with external systems faster and more efficiently.
+
+#### slides
+- [Devoxx Morocco 2023](https://github.com/zbendhiba/zbendhiba.github.io/tree/main/assets/confs/2023/Connecting-Disparate-systems-devoxxma.pdf){:target="_blank"}
+
+### demo
+- [Devoxx Morocco 2023](https://github.com/zbendhiba/camel-rest-demo){:target="_blank"}

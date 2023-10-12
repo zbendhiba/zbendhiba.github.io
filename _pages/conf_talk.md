@@ -30,12 +30,12 @@ permalink: /conf/
 | ------------- |---------------|:------:|
 | 12-06 | [Open Source Experience 2023](https://www.opensource-experience.com/){:target="_blank"}|🇬🇧 [Interconnecter des systèmes disparates de manière efficace](/talk/connecting-disparate-systems-fr) |
 | 10-24 | [Accento 2023](https://2023.accento.dev/){:target="_blank"}|🇬🇧 [Connecting disparate systems in a lightweight way](/talk/connecting-disparate-systems) |
-| 10-12 | [Devoxx Morocco](https://devoxx.ma/){:target="_blank"}|🇬🇧 [Connecting disparate systems in a lightweight way](/talk/connecting-disparate-systems) |
-| 10-11 | [Devoxx Morocco](https://devoxx.ma/){:target="_blank"}|🇬🇧 [Cloud Native Java Development with Quarkus](/lab/quarkus/)  with [Kevin Dubois](https://twitter.com/kevindubois){:target="_blank"}|
 
 ## 2023
 
 | ------------- |---------------|:------:|
+| 10-12 | [Devoxx Morocco](https://devoxx.ma/){:target="_blank"}|🇬🇧 [Connecting disparate systems in a lightweight way](/talk/connecting-disparate-systems) |
+| 10-11 | [Devoxx Morocco](https://devoxx.ma/){:target="_blank"}|🇬🇧 [Cloud Native Java Development with Quarkus](/lab/quarkus/)  with [Kevin Dubois](https://twitter.com/kevindubois){:target="_blank"}|
 | 09-14 | [DevNation Tech Talk](https://developers.redhat.com/devnation/tech-talks/beyond-rest-and-crud){:target="_blank"}|🇬🇧 [Beyond REST and CRUD: Integration patterns in Microservices](/talk/eip-microservices/) with [Erin Schnabel](https://www.linkedin.com/in/erinschnabel/){:target="_blank"}|
 | 07-11 | [Riviera Dev](https://rivieradev.fr/){:target="_blank"}|🇬🇧 [A Story about Serverless Camels Living in Containers](/talk/serverless-camels/) with [Kevin Dubois](https://twitter.com/kevindubois){:target="_blank"} |
 | 07-10 | [Riviera Dev](https://rivieradev.fr/){:target="_blank"}|🇫🇷 [Améliorez votre intégration de systèmes avec Apache Camel Quarkus (Workshop)](/lab/camel-quarkus-workshop-fr/)  | 

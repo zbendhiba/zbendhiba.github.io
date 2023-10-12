@@ -13,3 +13,10 @@ Come to this session to learn how to build Java applications with ease and joy u
 A little bit of basic knowledge of Java is helpful for this session, but no further familiarity with Quarkus, Kubernetes, containers or Kafka is required.
 
 After this session, the audience should come away with inspiration to build modern Cloud Native applications with Java and Quarkus, and have fun doing so!
+
+#### slides
+- [Devoxx Morocco 2023](https://speakerdeck.com/kdubois/cloud-native-java-development-with-quarkus-devoxx-morocco){:target="_blank"}
+
+### workshop
+- [Devoxx Morocco 2023](https://redhat-developer-demos.github.io/quarkus-tutorial/quarkus-tutorial/index.html){:target="_blank"}
+
