@@ -4,7 +4,7 @@ permalink: /about/
 ---
 
 ### Hello there 👋
-I'm Zineb Bendhiba, an Open Source Java developer with over 15 years of experience, deeply passionate about addressing complex challenges within Cloud Native environments. I am dedicated to using and contributing to open source tools to tackle these challenges. 
+I'm Zineb Bendhiba, an Open Source Java developer with over 15 years of experience, deeply passionate about addressing complex challenges within Cloud Native environments. I am dedicated to using and contributing to Open Source projects to tackle these challenges. 
 
 I believe in the strength and adaptability of Apache Camel as an integration framework. Within the Apache Camel project, I actively contribute to addressing diverse integration challenges, which underscores my enduring dedication to solving complex problems over the course of my career.
 
