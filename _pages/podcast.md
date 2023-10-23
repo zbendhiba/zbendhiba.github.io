@@ -27,6 +27,7 @@ permalink: /podcast/
 ### 2023
 
 | -------- | -------- | -------- |
+10-13 | [Message à caractère informatique par Clever Cloud](https://www.clever-cloud.com/fr/podcast/){:target="_blank"}|🇫🇷 #93 L’IA marocaine plie le game des API comme un Apache certifié<br>[RECORDING](https://youtu.be/80zYFsHvz0I?si=5S2BB0nbQikQxhCQ) | 
 03-07 | [KCD France](https://www.kcdfrance.fr/){:target="_blank"}|🇫🇷 Comment faciliter les contributions open source et mieux les évangéliser<br>[RECORDING](https://youtu.be/nZtoTYx1sPU) | 
 
 
