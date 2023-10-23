@@ -3,31 +3,31 @@ title: "About"
 permalink: /about/
 ---
 
-### Hi there 👋
+### Hello there 👋
+I'm Zineb Bendhiba, an Open Source Java developer with over 15 years of experience, deeply passionate about addressing complex challenges within Cloud Native environments. I am dedicated to using and contributing to open source tools to tackle these challenges. 
 
-I'm Zineb Bendhiba, an experienced Open Source Java developer with a passion for Enterprise Integration & Cloud-native technologies. I'm an active contributor to the open source integration project Apache Camel.
+I believe in the strength and adaptability of Apache Camel as an integration framework. Within the Apache Camel project, I actively contribute to addressing diverse integration challenges, which underscores my enduring dedication to solving complex problems over the course of my career.
 
-I'm passionate about using open source tools to help organizations overcome the toughest integration challenges, and I believe that Apache Camel is one of the most powerful and flexible integration frameworks available today. 
+Through my active involvement in the Apache Camel community, I've gained extensive experience in modern Cloud-native technologies like Kubernetes, Quarkus, and Knative. I continually seek innovative ways to apply this knowledge to real-world scenarios.
 
-Through my work with Apache Camel, I've gained a wealth of experience working with modern Cloud-native technologies like Kubernetes, Quarkus and Knative, and I'm always looking for new ways to apply this knowledge to real-world challenges.
+Engaged in various open source and women in tech communities, I actively participate as a tech speaker, sharing insights and experiences with fellow enthusiasts.
 
 # Facts about me
-- 🖥 Senior Software Engineer at [Red Hat](https://www.redhat.com/)
-- 🐪 [Apache Camel](https://camel.apache.org/){:target="_blank"} committer and member of the Project Management Committee (PMC)
-- 🔭 Currently working on [Apache Camel extensions for Quarkus](https://camel.apache.org/camel-quarkus){:target="_blank"}.
-- 🗣 Conference speaker check my [Talks](/conf) and my [Podcasts](/podcast) pages
-- 😎 CFP committee member for Devoxx France and Devoxx Morocco conferences since 2022
-- 👯‍♀️ Member of the [Duchess France](https://www.duchess-france.fr/) community (Board member from March 2021 to July 2023)
-- 📚 Magazine writer ([see Articles section 👇](#articles))
+- 🖥 I work as a Senior Software Engineer at [Red Hat](https://www.redhat.com/)
+- 🐪 I actively contribute to [Apache Camel](https://camel.apache.org/){:target="_blank"} as a committer and member of the Project Management Committee (PMC).
+- 🔭 Currently, I am involved in enhancing [Apache Camel extensions for Quarkus](https://camel.apache.org/camel-quarkus){:target="_blank"}.
+- 🗣 You can catch me speaking at various conferences. Check out my [Talks](/conf) and [Podcasts](/podcast) pages. 
+- 😎 I proudly serve as a member of the CFP committee for Devoxx France and Devoxx Morocco conferences since 2022.
+- 👯‍♀️ I am an active member of the [Duchess France](https://www.duchess-france.fr/) community (Board member from March 2021 to July 2023).
+- 📚 I enjoy writing articles on various tech topics ([find them in the section below](#articles)). 
 - 😄 Pronouns: She / Her / Hers
-- 💃 Hobbies: dance
+- 💃 Dancing is my favorite way to unwind!
 
 ### Articles
 - Programmez! Hors série #5 (November 2021) [Intégration Camel Quarkus](https://www.programmez.com/magazine/article/integration-camel-quarkus){:target="_blank"}
 
 ### Resume
-You could check Resume on my [Linkedin profile](https://www.linkedin.com/in/zbendhiba/){:target="_blank"}.
+You could check my Resume on my [Linkedin profile](https://www.linkedin.com/in/zbendhiba/){:target="_blank"}.
 
 ## Bio in French
-
-Zineb est Senior Software Engineer chez Red Hat, avec plus de 15 ans d'expérience dans le développement logiciel. Elle est une développeuse Java Open Source passionnée avec un fort intérêt pour les logiciels Open Source et les solutions d'Integration. En tant que contributrice active et membre du PMC d'Apache Camel, elle travaille sur le développement d'extensions Camel pour Quarkus, offrant ainsi les capacités d'intégration de Apache Camel pour les applications Java Cloud Native.
+Avec plus de 15 ans d'expérience, je suis actuellement Senior Software Engineer chez Red Hat, spécialisée dans l'intégration et l'open Source. Ma passion réside dans la résolution de défis complexes au sein des environnements Cloud Native. Au sein de la communauté Apache Camel, je contribue activement à divers sujets, visant à améliorer les capacités d'intégration des applications Cloud Native, en particulier pour la plateforme Quarkus.
