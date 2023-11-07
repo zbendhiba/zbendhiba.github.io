@@ -28,7 +28,8 @@ permalink: /conf/
 ## Upcoming
 
 | ------------- |---------------|:------:|
-| 12-07 | [Open Source Experience 2023](https://www.opensource-experience.com/){:target="_blank"}|🇬🇧 [Interconnecter des systèmes disparates de manière efficace](/talk/connecting-disparate-systems-fr) |
+| 12-12 | [DevNation Day: Modern App Dev](https://hopin.com/events/devdaymad/){:target="_blank"}|🇬🇧 [Connecting disparate systems in a lightweight way](/talk/connecting-disparate-systems) |
+| 12-07 | [Open Source Experience 2023](https://www.opensource-experience.com/){:target="_blank"}|🇫🇷 [Interconnecter des systèmes disparates de manière efficace](/talk/connecting-disparate-systems-fr) |
 
 ## 2023
 
