@@ -1,5 +1,5 @@
 ---
-title: "Talks"
+title: "Talks and Workshops"
 permalink: /conf/
 ---
 <style>
@@ -22,8 +22,6 @@ permalink: /conf/
     text-align: left;
   }
 </style>
-
-### Talks and Workshops
 
 ## Upcoming
 
