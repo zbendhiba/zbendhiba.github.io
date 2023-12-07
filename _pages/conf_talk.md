@@ -27,11 +27,11 @@ permalink: /conf/
 
 | ------------- |---------------|:------:|
 | 12-12 | [DevNation Day: Modern App Dev](https://hopin.com/events/devdaymad/){:target="_blank"}|🇬🇧 [Connecting disparate systems in a lightweight way](/talk/connecting-disparate-systems) |
-| 12-07 | [Open Source Experience 2023](https://www.opensource-experience.com/){:target="_blank"}|🇫🇷 [Interconnecter des systèmes disparates de manière efficace](/talk/connecting-disparate-systems-fr) |
 
 ## 2023
 
 | ------------- |---------------|:------:|
+| 12-07 | [Open Source Experience 2023](https://www.opensource-experience.com/){:target="_blank"}|🇫🇷 [Interconnecter des systèmes disparates de manière efficace](/talk/connecting-disparate-systems-fr) |
 | 10-24 | [Accento 2023](https://2023.accento.dev/){:target="_blank"}|🇬🇧 [Connecting disparate systems in a lightweight way](/talk/connecting-disparate-systems) |
 | 10-12 | [Devoxx Morocco](https://devoxx.ma/){:target="_blank"}|🇬🇧 [Connecting disparate systems in a lightweight way](/talk/connecting-disparate-systems) |
 | 10-11 | [Devoxx Morocco](https://devoxx.ma/){:target="_blank"}|🇬🇧 [Cloud Native Java Development with Quarkus](/lab/quarkus/)  with [Kevin Dubois](https://twitter.com/kevindubois){:target="_blank"}|
