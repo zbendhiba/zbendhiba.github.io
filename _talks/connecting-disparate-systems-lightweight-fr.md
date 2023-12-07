@@ -14,3 +14,10 @@ Nous commencerons par introduire Apache Camel, un outil puissant qui propose plu
 Ensuite, nous plongerons dans le développement d'une application capable de connecter de manière transparente différents systèmes à l'aide d'Apache Camel. Avec seulement quelques lignes de code, nous pouvons exploiter la puissance de Camel pour transformer et transférer des données entre différents systèmes.
 
 À la fin de cette présentation, vous disposerez des outils et des connaissances nécessaires pour connecter vos microservices avec des systèmes externes de manière plus rapide et plus efficace.
+
+
+#### slides
+- [Open Source Experience 2023](https://github.com/zbendhiba/zbendhiba.github.io/tree/main/assets/confs/2023/OSPX-20231207.pdf){:target="_blank"}
+
+#### demo
+- [Open Source Experience 2023](https://github.com/zbendhiba/telegram-kafka/tree/20231207-ospx){:target="_blank"}
