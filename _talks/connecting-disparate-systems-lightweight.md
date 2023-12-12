@@ -16,6 +16,7 @@ Next, we'll dive into developing a Java application that can seamlessly connect 
 By the end of this talk, you'll have the tools and knowledge to connect your Java microservices with external systems faster and more efficiently.
 
 #### slides
+- [DevNation MAD Day 2023](https://github.com/zbendhiba/zbendhiba.github.io/tree/main/assets/confs/2023/DevNationDay-MAD20231212.pdf){:target="_blank"}
 - [Accento 2023](https://github.com/zbendhiba/zbendhiba.github.io/tree/main/assets/confs/2023/Accento-20231024.pdf){:target="_blank"}
 - [Devoxx Morocco 2023](https://github.com/zbendhiba/zbendhiba.github.io/tree/main/assets/confs/2023/Connecting-Disparate-systems-devoxxma.pdf){:target="_blank"}
 
