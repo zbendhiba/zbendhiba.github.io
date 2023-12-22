@@ -23,7 +23,7 @@ permalink: /conf/
   }
 </style>
 
-## Upcoming
+## Upcoming in 2024
 
 | ------------- |---------------|:------:|
 | 01-26 | [ElleStime](https://www.linkedin.com/company/ellestime/about/){:target="_blank"}|🇫🇷 Journée de sensibilisation aux sciences/maths pour 13 628 collégien-nes auprès de la Franche Comté|
