@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-Quarkus meets AI : Build your own LLM-powered application
+### Quarkus meets AI : Build your own LLM-powered application
 
 In today's dynamic AI landscape, the seamless integration of Large Language Models (LLMs) into applications is a key focus for developers. While many initiatives have emerged to facilitate the integration of LLMs, the world of Java has seen limited options. 
 
