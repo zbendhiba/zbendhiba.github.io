@@ -26,6 +26,7 @@ permalink: /conf/
 ## Upcoming
 
 | ------------- |---------------|:------:|
+| 04-18 | [Devoxx Greece](https://devoxx.gr/){:target="_blank"} |🇬🇧 [Quarkus meets AI : Build your own LLM-powered application](/talk/quarkus-ai/) with [Dimitrios Andreadis](https://twitter.com/dandreadis){:target="_blank"} |
 | 02-21 | [Blabla conf](https://www.blablaconf.com/){:target="_blank"} |🇲🇦 [Quarkus meets AI : Build your own LLM-powered application](/talk/quarkus-ai/) |
 
 ## 2024
