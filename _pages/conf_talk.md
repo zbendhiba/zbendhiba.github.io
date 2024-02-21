@@ -27,11 +27,12 @@ permalink: /conf/
 
 | ------------- |---------------|:------:|
 | 04-18 | [Devoxx Greece](https://devoxx.gr/){:target="_blank"} |🇬🇧 [Quarkus meets AI : Build your own LLM-powered application](/talk/quarkus-ai/) with [Dimitrios Andreadis](https://twitter.com/dandreadis){:target="_blank"} |
-| 02-21 | [Blabla conf](https://www.blablaconf.com/){:target="_blank"} |🇲🇦 [Quarkus meets AI : Build your own LLM-powered application](/talk/quarkus-ai/) |
+
 
 ## 2024
 
 | ------------- |---------------|:------:|
+| 02-21 | [Blabla conf](https://www.blablaconf.com/){:target="_blank"} |🇲🇦 [Quarkus meets AI : Build your own LLM-powered application](/talk/quarkus-ai/) |
 | 01-26 | [ElleStime](https://www.linkedin.com/company/ellestime/about/){:target="_blank"}|🇫🇷 Journée de sensibilisation aux sciences/maths pour 13 628 collégien-nes auprès de la Franche Comté|
 
 ## 2023
