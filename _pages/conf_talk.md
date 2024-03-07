@@ -26,7 +26,7 @@ permalink: /conf/
 ## Upcoming
 
 | ------------- |---------------|:------:|
-| 05-07 | [Red Hat Summit](https://www.redhat.com/en/summit){:target="_blank"} |🇬🇧 [Connecting disparate systems with the Red Hat Build of Apache Camel and Red Hat AMQ](/talk/connecting-systems-rh-summit/) with [Kevin Dubois](https://twitter.com/kevindubois){:target="_blank"} |
+| 05-07 | [Red Hat Summit](https://www.redhat.com/en/summit){:target="_blank"} |🇬🇧 [Connecting disparate systems with the Red Hat Build of Apache Camel and Red Hat AMQ](https://events.experiences.redhat.com/widget/redhat/sum24/SessionCatalog2024/session/1699980725554001O7SR){:target="_blank"} with [Kevin Dubois](https://twitter.com/kevindubois){:target="_blank"} |
 | 04-18 | [Devoxx Greece](https://devoxx.gr/){:target="_blank"} |🇬🇧 [Quarkus meets AI : Build your own LLM-powered application](/talk/quarkus-ai/) with [Dimitrios Andreadis](https://twitter.com/dandreadis){:target="_blank"} |
 
 
