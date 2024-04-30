@@ -24,6 +24,12 @@ permalink: /podcast/
   }
 </style>
 
+### 2024
+
+| -------- | -------- | -------- |
+04-21 | [GeeksBlabla](https://geeksblabla.io/){:target="_blank"}|🇲🇦 #177 DevRel and tech talks<br>[RECORDING](https://www.youtube.com/live/8uKEwWbgRBc?si=H_avqiGTDLyqdUxx) | 
+
+
 ### 2023
 
 | -------- | -------- | -------- |
