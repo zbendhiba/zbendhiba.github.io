@@ -4,11 +4,11 @@ permalink: /about/
 ---
 
 ### Hello there 👋
-I'm Zineb Bendhiba, an Open Source Java developer with over 15 years of experience, deeply passionate about addressing complex challenges within Cloud Native environments. I am dedicated to using and contributing to Open Source projects to tackle these challenges. 
+I’m Zineb Bendhiba, an Open Source Java developer with extensive experience, deeply passionate about navigating the complex challenges within Cloud Native environments. I am dedicated to using and contributing to Open Source projects to tackle these challenges.
 
-I believe in the strength and adaptability of Apache Camel as an integration framework. Within the Apache Camel project, I actively contribute to addressing diverse integration challenges, which underscores my enduring dedication to solving complex problems over the course of my career.
+I believe in the strength and adaptability of Apache Camel as an integration framework. Within the Apache Camel project, I actively contribute to diverse challenges, demonstrating my ability to innovate and lead in the field. This reflects my enduring commitment to addressing complex problems throughout my career.
 
-Through my active involvement in the Apache Camel community, I've gained extensive experience in modern Cloud-native technologies like Kubernetes, Quarkus, and Knative. I continually seek innovative ways to apply this knowledge to real-world scenarios.
+My engagement in the Apache Camel community has enriched my expertise in cutting-edge Cloud-native technologies, including Kubernetes, Quarkus, serverless architectures, and AI. I continuously explore and implement novel approaches to apply this knowledge in practical, impactful ways.
 
 Engaged in various open source and women in tech communities, I actively participate as a tech speaker, sharing insights and experiences with fellow enthusiasts.
 
