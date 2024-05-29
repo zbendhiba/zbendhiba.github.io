@@ -25,14 +25,13 @@ permalink: /conf/
 
 ## Upcoming
 
-| ------------- |---------------|:------:|
 
 
 
 ## 2024
 
 | ------------- |---------------|:------:|
-{:target="_blank"} with Codrin Bucur |
+
 | 05-07 | [Red Hat Summit](https://www.redhat.com/en/summit){:target="_blank"} |🇬🇧 [Bring the power of AI and LLM to containerized Java/Quarkus applications](https://events.experiences.redhat.com/widget/redhat/sum24/SessionCatalog2024/session/1700234342519001ysdD){:target="_blank"} with Codrin Bucur |
 | 05-07 | [Red Hat Summit](https://www.redhat.com/en/summit){:target="_blank"} |🇬🇧 [Connecting disparate systems with the Red Hat Build of Apache Camel and Red Hat AMQ](https://events.experiences.redhat.com/widget/redhat/sum24/SessionCatalog2024/session/1699980725554001O7SR){:target="_blank"} with [Kevin Dubois](https://twitter.com/kevindubois){:target="_blank"} |
 | 04-18 | [Devoxx Greece](https://devoxx.gr/){:target="_blank"} |🇬🇧 [Quarkus meets AI : Build your own LLM-powered application](/talk/quarkus-ai/) with [Dimitrios Andreadis](https://twitter.com/dandreadis){:target="_blank"} |
