@@ -14,3 +14,6 @@ Zineb Bendhiba:
     - label: "Mastodon"
       icon: "fas fa-fw fa-mastodon"
       url: " https://mastodon.social/@zbendhiba"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube-square"
+      url: "https://www.youtube.com/@zinebbendhiba"
