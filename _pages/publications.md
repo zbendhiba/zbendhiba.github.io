@@ -32,4 +32,4 @@ permalink: /publications/
 ### 2021
 
 | -------- | -------- | -------- |
-Nov | Programmez !|🇫🇷 [Intégration Camel Quarkus](https://www.programmez.com/magazine/article/integration-camel-quarkus) {:target="_blank"} 
+Nov | Programmez !|🇫🇷 [Intégration Camel Quarkus](https://www.programmez.com/magazine/article/integration-camel-quarkus){:target="_blank"} 
