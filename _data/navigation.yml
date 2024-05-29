@@ -8,5 +8,7 @@ main:
     url: /conf/
   - title: "Podcasts"
     url: /podcast/
+  - title: "Publications"
+    url: /publications/
   - title: "About"
     url: /about/

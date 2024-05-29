@@ -19,15 +19,12 @@ Engaged in various open source and women in tech communities, I actively partici
 - 🗣 You can catch me speaking at various conferences. Check out my [Talks](/conf) and [Podcasts](/podcast) pages. 
 - 😎 I proudly serve as a member of the CFP committee for Devoxx France and Devoxx Morocco conferences since 2022.
 - 👯‍♀️ I am an active member of the [Duchess France](https://www.duchess-france.fr/) community (Board member from March 2021 to July 2023).
-- 📚 I enjoy writing articles on various tech topics ([find them in the section below](#articles)). 
+- 📚 I enjoy writing articles on various tech topics. Check out [my articles on magazines and other websites](/publications).
 - 😄 Pronouns: She / Her / Hers
 - 💃 Dancing is my favorite way to unwind!
-
-### Articles
-- Programmez! Hors série #5 (November 2021) [Intégration Camel Quarkus](https://www.programmez.com/magazine/article/integration-camel-quarkus){:target="_blank"}
 
 ### Resume
 You could check my Resume on my [Linkedin profile](https://www.linkedin.com/in/zbendhiba/){:target="_blank"}.
 
 ## Bio in French
-Avec plus de 15 ans d'expérience, je suis actuellement Senior Software Engineer chez Red Hat, spécialisée dans l'intégration et l'open Source. Ma passion réside dans la résolution de défis complexes au sein des environnements Cloud Native. Au sein de la communauté Apache Camel, je contribue activement à divers sujets, visant à améliorer les capacités d'intégration des applications Cloud Native, en particulier pour la plateforme Quarkus.
+Je suis Zineb Bendhiba, membre du CApache Camel Project Management et Senior Software Engineer chez Red Hat, spécialisée dans les technologies d'intégration et Open Source. Mon expertise est centrée sur la résolution de défis complexes dans les environnements Cloud Native. Au sein de la communauté Apache Camel, je contribue activement à divers sujets, visant à améliorer les capacités d’intégration des applications Cloud Native, en particulier pour la plateforme Quarkus. Mon travail est motivé par une passion pour développer des solutions pionnières qui façonnent l'avenir de la tech.
