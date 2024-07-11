@@ -30,7 +30,8 @@ You could check my Resume on my [Linkedin profile](https://www.linkedin.com/in/z
 Bonjour, je suis Zineb Bendhiba, développeuse Java open-Source expérimentée qui est passionnée par la résolution de défis complexes dans
 les environnements Cloud Native.
 
-Je pense que Apache Camel est un outil puissant pour connecter différents systèmes. Au sein de la communauté d'Apache Camel, je contribue à divers projets et partage mon expertise en proposant des solutions innovantes.
+Je pense que Apache Camel est un outil puissant pour connecter différents systèmes. Au sein de la communauté d'Apache Camel, je contribue à divers projets et partage mon expertise en proposant des solutions innovantes. En tant que membre du PMC (Project Management Committee) d'Apache Camel,
+j'ai l'honneur de servir et de participer à la direction du projet.
 
 En tant que contributrice active dans la communauté Apache Camel, j'ai acquis des connaissances sur les technologies émergentes comme Kubernetes, Quarkus et GenAI. Je continue à explorer de nouvelles façons d'utiliser ces connaissances pour innover et créer de la valeur.
 
