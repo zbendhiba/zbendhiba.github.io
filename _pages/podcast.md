@@ -27,6 +27,7 @@ permalink: /podcast/
 ### 2024
 
 | -------- | -------- | -------- |
+07-02 | [Tranches de Tech](https://podcast.ausha.co/tranches-de-tech){:target="_blank"} |🇫🇷 Tranches de Tech 10 - Le dev c'est la vie<br>[RECORDING](https://podcast.ausha.co/tranches-de-tech/tranches-de-tech-10) | 
 04-21 | [GeeksBlabla](https://geeksblabla.io/){:target="_blank"}|🇲🇦 #177 DevRel and tech talks<br>[RECORDING](https://www.youtube.com/live/8uKEwWbgRBc?si=H_avqiGTDLyqdUxx) | 
 
 
