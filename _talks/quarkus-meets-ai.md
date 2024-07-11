@@ -14,6 +14,10 @@ Enter Langchain4j, a powerful library designed to seamlessly integrate Java appl
 
 In this talk, we’ll delve into building AI applications powered by LLMs, using Quarkus and Langchain4j. We’ll leverage existing features from the ecosystem to create effective strategies for data ingestion. We’ll demonstrate how to seamlessly bring in information from a broader set of resources, with the power of Apache Camel.
 
+
+#### Recording
+<iframe src="https://www.youtube.com/embed/glQcaVRTlV0" width="560" height="315" frameborder="0"> </iframe>
+
 ### Slides
 - [Blabla conf 2024](https://github.com/zbendhiba/zbendhiba.github.io/tree/main/assets/confs/2024/Blablaconf2024-Quarkus-AI.pdf){:target="_blank"}
 
