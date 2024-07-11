@@ -4,13 +4,13 @@ permalink: /about/
 ---
 
 ### Hello there 👋
-I’m Zineb Bendhiba, an Open Source Java developer with extensive experience, deeply passionate about navigating the complex challenges within Cloud Native environments. I am dedicated to using and contributing to Open Source projects to tackle these challenges.
+Hi, I’m Zineb Bendhiba, an Open Source Java developer with extensive experience, deeply passionate about navigating the complex challenges within Cloud Native environments.  I am dedicated to using and contributing to Open Source projects to tackle these challenges.
 
-I believe in the strength and adaptability of Apache Camel as an integration framework. Within the Apache Camel project, I actively contribute to diverse challenges, demonstrating my ability to innovate and lead in the field. This reflects my enduring commitment to addressing complex problems throughout my career.
+I believe that Apache Camel is an amazing tool for connecting different systems together. Within the Apache Camel community, I contribute to various projects and show my skills by coming up with innovative solutions. This reflects my commitment to tackling complex issues throughout my career.
 
-My engagement in the Apache Camel community has enriched my expertise in cutting-edge Cloud-native technologies, including Kubernetes, Quarkus, serverless architectures, and AI. I continuously explore and implement novel approaches to apply this knowledge in practical, impactful ways.
+Through my work in the Apache Camel community, I've become knowledgeable about cutting-edge technologies like Kubernetes, Quarkus, Serverless and GenAI. I'm always looking for new ways to apply this knowledge and make a positive impact.
 
-Engaged in various open source and women in tech communities, I actively participate as a tech speaker, sharing insights and experiences with fellow enthusiasts.
+I also participate in various open-source and women-in-tech communities as a speaker, sharing my experiences and insights with others who are passionate about tech.
 
 # Facts about me
 - 🖥 I work as a Senior Software Engineer at [Red Hat](https://www.redhat.com/)
@@ -27,4 +27,13 @@ Engaged in various open source and women in tech communities, I actively partici
 You could check my Resume on my [Linkedin profile](https://www.linkedin.com/in/zbendhiba/){:target="_blank"}.
 
 ## Bio in French
-Je suis Zineb Bendhiba, membre du Apache Camel Project Management Committee et Senior Software Engineer chez Red Hat, spécialisée dans les technologies d'intégration et Open Source. Mon expertise est centrée sur la résolution de défis complexes dans les environnements Cloud Native. Au sein de la communauté Apache Camel, je contribue activement à divers sujets, visant à améliorer les capacités d’intégration des applications Cloud Native, en particulier pour la plateforme Quarkus. Mon travail est motivé par une passion pour développer des solutions pionnières qui façonnent l'avenir de la tech.
+Bonjour, je suis Zineb Bendhiba, développeuse Java open-Source expérimentée qui est passionnée par la résolution de défis complexes dans
+les environnements Cloud Native.
+
+Je pense que Apache Camel est un outil puissant pour connecter différentssystèmes. Au sein de la communauté d'Apache Camel, je contribue à divers projets et montre mes compétences en proposant des solutions innovantes.
+
+Grâce à mon travail dans la communauté Apache Camel, j'ai acquis des connaissances sur les technologies émergentes comme Kubernetes, Quarkus et
+GenAI. Je continue à explorer de nouvelles façons d'utiliser ces connaissances pour innover et créer de la valeur.
+
+Je participe également à diverses communautés open-Source et women-in-tech en tant que speaker, partageant mes expériences et connaissances avec
+d'autres passionné.e.s de l'informatique.
