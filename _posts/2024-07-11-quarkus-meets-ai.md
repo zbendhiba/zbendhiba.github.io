@@ -1,4 +1,5 @@
-title:    "Quarkus meets AI: Build your own LLM-powered application"
+---
+title: "Quarkus meets AI: Build your own LLM-powered application"
 categories:
       - Quarkus
       - LangChain4j
@@ -12,7 +13,7 @@ tags:
       - LangChain4j
 ---
 
-I recently had the pleasure of co-presenting a talk with [Dimitrios Andreadis](https://twitter.com/dandreadis){:target="_blank"} at [Devoxx Greece](https://devoxx.gr/){:target="_blank"}, and I'm excited to share the recording with you.
+I recently had the pleasure of co-presenting a talk with [Dimitris Andreadis](https://twitter.com/dandreadis){:target="_blank"} at [Devoxx Greece](https://devoxx.gr/){:target="_blank"}, and I'm excited to share the recording with you.
 
 In this session, we explored how Quarkus, a framework for building Cloud-Native applications in Java, can be used to integrate Large Language Models (LLMs) into your application. We also introduced Langchain4j, a powerful library designed to seamlessly integrate Java applications with
 LLMs.
