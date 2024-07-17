@@ -48,7 +48,7 @@ twitter:
   username               : "ZinebBendhiba"
 mastodon: 
   username               : "@zbendhiba@mastodon.social"
-og_image                 : "/assets/images/zineb_bendhiba_2022.jpg"
+og_image                 : "/assets/images/zineb-bendhiba-2024-cropped.jpg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -69,7 +69,7 @@ analytics:
 # Site Author
 author:
   name             : "Zineb Bendhiba"
-  avatar           : "/assets/images/zineb_bendhiba_2022.jpg"
+  avatar           : "/assets/images/zineb-bendhiba-2024-cropped.jpg"
   bio              : "Apache Camel PMC member & Senior Software Engineer at Red Hat, specializing in Integration and Open Source tech. Passionate about solving complex Cloud Native challenges and advancing integration capabilities."
   location         : "Paris, France"
   links:
