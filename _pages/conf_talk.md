@@ -25,7 +25,8 @@ permalink: /conf/
 
 ## Upcoming
 
-
+| ------------- |---------------|:------:|
+| 10-02 | [Devoxx Morocco](https://devoxx.ma/){:target="_blank"} |🇬🇧 [Quarkus meets AI : Build your own LLM-powered application](/talk/quarkus-ai/) with [Dimitrios Andreadis](https://twitter.com/dandreadis){:target="_blank"} |
 
 
 ## 2024
