@@ -26,6 +26,9 @@ I also participate in various open-source and women-in-tech communities as a spe
 ### Resume
 You could check my Resume on my [Linkedin profile](https://www.linkedin.com/in/zbendhiba/){:target="_blank"}.
 
+### Certifications
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="98007dfb-f456-4271-b2a6-235debd03720" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ## Bio in French
 Bonjour, je suis Zineb Bendhiba, développeuse Java open-Source expérimentée qui est passionnée par la résolution de défis complexes dans
 les environnements Cloud Native.
