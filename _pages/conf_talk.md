@@ -26,6 +26,7 @@ permalink: /conf/
 ## Upcoming
 
 | ------------- |---------------|:------:|
+| 12-04 | [Open Source Experience 2024](https://www.opensource-experience.com/){:target="_blank"}|🇫🇷 [Quarkus et Langchain4j - les clés pour intégrer les LLMs dans vos applications Java](/talk/quarkus-ai-fr/) |
 | 11-25 | [Quarkus Insights](https://quarkus.io/insights/){:target="_blank"} | 🇬🇧 TBD - something AI and Apache Camel |
 | 10-03 | [Devoxx Morocco](https://devoxx.ma/){:target="_blank"} |🇬🇧 [Quarkus meets AI : Build your own LLM-powered application](/talk/quarkus-ai/) with [Dimitrios Andreadis](https://twitter.com/dandreadis){:target="_blank"} |
 
