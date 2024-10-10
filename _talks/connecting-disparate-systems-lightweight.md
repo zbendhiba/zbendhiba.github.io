@@ -19,9 +19,9 @@ By the end of this talk, you'll have the tools and knowledge to connect your Jav
 <iframe src="https://www.youtube.com/embed/dofHDRf-l-Q?si=px1E4pFj5J3EO39T" width="560" height="315" frameborder="0"> </iframe>
 
 #### slides
-- [DevNation MAD Day 2023](https://github.com/zbendhiba/zbendhiba.github.io/tree/main/assets/confs/2023/DevNationDay-MAD20231212.pdf){:target="_blank"}
-- [Accento 2023](https://github.com/zbendhiba/zbendhiba.github.io/tree/main/assets/confs/2023/Accento-20231024.pdf){:target="_blank"}
-- [Devoxx Morocco 2023](https://github.com/zbendhiba/zbendhiba.github.io/tree/main/assets/confs/2023/Connecting-Disparate-systems-devoxxma.pdf){:target="_blank"}
+- [DevNation MAD Day 2023](https://speakerdeck.com/zbendhiba/devnation-connecting-disparate-systems-in-a-lightweight-way){:target="_blank"}
+- [Accento 2023](https://speakerdeck.com/zbendhiba/accento-connecting-disparate-systems-in-a-lightweight-way){:target="_blank"}
+- [Devoxx Morocco 2023](https://speakerdeck.com/zbendhiba/devoxx-ma-connecting-disparate-systems-in-a-lightweight-way){:target="_blank"}
 
 ### demo
 - [Demo](https://github.com/zbendhiba/camel-rest-demo){:target="_blank"}

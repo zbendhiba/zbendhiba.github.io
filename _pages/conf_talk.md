@@ -28,7 +28,7 @@ permalink: /conf/
 | ------------- |---------------|:------:|
 | 12-13 | [ElleStime](https://www.linkedin.com/company/ellestime/about/){:target="_blank"}|🇫🇷 Journée de sensibilisation aux sciences/maths pour des collégien-nes d'Occitanie |
 | 12-04 | [Open Source Experience 2024](https://www.opensource-experience.com/){:target="_blank"}|🇫🇷 [Quarkus et Langchain4j - les clés pour intégrer les LLMs dans vos applications Java](/talk/quarkus-ai-fr/) |
-| 11-25 | [Quarkus Insights](https://quarkus.io/insights/){:target="_blank"} | 🇬🇧 TBD - something AI and Apache Camel |
+| 11-25 | [Quarkus Insights](https://quarkus.io/insights/){:target="_blank"} | 🇬🇧 Apache Camel and AI |
 
 
 ## 2024

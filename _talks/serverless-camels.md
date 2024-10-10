@@ -20,7 +20,7 @@ Attendees should come away from this talk with the following:
 
 
 #### Slides
-- [SLIDES](https://github.com/zbendhiba/zbendhiba.github.io/tree/main/assets/confs/2023/230711-riviera.pdf){:target="_blank"}
+- [SLIDES](https://speakerdeck.com/zbendhiba/a-story-about-serverless-camels-living-in-containers){:target="_blank"}
 
 #### Demo
 - [Camel Quarkus](https://github.com/kdubois/CamelQuarkusVoter){:target="_blank"}

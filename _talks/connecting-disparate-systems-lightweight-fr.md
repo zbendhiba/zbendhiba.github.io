@@ -17,7 +17,7 @@ Ensuite, nous plongerons dans le développement d'une application capable de con
 
 
 #### slides
-- [Open Source Experience 2023](https://github.com/zbendhiba/zbendhiba.github.io/tree/main/assets/confs/2023/OSPX-20231207.pdf){:target="_blank"}
+- [Open Source Experience 2023](https://speakerdeck.com/zbendhiba/nterconnecter-des-systemes-disparates-de-maniere-efficace){:target="_blank"}
 
 #### demo
 - [Open Source Experience 2023](https://github.com/zbendhiba/telegram-kafka/tree/20231207-ospx){:target="_blank"}

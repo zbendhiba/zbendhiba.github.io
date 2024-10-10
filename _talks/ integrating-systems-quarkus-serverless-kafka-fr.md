@@ -24,8 +24,8 @@ Après avoir expliqué quelques concepts essentiels, nous verrons à travers un 
 
 
 #### slides
-- [Alpes JUG 2023](https://github.com/zbendhiba/zbendhiba.github.io/tree/main/assets/confs/2023/20230530-AlpesJUG.pptx){:target="_blank"}
-- [Devoxx France 2022](https://github.com/zbendhiba/zbendhiba.github.io/tree/main/assets/confs/2022/Devoxx_FR_2022_CEQ_talk.pdf){:target="_blank"}
+- [Alpes JUG 2023](https://speakerdeck.com/zbendhiba/alpesjug-integration-a-lere-du-cloud-avec-camel-quarkus){:target="_blank"}
+- [Devoxx France 2022](https://speakerdeck.com/zbendhiba/devoxxfr-integration-a-lere-du-cloud-avec-camel-quarkus){:target="_blank"}
 - [Sunny Tech 2022](https://github.com/zbendhiba/zbendhiba.github.io/tree/main/assets/confs/2022/220630-sunnytech.pdf){:target="_blank"}
 - [DevNation Day France 2022](https://github.com/zbendhiba/zbendhiba.github.io/tree/main/assets/confs/2022/220628-devnationDay.pdf){:target="_blank"}
 - [DevDay AXA 2022](https://github.com/zbendhiba/conference-talks/blob/main/2022/CEQ-DevDay-20220405.pdf){:target="_blank"}
