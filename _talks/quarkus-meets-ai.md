@@ -19,7 +19,10 @@ In this talk, we’ll delve into building AI applications powered by LLMs, using
 <iframe src="https://www.youtube.com/embed/glQcaVRTlV0" width="560" height="315" frameborder="0"> </iframe>
 
 ### Slides
-- [Blabla conf 2024](https://github.com/zbendhiba/zbendhiba.github.io/tree/main/assets/confs/2024/Blablaconf2024-Quarkus-AI.pdf){:target="_blank"}
+- [Devoxx MA and GR](https://speakerdeck.com/zbendhiba/quarkus-meets-ai-build-your-own-llm-powered-application){:target="_blank"}
+- [Blabla conf 2024](https://speakerdeck.com/zbendhiba/blabla-conf-quarkus-meets-ai-build-your-own-llm-powered-application){:target="_blank"}
 
 ### Code
-- [Live Demo](https://github.com/zbendhiba/quarkus-langchain-demo){:target="_blank"}
+- [Devoxx MA and GR](https://github.com/zbendhiba/quarkus-langchain4j/tree/devoxx-ma-2024/samples/sql-chatbot){:target="_blank"}
+- [Blabla conf 2024](https://github.com/zbendhiba/quarkus-langchain-demo){:target="_blank"}
+
