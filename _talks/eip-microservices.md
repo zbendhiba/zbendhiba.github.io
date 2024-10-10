@@ -13,7 +13,7 @@ The flow of information and events through distributed systems goes well beyond 
 <iframe src="https://www.youtube.com/embed/4tjrCP27aHU" width="560" height="315" frameborder="0"> </iframe>
 
 ### Slides
-- [Slides](https://github.com/zbendhiba/zbendhiba.github.io/tree/main/assets/confs/2023/20230914-beyond-rest-eip.pdf){:target="_blank"}
+- [Slides](https://speakerdeck.com/zbendhiba/beyond-rest-and-crud-integration-patterns-in-microservices){:target="_blank"}
 
 ### Code
 - [Live Demo](https://github.com/zbendhiba/camel-rest-demo){:target="_blank"}
