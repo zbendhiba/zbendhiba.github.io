@@ -15,3 +15,6 @@ Voici où entre Langchain4j, une bibliothèque puissante conçue pour intégrer 
 Quarkus est conçu pour construire des applications Cloud-Native en Java, optimisées pour les environnements Kubernetes et offrant des démarrages rapides et une consommation de mémoire réduite par rapport aux applications Java traditionnelles.
 
 Lorsque Quarkus rencontre Langchain4j, le processus de création d'une application Java puissante avec des LLMs devient une expérience agréable. Dans cette présentation, nous allons nous plonger dans la création d'applications AI puissantes avec des LLMs, en utilisant Quarkus et Langchain4j.
+
+### Slides
+- [Open Source Experience 2024](https://speakerdeck.com/zbendhiba/quarkus-et-langchain4j-les-cles-pour-integrer-les-llms-dans-vos-applications-java){:target="_blank"}
