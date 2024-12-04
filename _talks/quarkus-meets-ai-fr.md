@@ -23,4 +23,3 @@ Lorsque Quarkus rencontre Langchain4j, le processus de création d'une applicati
 ### Code
 - [1ère démo](https://github.com/zbendhiba/chat-application-camel-ingestor/tree/osxp-2024){:target="_blank"}
 - [2ème démo](https://github.com/zbendhiba/quarkus-langchain4j/tree/osxp-2024/samples/sql-chatbot){:target="_blank"}
-- [Blabla conf 2024](https://github.com/zbendhiba/quarkus-langchain-demo){:target="_blank"}
