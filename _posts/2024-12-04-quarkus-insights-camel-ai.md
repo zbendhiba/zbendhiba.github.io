@@ -23,7 +23,7 @@ In this session, we briefly introduced Apache Camel. We leveraged Apache Camel L
 The recording is already available.
 <iframe src="https://www.youtube.com/embed/1QbdPt7KaCs" width="560" height="315" frameborder="0"> </iframe>
 
-You can access the presentation slides and code [here](https://speakerdeck.com/zbendhiba/quarkus-insights-number-187-camel-with-ai){:target="_blank"}.
+You can access the presentation slides [here](https://speakerdeck.com/zbendhiba/quarkus-insights-number-187-camel-with-ai){:target="_blank"}.
 
 Links to the demos:
 - [Data ingestion demo](https://github.com/zbendhiba/chat-application-camel-ingestor){:target="_blank"}
