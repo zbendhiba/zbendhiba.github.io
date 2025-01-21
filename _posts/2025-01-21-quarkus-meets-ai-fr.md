@@ -21,6 +21,7 @@ J'ai donné un peu mon avis sur l'importance de s'intéresser à la GenAI et les
 Vous pouvez accéder à l'enregistrement ci-dessous :
 
 <iframe src="https://www.youtube.com/embed/Wr24mA_cT8g" width="560" height="315" frameborder="0"></iframe>
+
 Si vous avez des questions ou des retours, n'hésitez pas à me contacter. J'aimerais beaucoup entendre vos impressions sur ce sujet passionnant !
 
 Bon visionnage !
