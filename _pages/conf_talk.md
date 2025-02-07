@@ -26,12 +26,13 @@ permalink: /conf/
 ## Upcoming
 
 | ------------- |---------------|:------:|
-| 02-06 | [Blabla conf](https://www.blablaconf.com/){:target="_blank"} |🇲🇦 [Leading Beyond Code: My Journey as a Staff Engineer](/talk/staff/) |
+| 04-16 | [Devoxx France](https://www.devoxx.fr/){:target="_blank"}|🇫🇷 [ Créer des Applications Intelligentes avec Quarkus et LangChain4j](/talk/fr-langchain4j/) |
 
 
 ## 2025
 
 | ------------- |---------------|:------:|
+| 02-06 | [Blabla conf](https://www.blablaconf.com/){:target="_blank"} |🇲🇦 [Leading Beyond Code: My Journey as a Staff Engineer](/talk/staff/) |
 | 01-31 | [ElleStime](https://www.linkedin.com/company/ellestime/about/){:target="_blank"}|🇫🇷 Journée de sensibilisation aux sciences/maths pour des collégien-nes de la Franche Comté |
 
 ## 2024
