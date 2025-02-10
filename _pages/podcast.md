@@ -24,6 +24,12 @@ permalink: /podcast/
   }
 </style>
 
+### 2025
+
+| -------- | -------- | -------- |
+02-07 | [Tronche de Tech](https://www.linkedin.com/company/tronche-de-tech/){:target="_blank"} |🇫🇷 Se lancer dans l'open source à 100% (et en vivre !)<br>[RECORDING](https://youtu.be/Xazuo7Rva2Y?si=JHs6G_tFOYfnqSLR) | 
+
+
 ### 2024
 
 | -------- | -------- | -------- |
