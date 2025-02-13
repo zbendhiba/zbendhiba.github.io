@@ -2,10 +2,8 @@
 title: "Tronche de Tech: Vivre d'Open Source"
 categories:
       - career
-      - open source
 tags:
       - career
-      - open source
 ---
 
 Il y a quelques jours, j’ai eu le plaisir d’être interviewée par [Mathieu Sanchez](https://www.linkedin.com/in/matsanchez/) sur [Tronche de Tech](https://www.linkedin.com/company/tronche-de-tech/). Une expérience intense et authentique.
