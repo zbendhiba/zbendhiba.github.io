@@ -13,11 +13,11 @@ Il y a quelques jours, j’ai eu le plaisir d’être interviewée par [Mathieu 
 ![](/assets/images/troncheTech.jpg)
 
 On a parlé de tout :
-🎙️ Mon parcours, les hauts, les bas
-💥 Un licenciement qui bouscule
-🔄 Le retour du management vers le code
-🔥 Et surtout, mon aventure dans l’open source
-… et bien d’autres choses encore.
+- 🎙️ Mon parcours, les hauts, les bas
+- 💥 Un licenciement qui bouscule
+- 🔄 Le retour du management vers le code
+- 🔥 Et surtout, mon aventure dans l’open source
+- … et bien d’autres choses encore.
 
 Je vous laisse découvrir cet épisode où je partage mon chemin, mes doutes, mes réussites.
 
