@@ -21,14 +21,13 @@ On a parlé de tout :
 
 Je vous laisse découvrir cet épisode où je partage mon chemin, mes doutes, mes réussites.
 
-Les liens :
+Pour visionner le podcast:
 <iframe src="https://www.youtube.com/embed/Xazuo7Rva2Y" width="560" height="315" frameborder="0"></iframe>
 
 
-Spotify : https://open.spotify.com/episode/4SrUluUT0DkeQMTMNzstYp
-
-Apple Podcast : https://podcasts.apple.com/us/podcast/40-zineb-bendhiba-vivre-dopen-source/id1692421892
-
-Deezer : https://deezer.page.link/iYrJ6JccuvZzTRtt9
+Les liens pour écouter:
+- [Spotify](https://open.spotify.com/episode/4SrUluUT0DkeQMTMNzstYp)
+- [Apple Podcast](https://podcasts.apple.com/us/podcast/40-zineb-bendhiba-vivre-dopen-source/id1692421892)
+- [Deezer](https://deezer.page.link/iYrJ6JccuvZzTRtt9)
 
 Hâte d’avoir vos retours ! 😊
