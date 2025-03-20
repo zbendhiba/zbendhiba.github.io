@@ -26,6 +26,9 @@ permalink: /conf/
 ## Upcoming
 
 | ------------- |---------------|:------:|
+| 07-08 | [Riviera DEV](https://rivieradev.fr/){:target="_blank"}|🇫🇷 [MCP en action - Connecter les IA aux systèmes d’entreprise](/talk/mcp-in-action-fr/) |
+| 07-08 | [Riviera DEV](https://rivieradev.fr/){:target="_blank"}|🇫🇷 [Communauté, tu aideras. Sagesse et force, tu gagneras](/talk/contribution-fr/) |
+| 04-17 | [Devoxx France](https://www.devoxx.fr/){:target="_blank"}|🇫🇷 [ Meet with an OSS project: LangChain4j](https://www.devoxx.fr/agenda-2025/talk/?id=121005) |
 | 04-16 | [Devoxx France](https://www.devoxx.fr/){:target="_blank"}|🇫🇷 [ Créer des Applications Intelligentes avec Quarkus et LangChain4j](/talk/fr-langchain4j/) |
 
 
