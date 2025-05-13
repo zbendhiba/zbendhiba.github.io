@@ -13,7 +13,7 @@ Cette présentation montre comment la combinaison de Quarkus et de LangChain4j p
 
 
 #### Recording
-<iframe src="https://www.youtube.com/embed/d_2jk8KbQHU" width="560" height="315" frameborder="0"> </iframe>
+-  [Devoxx FR](https://www.youtube.com/watch?v=d_2jk8KbQHU)
 
 ### Slides
 - [Devoxx FR](https://drive.google.com/file/d/1ZugtW6fuYGR1qQAgOsB07ruBloia2tmt/view){:target="_blank"}
