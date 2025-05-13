@@ -14,3 +14,9 @@ L’intelligence artificielle progresse rapidement, mais un défi persiste : con
 Dans ce talk, je vous proposerai une exploration de MCP à travers Wanaku{:target="_blank"}, un serveur MCP open source basé sur [Quarkus](https://quarkus.io/){:target="_blank"} et [Apache Camel](https://camel.apache.org/){:target="_blank"}, développé au sein de mon équipe pour simplifier ces intégrations. Je partagerai notre retour d’expérience sur son développement, les défis rencontrés et les enseignements tirés, tout en montrant comment MCP, combiné à des technologies Java modernes, permet de connecter les IA aux données d’entreprise de façon fluide et sécurisée.
 
 Rejoignez-moi pour découvrir comment ce protocole ouvre la voie à des systèmes d’IA plus connectés et plus intelligents !
+
+### Slides
+- [Paris JUG](https://speakerdeck.com/zbendhiba/mcp-in-action-parisjug){:target="_blank"}
+
+### Code
+- [Paris JUG](https://github.com/zbendhiba/mcp-demos){:target="_blank"}
