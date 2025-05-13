@@ -12,4 +12,11 @@ Dans le contexte dynamique de l’intelligence artificielle, intégrer des (gran
 Cette présentation montre comment la combinaison de Quarkus et de LangChain4j permet de créer des applications intelligentes répondant aux contraintes des entreprises. En partant des principes fondamentaux, nous vous guiderons pour transformer une application Quarkus de base afin de répondre aux standards des applications d’entreprise. Découvrez comment intégrer l’observabilité, les mécanismes de résilience, l’audit, et l’implementation du RAG, les garde-corps, assurant ainsi une intégration complète des LLMs dans vos applications.
 
 
+#### Recording
+<iframe src="https://www.youtube.com/embed/d_2jk8KbQHU" width="560" height="315" frameborder="0"> </iframe>
 
+### Slides
+- [Devoxx FR](https://drive.google.com/file/d/1ZugtW6fuYGR1qQAgOsB07ruBloia2tmt/view){:target="_blank"}
+
+### Code
+- [Devoxx FR](https://github.com/cescoffier/quarkus-langchain4j-demo){:target="_blank"}
