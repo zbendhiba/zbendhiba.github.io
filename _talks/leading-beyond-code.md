@@ -10,5 +10,8 @@ Hi, I'm Zineb. As a Moroccan developer who fell into open source, I've learned a
 
 In this talk, I'll share my story: how I found my way, what I learned along the way, and what I wish I had known when I started out on this journey.
 
+## Recording
+<iframe src="https://www.youtube.com/embed/XGAvqEpjavU" width="560" height="315" frameborder="0"></iframe>
+
 ### Slides
 - [BlablaConf 2025](https://speakerdeck.com/zbendhiba/leading-beyond-code-my-journey-as-a-staff-engineer){:target="_blank"}
