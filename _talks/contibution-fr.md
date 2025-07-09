@@ -15,3 +15,6 @@ Maître Yoda vous le dira: Comme pour les jedis, petits pas, tu feras. Niveaux d
 Les communautés tech ont besoin de vos contributions, les petites encore plus que les grandes!
 
 Au cours de cette discussion, nous allons casser toutes vos idées reçues: Et nous avons bien des astuces et autres retours d’expérience à partager avec vous, quelque soit votre niveau de sagesse en contribution.
+
+#### slides
+- [Riviera Dev 2025](https://speakerdeck.com/zbendhiba/communaute-tu-aideras-sagesse-et-force-tu-gagneras){:target="_blank"}
