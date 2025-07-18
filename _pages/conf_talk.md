@@ -26,13 +26,14 @@ permalink: /conf/
 ## Upcoming
 
 | ------------- |---------------|:------:|
-| 07-09 | [Riviera DEV](https://rivieradev.fr/){:target="_blank"}|🇫🇷 [Communauté, tu aideras. Sagesse et force, tu gagneras](/talk/contribution-fr/) |
-| 07-08 | [Riviera DEV](https://rivieradev.fr/){:target="_blank"}|🇫🇷 [MCP en action - Connecter les IA aux systèmes d’entreprise](/talk/mcp-in-action-fr/) |
+| 11-07 | [ElleStime](https://www.linkedin.com/company/ellestime/about/){:target="_blank"}|🇫🇷 Journée de sensibilisation aux sciences/maths pour des collégien-nes de l'Académie Tours Orléans |
 
 ## 2025
 
 | ------------- |---------------|:------:|
-| 05-13 | [Paris JUG](https://www.parisjug.org/){:target="_blank"}|🇫🇷 [MCP en action - Connecter les IA aux systèmes d’entreprise](/talk/mcp-in-action-fr/) |
+| 07-09 | [Riviera DEV](https://rivieradev.fr/){:target="_blank"}|🇫🇷 [Communauté, tu aideras. Sagesse et force, tu gagneras](/talk/contribution-fr/) |
+| 07-08 | [Riviera DEV](https://rivieradev.fr/){:target="_blank"}|🇫🇷 [MCP en action - Connecter les IA aux systèmes d'entreprise](/talk/mcp-in-action-fr/) |
+| 05-13 | [Paris JUG](https://www.parisjug.org/){:target="_blank"}|🇫🇷 [MCP en action - Connecter les IA aux systèmes d'entreprise](/talk/mcp-in-action-fr/) |
 | 04-17 | [Devoxx France](https://www.devoxx.fr/){:target="_blank"}|🇫🇷 [ Meet with an OSS project: LangChain4j](https://www.devoxx.fr/agenda-2025/talk/?id=121005) |
 | 04-17 | [Devoxx France](https://www.devoxx.fr/){:target="_blank"}|🇫🇷 [ Meet with an OSS project: Quarkus](https://www.devoxx.fr/en/agenda-2025/talk/meet-with-an-oss-project-quarkus/) |
 | 04-16 | [Devoxx France](https://www.devoxx.fr/){:target="_blank"}|🇫🇷 [ Créer des Applications Intelligentes avec Quarkus et LangChain4j](/talk/fr-langchain4j/) |
