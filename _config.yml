@@ -55,9 +55,10 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - https://twitter.com/ZinebBendhiba
+    - https://x.com/ZinebBendhiba
     - https://github.com/zbendhiba
     - https://mastodon.social/@zbendhiba
+    - https://bsky.app/profile/zinebbendhiba.com
 
 # Analytics
 analytics:
@@ -75,7 +76,7 @@ author:
   links:
     - label: "X"
       icon: "fab fa-fw fa-x-twitter"
-      url: "https://twitter.com/ZinebBendhiba"
+      url: "https://x.com/ZinebBendhiba"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/zbendhiba"
@@ -101,7 +102,7 @@ footer:
   links:
     - label: "X"
       icon: "fab fa-fw fa-x-twitter"
-      url: "https://twitter.com/ZinebBendhiba"
+      url: "https://x.com/ZinebBendhiba"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/zbendhiba"
