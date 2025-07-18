@@ -74,7 +74,7 @@ author:
   location         : "Paris, France"
   links:
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-x-twitter"
       url: "https://twitter.com/ZinebBendhiba"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -82,6 +82,9 @@ author:
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
       url: "https://mastodon.social/@zbendhiba"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/yourhandle.bsky.social"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube-square"
       url: "https://www.youtube.com/@zinebbendhiba"
@@ -94,7 +97,7 @@ author:
 footer:
   links:
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-x-twitter"
       url: "https://twitter.com/ZinebBendhiba"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -102,6 +105,9 @@ footer:
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
       url: " https://mastodon.social/@zbendhiba"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/yourhandle.bsky.social"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube-square"
       url: "https://www.youtube.com/@zinebbendhiba"
