@@ -1,8 +1,6 @@
 ---
-layout: single
 title: 🇬🇧 Openshift Commons - Integration in OpenShift
 permalink: /talk/openshift-commons-2021/
-author_profile: true
 ---
 
 #### Co-talk with [María Arias de Reyna Dominguez](https://twitter.com/delawen){:target="_blank"} and [Rachel Yordán](https://twitter.com/nerdycode){:target="_blank"}

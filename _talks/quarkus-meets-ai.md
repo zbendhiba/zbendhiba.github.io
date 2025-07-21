@@ -1,8 +1,6 @@
 ---
-layout: single
 title: 🇬🇧🇲🇦  Quarkus meets AI - Build your own LLM-powered application
 permalink: /talk/quarkus-ai/
-author_profile: true
 ---
 
 

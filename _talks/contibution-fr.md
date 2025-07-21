@@ -1,8 +1,6 @@
 ---
-layout: single
 title: 🇫🇷 Communauté, tu aideras. Sagesse et force, tu gagneras
 permalink: /talk/contribution-fr/
-author_profile: true
 ---
 
 #### Abstract et talk préparé avec [Shérine Khoury](https://www.linkedin.com/in/sh%C3%A9rine-khoury-437758a/){:target="_blank"}

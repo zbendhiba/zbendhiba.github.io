@@ -1,8 +1,6 @@
 ---
-layout: single
 title: 🇫🇷 Améliorez votre intégration de systèmes avec Apache Camel Quarkus
 permalink: /lab/camel-quarkus-workshop-fr/
-author_profile: true
 ---
 
 #### Abstract et Workshop préparé avec [Alexandre Gallice](https://twitter.com/AlexGallice){:target="_blank"}

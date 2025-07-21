@@ -1,8 +1,6 @@
 ---
-layout: single
 title: 🇬🇧  Connecting disparate systems in a lightweight way
 permalink: /talk/connecting-disparate-systems/
-author_profile: true
 ---
 
 #### Abstract

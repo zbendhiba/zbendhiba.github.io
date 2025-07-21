@@ -1,8 +1,6 @@
 ---
-layout: single
 title: 🇫🇷 Intégration à l'ère du cloud avec Camel Quarkus
 permalink: /talk/integrating-systems-quarkus-serverless-kafka-fr/
-author_profile: true
 ---
 
 #### Abstract et talk préparé avec [Alexandre Gallice](https://twitter.com/AlexGallice){:target="_blank"}

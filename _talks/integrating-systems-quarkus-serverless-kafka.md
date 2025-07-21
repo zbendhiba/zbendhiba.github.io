@@ -1,8 +1,6 @@
 ---
-layout: single
 title: 🇬🇧  Integrating systems in the age of Quarkus, serverless and Kafka
 permalink: /talk/integrating-systems-quarkus-serverless-kafka/
-author_profile: true
 ---
 
 #### Abstract and talk prepared with  [Peter Palaga](https://twitter.com/ppalaga){:target="_blank"}

@@ -1,8 +1,6 @@
 ---
-layout: single
 title: 🇬🇧  Scaling Camel to the Cloud
 permalink: /talk/scaling-camel-cloud/
-author_profile: true
 ---
 
 

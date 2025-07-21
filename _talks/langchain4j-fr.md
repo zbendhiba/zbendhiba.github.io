@@ -1,8 +1,6 @@
 ---
-layout: single
 title: 🇫🇷 Créer des Applications Intelligentes avec Quarkus et LangChain4j
 permalink: /talk/fr-langchain4j/
-author_profile: true
 ---
 
 #### Co-talk with [Clément Escoffier](http://linkedin.com/in/clementescoffier/){:target="_blank"}

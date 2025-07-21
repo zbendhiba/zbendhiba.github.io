@@ -1,8 +1,6 @@
 ---
-layout: single
 title: 🇫🇷 Quarkus et Langchain4j - les clés pour intégrer les LLMs dans vos applications Java
 permalink: /talk/quarkus-ai-fr/
-author_profile: true
 ---
 
 

@@ -1,8 +1,6 @@
 ---
-layout: single
 title: 🇫🇷 MCP en action - Connecter les IA aux systèmes d’entreprise
 permalink: /talk/mcp-in-action-fr/
-author_profile: true
 ---
 
 #### Abstract

@@ -1,8 +1,6 @@
 ---
-layout: single
 title: 🇫🇷 Interconnecter des systèmes disparates de manière efficace
 permalink: /talk/connecting-disparate-systems-fr/
-author_profile: true
 ---
 
 #### Abstract

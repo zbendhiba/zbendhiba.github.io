@@ -1,8 +1,6 @@
 ---
-layout: single
 title: 🇬🇧  Cloud Native Java Development with Quarkus
 permalink: /lab/quarkus/
-author_profile: true
 ---
 
 #### Workshop with [Kevin Dubois](https://twitter.com/kevindubois){:target="_blank"}

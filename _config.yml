@@ -120,6 +120,12 @@ footer:
       url: "https://bsky.app/profile/zinebbendhiba.com"
 
 
+# Collections
+collections:
+  talks:
+    output: true
+    permalink: /talk/:name/
+
 # Reading Files
 include:
   - .htaccess
@@ -255,7 +261,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       share: true
       related: true
@@ -265,5 +271,14 @@ defaults:
       path: "_pages"
       type: pages
     values:
+      layout: splash
+      author_profile: false
+  # _talks
+  - scope:
+      path: "_talks"
+      type: talks
+    values:
       layout: single
-      author_profile: true
+      author_profile: false
+      read_time: true
+      share: true

@@ -1,8 +1,6 @@
 ---
-layout: single
 title: 🇬🇧 Beyond REST and CRUD - Integration patterns in Microservices
 permalink: /talk/eip-microservices/
-author_profile: true
 ---
 
 #### Co-talk with [Erin Schnabel](https://www.linkedin.com/in/erinschnabel/){:target="_blank"}

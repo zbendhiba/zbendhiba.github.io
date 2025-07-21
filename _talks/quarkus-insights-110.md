@@ -1,8 +1,6 @@
 ---
-layout: single
 title: 🇬🇧 Quarkus Insights - Episode 110 - Apache Camel
 permalink: /talk/quarkus-insights-110/
-author_profile: true
 ---
 
 #### Co-talk with [Claus Ibsen](https://twitter.com/davsclaus){:target="_blank"} and [Peter Palaga](https://twitter.com/ppalaga){:target="_blank"}

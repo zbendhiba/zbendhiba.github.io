@@ -1,8 +1,6 @@
 ---
-layout: single
 title: 🇬🇧 Serverless Integration with Camel Quarkus
 permalink: /talk/serverless-integration-camel/
-author_profile: true
 ---
 
 #### Co-talk with [Kevin Dubois](https://twitter.com/kevindubois){:target="_blank"}

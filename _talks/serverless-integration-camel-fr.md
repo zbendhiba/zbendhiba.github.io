@@ -1,8 +1,6 @@
 ---
-layout: single
 title: 🇫🇷 Intégration Serverless avec Apache Camel
 permalink: /talk/serverless-integration-camel-fr/
-author_profile: true
 ---
 
 Dans un univers informatique dont l'expansion ne cesse d'accélérer, le besoin de faire communiquer des systèmes disparates se renforce jour après jour. D’autre part, la conteneurisation des applications et le serverless prennent aussi de plus en plus part de nos architectures logicielles.

@@ -1,8 +1,6 @@
 ---
-layout: single
 title: 🇬🇧 🇲🇦 Supersonic Subatomic Apache Camel
 permalink: /talk/supersonic-subatomic-apache-camel/
-author_profile: true
 ---
 
 

@@ -1,8 +1,6 @@
 ---
-layout: single
 title: 🇲🇦 Leading Beyond Code - My Journey as a Staff Engineer
 permalink: /talk/staff/
-author_profile: true
 ---
 
 
