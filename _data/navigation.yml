@@ -2,13 +2,13 @@
 main:
   - title: "Home"
     url: /
-  - title: "Blog"
-    url: /year-archive/
+  # - title: "Blog"
+  #   url: /year-archive/
   - title: "Talks"
     url: /conf/
   - title: "Podcasts"
     url: /podcast/
-  - title: "Publications"
+  - title: "Articles"
     url: /publications/
-  - title: "About"
-    url: /about/
+  - title: "Bio"
+    url: /bio/
