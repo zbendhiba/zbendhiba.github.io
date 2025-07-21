@@ -70,8 +70,8 @@ analytics:
 # Site Author
 author:
   name             : "Zineb Bendhiba"
-  avatar           : "/assets/images/zineb-bendhiba-2024-cropped.jpg"
-  bio              : "I'm Principal Software Engineer at Red Hat, where I contribute to the Apache Camel project. As we shape the future of integration within the open source community, I work with others across the developer community to drive progress, adoption, and innovation. I'm passionate about making open source integration more accessible, user-friendly, and greater for all."
+  avatar           : "/assets/images/zineb-bendhiba_2019.jpg"
+  bio              : ""
   location         : "Paris, France"
   links:
     - label: "X"
