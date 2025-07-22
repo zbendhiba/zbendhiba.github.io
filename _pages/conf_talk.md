@@ -86,7 +86,7 @@ permalink: /conf/
 | ------------- |---------------|:------:|
 | 12-13 | [ElleStime](https://www.linkedin.com/company/ellestime/about/){:target="_blank"}|🇫🇷 Journée de sensibilisation aux sciences/maths pour des collégien-nes d'Occitanie |
 | 12-04 | [Open Source Experience 2024](https://www.opensource-experience.com/){:target="_blank"}|🇫🇷 [Quarkus et Langchain4j - les clés pour intégrer les LLMs dans vos applications Java](/talk/quarkus-ai-fr/) |
-| 11-25 | [Quarkus Insights](https://quarkus.io/insights/){:target="_blank"} | 🇬🇧 Apache Camel and AI |
+| 11-25 | [Quarkus Insights](https://quarkus.io/insights/){:target="_blank"} | 🇬🇧 [Apache Camel and AI](https://www.youtube.com/live/1QbdPt7KaCs){:target="_blank"} |
 | 10-03 | [Devoxx Morocco](https://devoxx.ma/){:target="_blank"} |🇬🇧 [Quarkus meets AI : Build your own LLM-powered application](/talk/quarkus-ai/) with [Dimitrios Andreadis](https://twitter.com/dandreadis){:target="_blank"} |
 | 05-07 | [Red Hat Summit](https://www.redhat.com/en/summit){:target="_blank"} |🇬🇧 [Bring the power of AI and LLM to containerized Java/Quarkus applications](https://events.experiences.redhat.com/widget/redhat/sum24/SessionCatalog2024/session/1700234342519001ysdD){:target="_blank"} with Codrin Bucur |
 | 05-07 | [Red Hat Summit](https://www.redhat.com/en/summit){:target="_blank"} |🇬🇧 [Connecting disparate systems with the Red Hat Build of Apache Camel and Red Hat AMQ](https://events.experiences.redhat.com/widget/redhat/sum24/SessionCatalog2024/session/1699980725554001O7SR){:target="_blank"} with [Kevin Dubois](https://twitter.com/kevindubois){:target="_blank"} |
