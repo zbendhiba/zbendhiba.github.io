@@ -1,5 +1,5 @@
 ---
-title: "MCP Servers"
+title: "If This Then Dev: MCP Servers"
 categories:
       - AI
       - MCP
