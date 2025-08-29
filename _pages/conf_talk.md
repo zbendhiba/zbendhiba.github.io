@@ -68,6 +68,7 @@ permalink: /conf/
 
 | ------------- |---------------|:------:|
 | 11-07 | [ElleStime](https://www.linkedin.com/company/ellestime/about/){:target="_blank"}|🇫🇷 Journée de sensibilisation aux sciences/maths pour des collégien-nes de l'Académie Tours Orléans |
+| 10-09 | [Devoxx Belgium](https://www.devoxx.fr/){:target="_blank"}|🇫🇷 [ MCP in Action: Connecting AI to Enterprise Systems](/talk/mcp-in-action/) |
 
 ## 2025
 
