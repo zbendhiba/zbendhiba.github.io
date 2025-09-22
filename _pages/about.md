@@ -4,20 +4,15 @@ permalink: /bio/
 ---
 
 ### Hello there 👋
-Hi, I’m Zineb Bendhiba, I'm Principal Software Engineer at Red Hat, where I contribute to the Apache Camel project. As we shape the future of integration within the open source community, I work with others across the developer community to drive progress, adoption, and innovation. I'm passionate about making open source integration more accessible, user-friendly, and greater for all.
+I'm Zineb Bendhiba, a Principal Software Engineer (ex Red Hat) at IBM. My work is defined by a clear mission: creating useful and impactful solutions for users.
 
-When not coding, you can find me sharing knowledge and insights as a speaker at conferences, panelist or guest on tech podcasts, discussing the latest trends and innovations in technology.
+I'm a strong believer in the power of open source. I actively contribute to the solutions of tomorrow by innovating and collaborating with the community. My passion for learning drives me to build libraries and tools that can keep up with constant technological evolution.
 
-# Facts about me
-- 🖥 I work as a Principal Software Engineer at [Red Hat](https://www.redhat.com/)
-- 🐪 I actively contribute to [Apache Camel](https://camel.apache.org/){:target="_blank"} as a committer and member of the Project Management Committee (PMC).
-- 🔭 Currently, I am involved in enhancing [Apache Camel extensions for Quarkus](https://camel.apache.org/camel-quarkus){:target="_blank"}.
-- 🗣 You can catch me speaking at various conferences. Check out my [Talks](/conf) and [Podcasts](/podcast) pages. 
-- 😎 I proudly serve as a member of the CFP committee for Devoxx France and Devoxx Morocco conferences since 2022.
-- 👯‍♀️ I am an active member of the [Duchess France](https://www.duchess-france.fr/) community (Board member from March 2021 to July 2023).
-- 📚 I enjoy writing articles on various tech topics. Check out [my articles on magazines and other websites](/publications).
-- 😄 Pronouns: She / Her / Hers
-- 💃 Dancing is my favorite way to unwind!
+I'm a committer and PMC member for the Apache Camel project. My leadership has a wide-scale impact. I serve as a main maintainer for Camel Quarkus and contribute to Camel AI. I'm also proud to have helped shape the ideas for new projects like Wanaku and Kaoto.
+
+Beyond the code, I am deeply involved in the developer and Java communities. I love sharing knowledge by speaking at conferences like Devoxx. I also write articles and am a guest on tech podcasts. I'm proud to be an alumna of the Duchess France community.
+
+When I'm not with my family or exploring new places, you can find me pursuing my two passions of building open-source projects and dancing, or investing time in my personal development.
 
 ### Resume
 You could check my Resume on my [Linkedin profile](https://www.linkedin.com/in/zbendhiba/){:target="_blank"}.
