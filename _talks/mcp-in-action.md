@@ -13,9 +13,13 @@ In this talk, I will introduce MCP through [Wanaku](https://wanaku.ai/){:target=
 
 Join me to explore how this protocol is paving the way for more connected and intelligent AI systems!
 
+### Recording
+<iframe src="https://www.youtube.com/embed/H82o1OcrZGg" width="560" height="315" frameborder="0"> </iframe>
+
 ### Slides
-- [October 9th, Devoxx Belgium](https://speakerdeck.com/zbendhiba/mcp-in-action-devoxx){:target="_blank"}
-- [September 18th, Amadeus](https://speakerdeck.com/zbendhiba/mcp-in-action-connecting-ai-to-enterprise-systems-sept-2025){:target="_blank"}
+- [October 9th, 2025 - Devoxx Belgium](https://speakerdeck.com/zbendhiba/mcp-in-action-devoxx){:target="_blank"}
+- [September 18th, 2025 - Amadeus](https://speakerdeck.com/zbendhiba/mcp-in-action-connecting-ai-to-enterprise-systems-sept-2025){:target="_blank"}
 
 ### Code
-- [[September 18th, Amadeus]](https://github.com/zbendhiba/mcp-demos-2){:target="_blank"}
+- [[October 9th, 2025 - Devoxx Belgium]](https://github.com/zbendhiba/mcp-demos-2/tree/devoxx-final){:target="_blank"}
+- [[September 18th, 2025 - Amadeus]](https://github.com/zbendhiba/mcp-demos-2){:target="_blank"}
