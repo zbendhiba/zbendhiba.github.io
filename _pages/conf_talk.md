@@ -68,11 +68,11 @@ permalink: /conf/
 
 | ------------- |---------------|:------:|
 | 11-07 | [ElleStime](https://www.linkedin.com/company/ellestime/about/){:target="_blank"}|🇫🇷 Journée de sensibilisation aux sciences/maths pour des collégien-nes de l'Académie Tours Orléans |
-| 10-09 | [Devoxx Belgium](https://www.devoxx.fr/){:target="_blank"}|🇫🇷 [ MCP in Action: Connecting AI to Enterprise Systems](/talk/mcp-in-action/) |
 
 ## 2025
 
 | ------------- |---------------|:------:|
+| 10-09 | [Devoxx Belgium](https://www.devoxx.fr/){:target="_blank"}|🇫🇷 [ MCP in Action: Connecting AI to Enterprise Systems](/talk/mcp-in-action/) |
 | 07-09 | [Riviera DEV](https://rivieradev.fr/){:target="_blank"}|🇫🇷 [Communauté, tu aideras. Sagesse et force, tu gagneras](/talk/contribution-fr/) |
 | 07-08 | [Riviera DEV](https://rivieradev.fr/){:target="_blank"}|🇫🇷 [MCP en action - Connecter les IA aux systèmes d'entreprise](/talk/mcp-in-action-fr/) |
 | 05-13 | [Paris JUG](https://www.parisjug.org/){:target="_blank"}|🇫🇷 [MCP en action - Connecter les IA aux systèmes d'entreprise](/talk/mcp-in-action-fr/) |
