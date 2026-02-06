@@ -4,6 +4,8 @@ layout: :theme/page
 link: /talk/quarkus-ai/
 ---
 
+# 🇬🇧🇲🇦  Quarkus meets AI - Build your own LLM-powered application
+
 In today's dynamic AI landscape, the seamless integration of Large Language Models (LLMs) into applications is a key focus for developers. While many initiatives have emerged to facilitate the integration of LLMs, the world of Java has seen limited options.
 
 Enter Langchain4j, a powerful library designed to seamlessly integrate Java applications with LLMs. The excitement amplifies Langchain4j into Quarkus, a framework designed for building Cloud-Native applications in Java. Quarkus is tuned for Kubernetes environments boasting faster startup times and reduced memory usage compared to traditional Java applications. When Quarkus meets Langchain4j, the process of building a Java LLM-powered application becomes an enjoyable experience.

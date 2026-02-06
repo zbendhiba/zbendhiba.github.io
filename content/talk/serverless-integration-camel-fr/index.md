@@ -4,6 +4,8 @@ layout: :theme/page
 link: /talk/serverless-integration-camel-fr/
 ---
 
+# 🇫🇷 Intégration Serverless avec Apache Camel
+
 Dans un univers informatique dont l'expansion ne cesse d'accélérer, le besoin de faire communiquer des systèmes disparates se renforce jour après jour. D'autre part, la conteneurisation des applications et le serverless prennent aussi de plus en plus part de nos architectures logicielles.
 
 Développé en Java, le projet Open Source [Camel Quarkus](https://camel.apache.org/camel-quarkus/) fournit avec ses 350 connecteurs une réponse prouvée à ce besoin toujours croissant d'intégration entre systèmes. Il a su s'adapter avec le "move to the Cloud", en offrant des runtime adaptés aux environnements Kubernetes et Knative.

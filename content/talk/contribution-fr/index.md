@@ -4,6 +4,8 @@ layout: :theme/page
 link: /talk/contribution-fr/
 ---
 
+# 🇫🇷 Communauté, tu aideras. Sagesse et force, tu gagneras
+
 #### Abstract et talk préparé avec [Shérine Khoury](https://www.linkedin.com/in/sh%C3%A9rine-khoury-437758a/)
 
 Qu'avez vous pensé en lisant ce titre?

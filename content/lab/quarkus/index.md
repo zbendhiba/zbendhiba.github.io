@@ -4,6 +4,8 @@ link: /lab/quarkus/
 layout: :theme/page
 ---
 
+# 🇬🇧  Cloud Native Java Development with Quarkus
+
 #### Workshop with [Kevin Dubois](https://twitter.com/kevindubois)
 
 Java is a great programming language, however 'traditional' Java isn't so great to work with when it comes to modern, Cloud Native development. Quarkus is a (fairly) new Java stack that addresses issues such as the typical slow startup time and rather large memory usage that hinder the adoption of Java in container and/or Serverless workloads. Quarkus is not just useful for optimizing resource usage though. There is also a big focus on improving the developer experience.

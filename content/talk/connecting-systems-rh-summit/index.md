@@ -4,6 +4,8 @@ layout: :theme/page
 link: /talk/connecting-systems-rh-summit/
 ---
 
+# 🇬🇧  Connecting disparate systems with the Red Hat Build of Apache Camel and Red Hat AMQ
+
 #### Abstract
 
 Have you ever struggled with connecting systems in a cloud-native environment? This is a common challenge for many microservices architectures. To address this challenge, we'll introduce the Red Hat build of Apache Camel and Red Hat AMQ. In this talk, we'll explore tools and approaches to help you break down silos and seamlessly integrate your microservices with external systems, allowing for faster development cycles and more efficient integration.

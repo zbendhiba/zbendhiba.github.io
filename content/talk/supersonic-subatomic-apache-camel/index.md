@@ -4,6 +4,7 @@ link: /talk/supersonic-subatomic-apache-camel/
 layout: :theme/page
 ---
 
+# 🇬🇧 🇲🇦 Supersonic Subatomic Apache Camel
 
 In this talk, we will discover how the joy of developing with Quarkus can be applied to Apache Camel. We will see how easy it is to develop and deploy supersonic integration connectors with Java that startup in just a few milliseconds.
 

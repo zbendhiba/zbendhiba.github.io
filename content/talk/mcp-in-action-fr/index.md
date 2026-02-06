@@ -4,6 +4,8 @@ layout: :theme/page
 link: /talk/mcp-in-action-fr/
 ---
 
+# 🇫🇷 MCP en action - Connecter les IA aux systèmes d'entreprise
+
 #### Abstract
 
 L'intelligence artificielle progresse rapidement, mais un défi persiste : connecter efficacement les agents d'IA aux systèmes où résident les données. Chaque nouvelle source de données requiert une intégration spécifique, limitant la scalabilité et la pertinence des modèles.

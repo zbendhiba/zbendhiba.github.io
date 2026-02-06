@@ -4,6 +4,8 @@ layout: :theme/page
 link: /lab/camel-quarkus-workshop-fr/
 ---
 
+# 🇫🇷 Améliorez votre intégration de systèmes avec Apache Camel Quarkus
+
 #### Abstract et Workshop préparé avec [Alexandre Gallice](https://twitter.com/AlexGallice)
 
 L'interconnectivité des systèmes informatiques est essentielle à mesure que la technologie évolue. [Apache Camel](https://camel.apache.org/) est un projet Open Source fiable et bien établi qui fournit plus de 350 connecteurs pour répondre aux besoins croissants d'intégration entre les systèmes.

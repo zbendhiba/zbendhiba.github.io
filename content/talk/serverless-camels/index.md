@@ -4,6 +4,8 @@ layout: :theme/page
 link: /talk/serverless-camels/
 ---
 
+# 🇬🇧 A Story about Serverless Camels Living in Containers
+
 #### Co-talk with [Kevin Dubois](https://twitter.com/kevindubois)
 
 When you build an application you will undoubtedly need to integrate it with other applications and systems, and transform data from one format to another. The [Apache Camel](https://camel.apache.org/) project's goal is to simplify the way we do these kinds of integration, using the book ["Enterprise Integration Patterns"](https://www.enterpriseintegrationpatterns.com/) as the gold standard.

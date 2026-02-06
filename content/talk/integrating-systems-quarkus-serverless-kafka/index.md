@@ -4,6 +4,8 @@ layout: :theme/page
 link: /talk/integrating-systems-quarkus-serverless-kafka/
 ---
 
+# 🇬🇧  Integrating systems in the age of Quarkus, serverless and Kafka
+
 #### Abstract and talk prepared with [Peter Palaga](https://twitter.com/ppalaga)
 
 Have you ever got the task to implement an exchange of data between two systems that were not designed to communicate with each other? We bet you have, and we dare to introduce a couple of tools and approaches making the task easier to accomplish.

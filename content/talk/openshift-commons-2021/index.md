@@ -4,6 +4,8 @@ link: /talk/openshift-commons-2021/
 layout: :theme/page
 ---
 
+# 🇬🇧 Openshift Commons - Integration in OpenShift
+
 #### Co-talk with [Maria Arias de Reyna Dominguez](https://twitter.com/delawen) and [Rachel Yordan](https://twitter.com/nerdycode)
 
 With [Maria Arias de Reyna Dominguez](https://twitter.com/delawen) and [Rachel Yordan](https://twitter.com/nerdycode), we  appeared on an episode of [Openshift Commons](https://commons.openshift.org/) to discuss Integration in Openshift.

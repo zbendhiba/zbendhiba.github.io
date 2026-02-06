@@ -4,6 +4,8 @@ layout: :theme/page
 link: /talk/connecting-disparate-systems-fr/
 ---
 
+# 🇫🇷 Interconnecter des systèmes disparates de manière efficace
+
 #### Abstract
 
 Avez-vous déjà eu du mal à connecter des systèmes qui n'ont pas été conçus pour communiquer entre eux ? C'est un défi courant auquel de nombreuses architectures de Microservices sont confrontées aujourd'hui. Dans cette présentation, nous explorerons certains outils et approches qui peuvent vous aider à briser ces silos et à intégrer vos Microservices avec des systèmes externes de manière transparente, ce qui permet des cycles de développement plus rapides et une intégration plus efficace.

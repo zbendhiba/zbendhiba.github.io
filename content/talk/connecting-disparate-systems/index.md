@@ -4,6 +4,8 @@ layout: :theme/page
 link: /talk/connecting-disparate-systems/
 ---
 
+# 🇬🇧  Connecting disparate systems in a lightweight way
+
 #### Abstract
 
 Have you ever struggled with connecting systems that were not designed to communicate with each other? This is a common challenge faced by many microservices architectures today. In this talk, we'll explore some of the tools and approaches that can help you break down these silos and integrate your microservices with external systems seamlessly, allowing for faster development cycles and more efficient integration.

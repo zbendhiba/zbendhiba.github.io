@@ -4,6 +4,8 @@ layout: :theme/page
 link: /talk/fr-langchain4j/
 ---
 
+# 🇫🇷 Créer des Applications Intelligentes avec Quarkus et LangChain4j
+
 #### Co-talk with [Clément Escoffier](http://linkedin.com/in/clementescoffier/)
 
 Dans le contexte dynamique de l'intelligence artificielle, intégrer des (grands) modèles de langage (LLM/SLM) dans les applications est devenu une priorité pour les développeurs. Bien que de nombreuses bibliothèques facilitent cette intégration, elles négligent souvent les exigences propres aux applications d'entreprise. Une intégration réussie dépasse la simple interaction et doit inclure la gestion des métriques, la tolérance aux pannes, l'audit, et l'extensibilité.

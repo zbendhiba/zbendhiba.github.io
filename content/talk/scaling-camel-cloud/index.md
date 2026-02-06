@@ -4,6 +4,7 @@ link: /talk/scaling-camel-cloud/
 layout: :theme/page
 ---
 
+# 🇬🇧  Scaling Camel to the Cloud
 
 #### Talk with [Otavio Piske](https://twitter.com/otavio021)
 

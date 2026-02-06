@@ -4,6 +4,8 @@ layout: :theme/page
 link: /talk/quarkus-ai-fr/
 ---
 
+# 🇫🇷 Quarkus et Langchain4j - les clés pour intégrer les LLMs dans vos applications Java
+
 Dans la jungle émergente de l'intelligence artificielle, intégrer des Large Language Models (LLMs) dans les applications est un enjeu majeur pour les développeur·euse·s. Bien que de nombreuses initiatives aient émergé pour faciliter l'intégration des LLM, le monde du Java n'a pas vu beaucoup d'options.
 
 Voici où entre Langchain4j, une bibliothèque puissante conçue pour intégrer les applications Java avec les LLMs.

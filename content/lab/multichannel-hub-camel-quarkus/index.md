@@ -4,6 +4,7 @@ link: /lab/multichannel-hub-camel-quarkus/
 layout: :theme/page
 ---
 
+# 🇬🇧  Build a Multichannel Hub with Apache Camel and Quarkus
 
 #### Workshop with [Bruno Meseguer](https://www.linkedin.com/in/bruno-meseguer-a764421/)
 

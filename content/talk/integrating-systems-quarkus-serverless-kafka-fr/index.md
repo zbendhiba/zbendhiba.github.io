@@ -4,6 +4,8 @@ layout: :theme/page
 link: /talk/integrating-systems-quarkus-serverless-kafka-fr/
 ---
 
+# 🇫🇷 Intégration à l'ère du cloud avec Camel Quarkus
+
 #### Abstract et talk préparé avec [Alexandre Gallice](https://twitter.com/AlexGallice)
 
 Dans un univers informatique dont l'expansion ne cesse d'accélérer, le besoin de faire communiquer des systèmes disparates se renforce jour après jour. Développé en Java, le projet Open Source Apache Camel fournit avec ses 350 connecteurs une réponse prouvée à ce besoin toujours croissant d'intégration entre systèmes.

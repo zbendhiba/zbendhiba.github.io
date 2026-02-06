@@ -4,6 +4,8 @@ layout: :theme/page
 link: /talk/mcp-in-action/
 ---
 
+# 🇬🇧  MCP in Action: Connecting AI to Enterprise Systems
+
 #### Abstract
 
 Artificial intelligence is evolving rapidly, but one challenge remains: efficiently connecting AI agents to the systems where data resides. Each new data source requires a specific integration, limiting the scalability and relevance of models.
