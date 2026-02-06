@@ -92,6 +92,12 @@ body {
   .zb-hero-photo {
     order: -1;
   }
+
+  .zb-hero-photo img {
+    max-width: 48%;
+    min-height: 11rem;
+    object-fit: cover;
+  }
 }
 
 /* Global links (incl. menu) */
@@ -103,6 +109,38 @@ a:visited {
 a:hover,
 a:focus {
   color: darken($accent, 5%) !important;
+}
+
+/* Bio */
+.zb-bio {
+  display: grid;
+  grid-template-columns: minmax(0, 3fr) minmax(0, 2fr);
+  gap: 2rem;
+  align-items: center;
+  margin-bottom: 1.5rem;
+}
+
+.zb-bio-photo img {
+  width: 100%;
+  border-radius: 1.5rem;
+  box-shadow: 0 18px 40px rgba(15, 23, 42, 0.35);
+  object-fit: cover;
+}
+
+@media (max-width: 900px) {
+  .zb-bio {
+    grid-template-columns: 1fr;
+  }
+
+  .zb-bio-photo {
+    order: -1;
+  }
+
+  .zb-bio-photo img {
+    max-width: 48%;
+    min-height: 11rem;
+    object-fit: cover;
+  }
 }
 
 /* Pages conf & podcast */
