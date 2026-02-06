@@ -62,6 +62,10 @@ layout: :theme/page
   a:hover {
     text-decoration: underline;
   }
+
+  h2 {
+    color: #5b3ea6;
+  }
 </style>
 
 ## Upcoming
