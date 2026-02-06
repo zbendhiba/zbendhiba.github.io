@@ -1,3 +1,13 @@
+zineb:
+  name: "Zineb Bendhiba"
+  job: "Principal Software Engineer – AI & Enterprise Integration"
+  nickname: zineb
+  profile: "https://www.linkedin.com/in/zbendhiba/"
+  avatar: "zineb_bendhiba_2022-cropped.jpg"
+  bio: |
+    Principal Software Engineer at IBM. Apache Camel PMC member, Camel Quarkus maintainer.
+    Passionate about open source, AI and enterprise integration.
+
 roqqy:
   name: "Roqqy Balboa"
   job: Roq Boxer
