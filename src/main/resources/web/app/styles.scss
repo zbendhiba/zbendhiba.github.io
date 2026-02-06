@@ -94,3 +94,14 @@ body {
   }
 }
 
+/* Global links (incl. menu) */
+a,
+a:visited {
+  color: $accent !important;
+}
+
+a:hover,
+a:focus {
+  color: darken($accent, 5%) !important;
+}
+
