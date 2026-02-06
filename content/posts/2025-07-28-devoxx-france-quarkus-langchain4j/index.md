@@ -1,8 +1,9 @@
 ---
 title: "Créer des Applications Intelligentes avec Quarkus et LangChain4j"
-description: "Retour sur notre conférence à Devoxx France sur la création d'applications infused-AI avec Quarkus et LangChain4j"
+description: "Retour sur notre conférence à Devoxx France sur la création d'applications infused-AI avec Quarkus et LangChain4j et Wanaku MCP server"
 image: devoxxFR2025.jpg
 tags: Java, Cloud-Native, Quarkus, AI, LangChain4j, Devoxx
+link: /quarkus/langchain4j/ai/devoxx-france-quarkus-langchain4j/
 author: zineb
 ---
 

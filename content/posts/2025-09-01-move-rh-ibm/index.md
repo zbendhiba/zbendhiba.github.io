@@ -3,6 +3,7 @@ title: "Thank you Red Hat, hello IBM"
 description: "Transitioning from Red Hat to IBM to continue working with my team on Open Source, Apache Camel, Quarkus and AI"
 image: zineb-blue-hat.jpeg
 tags: career, personal
+link: /career/personal/move-rh-ibm/
 author: zineb
 ---
 

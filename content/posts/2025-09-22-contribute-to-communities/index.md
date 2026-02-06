@@ -3,6 +3,7 @@ title: "Communauté, tu aideras. Sagesse et force, tu gagneras !"
 description: "Retour sur notre conférence à Riviera Dev sur la contribution aux communautés tech"
 image: dDRiveraDEV_6360.jpg
 tags: Contribution, Communities
+link: /contribution/communities/contribute-to-communities/
 author: zineb
 ---
 

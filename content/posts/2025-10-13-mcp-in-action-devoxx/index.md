@@ -3,6 +3,7 @@ title: "Devoxx Belgium : MCP in Action: Connecting AI to Enterprise Systems"
 description: "Recap of my talk at Devoxx Belgium about MCP, Wanaku, Quarkus and LangChain4j"
 image: 2025-devoxx-be-speaker.jpg
 tags: Java, Quarkus, AI, LangChain4j, MCP, Wanaku, ApacheCamel
+link: /quarkus/langchain4j/ai/mcp/wanaku/apachecamel/mcp-in-action-devoxx/
 author: zineb
 ---
 
