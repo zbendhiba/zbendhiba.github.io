@@ -59,9 +59,11 @@ body {
   text-decoration: none;
 }
 
-.zb-btn-primary {
+a.zb-btn-primary,
+a.zb-btn-primary:visited,
+a.zb-btn-primary:hover {
   background: $accent;
-  color: #fff;
+  color: #fff !important;
   box-shadow: 0 14px 30px rgba(91, 62, 166, 0.25);
 }
 
