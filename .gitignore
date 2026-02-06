@@ -34,3 +34,6 @@ nb-configuration.xml
 
 # Jeykill
 Gemfile.lock
+
+# Quarkus 
+.quarkus/
