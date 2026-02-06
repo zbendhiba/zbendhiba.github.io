@@ -11,7 +11,7 @@ layout: :theme/page
     <p>I'm a big believer in open source and collaboration. I'm a PMC member for Apache Camel and a maintainer for Camel Quarkus, with a deep focus on the Quarkus ecosystem. Most of my work is dedicated to these core projects, but I also focus on bringing new innovation into the ecosystem. I enjoy exploring new concepts and helping kick-start initiatives that move our community forward. This is how I've helped shape the early visions for projects like Wanaku, Kaoto, and Camel AI.</p>
   </div>
   <div class="zb-bio-photo">
-    <img src="/images/202205-devoxx-uk-speaker.jpg" alt="Zineb Bendhiba speaking at Devoxx">
+    <img src="/images/202406-boston.jpeg" alt="Zineb Bendhiba speaking at Devoxx">
   </div>
 </div>
 
