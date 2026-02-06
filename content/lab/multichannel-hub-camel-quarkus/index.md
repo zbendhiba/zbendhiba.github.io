@@ -7,7 +7,7 @@ layout: :theme/page
 
 #### Workshop with [Bruno Meseguer](https://www.linkedin.com/in/bruno-meseguer-a764421/)
 
-![](/assets/images/devBCN2023.jpeg)
+![](/images/devBCN2023.jpeg)
 
 The emergence of Quarkus and the latest evolution of [Apache Camel](https://camel.apache.org/) has driven enterprise integration to make a significant leap forward, bringing Camel to everyone, not just the Camel Developer.
 This workshop presents an exciting real-world inspired base scenario, where you will impersonate the regular Kubernetes user as well as the experienced Camel developer. You will complete a series of exercises, ranging from simple data flows to medium and advanced use cases.

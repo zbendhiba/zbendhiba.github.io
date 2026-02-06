@@ -9,7 +9,7 @@ author: zineb
 
 Avec [Shérine khoury](https://www.linkedin.com/in/sh%C3%A9rine-khoury-437758a/), nous avons eu l'honneur de donner une conférence à [Riviera Dev](https://rivieradev.fr/) sur un sujet qui nous tient à cœur : comment contribuer aux communautés tech. Ce talk était une invitation à tous ceux qui pensent n'avoir rien à apporter.
 
-![Zineb et Shérine à Riviera Dev](/images/dDRiveraDEV_6360.jpg)
+![Zineb et Shérine à Riviera Dev](/images/dDRiveraDEV_6353.jpg)
 Crédit photo : [Dimitris Doutsiopoulos](https://bsky.app/profile/ddoutsiopoulos.bsky.social)
 
 Inspirés par la sagesse de Maître Yoda, nous avons détaillé la contribution par niveaux. Nous voulions montrer que les petites actions peuvent mener à de grandes différences. Le message est simple : les communautés, en particulier les plus petites, ont besoin de votre aide, quel que soit votre niveau d'expérience.

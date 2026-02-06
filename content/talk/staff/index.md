@@ -1,9 +1,8 @@
 ---
-title: Leading Beyond Code - My Journey as a Staff Engineer
-link: /talk/staff/
+title: "Leading Beyond Code - My Journey as a Staff Engineer"
 layout: :theme/page
+link: /talk/staff/
 ---
-
 
 Hi, I'm Zineb. As a Moroccan developer who fell into open source, I've learned a lot about myself and my leadership skills. From coding in Java to becoming a Staff Engineer at a global leader in the open source community, it's been a journey of ups and downs.
 

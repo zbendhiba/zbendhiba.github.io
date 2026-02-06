@@ -1,7 +1,7 @@
 ---
 title: "MCP in Action: Connecting AI to Enterprise Systems"
-link: /talk/mcp-in-action/
 layout: :theme/page
+link: /talk/mcp-in-action/
 ---
 
 #### Abstract
@@ -22,5 +22,5 @@ Join me to explore how this protocol is paving the way for more connected and in
 - [September 18th, 2025 - Amadeus](https://speakerdeck.com/zbendhiba/mcp-in-action-connecting-ai-to-enterprise-systems-sept-2025)
 
 ### Code
-- [[October 9th, 2025 - Devoxx Belgium](https://github.com/zbendhiba/mcp-demos-2/tree/devoxx-final)
-- [[September 18th, 2025 - Amadeus]](https://github.com/zbendhiba/mcp-demos-2)
+- [October 9th, 2025 - Devoxx Belgium](https://github.com/zbendhiba/mcp-demos-2/tree/devoxx-final)
+- [September 18th, 2025 - Amadeus](https://github.com/zbendhiba/mcp-demos-2)

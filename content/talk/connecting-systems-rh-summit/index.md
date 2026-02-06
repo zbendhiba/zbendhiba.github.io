@@ -1,7 +1,7 @@
 ---
-title: Connecting disparate systems with the Red Hat Build of Apache Camel and Red Hat AMQ
-link: /talk/connecting-systems-rh-summit/
+title: "Connecting disparate systems with the Red Hat Build of Apache Camel and Red Hat AMQ"
 layout: :theme/page
+link: /talk/connecting-systems-rh-summit/
 ---
 
 #### Abstract
@@ -13,5 +13,3 @@ Red Hat's build of Apache Camel is a powerful tool designed to streamline the in
 We will also dive into developing cloud-native applications that can seamlessly connect various systems using the Red Hat build of Apache Camel and Red Hat AMQ. With just a few lines of code, witness the smooth integration between various systems and discover how these technologies fit together, run smoothly, and deploy on Openshift.
 
 By the end of this talk, you'll have the tools and knowledge to connect your microservices with external systems faster and more efficiently.
-
-

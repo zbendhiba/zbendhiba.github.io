@@ -9,7 +9,7 @@ author: zineb
 
 Last week, I had the pleasure to present a talk about MCP usage to connect AI to our Entreprise Systems. I gave my thoughts on why we got to MCP, and presented the opportunity that led to creating the wanaku project.
 
-![Zineb at Devoxx Belgium](2025-devoxx-be-speaker.jpg)
+![Zineb at Devoxx Belgium](/images/2025-devoxx-be-speaker.jpg)
 Crédit photo : [Dimitris Doutsiopoulos](https://bsky.app/profile/ddoutsiopoulos.bsky.social)
 
 During the talk, I introduced how to create an MCP server with Quarkus, and how to integrate it with LangChain4j. I also demoed the wanaku project, many of its capabilities, and how it fits in a Quarkus AI infused application.

@@ -1,7 +1,7 @@
 ---
-title: Connecting disparate systems in a lightweight way
-link: /talk/connecting-disparate-systems/
+title: "Connecting disparate systems in a lightweight way"
 layout: :theme/page
+link: /talk/connecting-disparate-systems/
 ---
 
 #### Abstract

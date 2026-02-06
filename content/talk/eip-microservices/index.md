@@ -1,7 +1,7 @@
 ---
-title: Beyond REST and CRUD - Integration patterns in Microservices
-link: /talk/eip-microservices/
+title: "Beyond REST and CRUD - Integration patterns in Microservices"
 layout: :theme/page
+link: /talk/eip-microservices/
 ---
 
 #### Co-talk with [Erin Schnabel](https://www.linkedin.com/in/erinschnabel/)
@@ -17,5 +17,3 @@ The flow of information and events through distributed systems goes well beyond 
 ### Code
 - [Live Demo](https://github.com/zbendhiba/camel-rest-demo)
 - [Pockets cli](https://github.com/ebullient/pockets-cli)
-
-
