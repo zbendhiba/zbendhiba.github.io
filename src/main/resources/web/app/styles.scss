@@ -1,3 +1,5 @@
+@use "sass:color";
+
 // Palette
 $bg: #ffffff;
 $text: #111827;
@@ -110,7 +112,7 @@ a:visited {
 
 a:hover,
 a:focus {
-  color: darken($accent, 5%) !important;
+  color: color.adjust($accent, $lightness: -5%) !important;
 }
 
 /* Bio */

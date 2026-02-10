@@ -27,7 +27,7 @@ I created very quickly a [Quarkus application](https://github.com/zbendhiba/came
 - A simple Camel Route, with a basic [Camel Timer](https://github.com/zbendhiba/camel-quarkus-iot/blob/8be9831cc2e99ea4390f3cd62197c6c1635faf88/src/main/java/org/acme/MyRoutes.java#L8), logging "Hello from RESTEasy Reactive on Microshift"
 
 ```java
-     from("timer:foo?period=\{{timer.period}}&delay=\{{timer.delay}}")
+     from("timer:foo?period=\{\{timer.period}}&delay=\{\{timer.delay}}")
         .log("Hello! I'm running #ApacheCamel & #Quarkus on Microhsift");
 ```
 
