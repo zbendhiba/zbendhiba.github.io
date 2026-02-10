@@ -35,8 +35,11 @@ nb-configuration.xml
 # Jeykill
 Gemfile.lock
 
-# Quarkus 
+# Quarkus
 .quarkus/
+
+# ROQ build artifacts
+META-INF/
 
 # Maven
 target/
