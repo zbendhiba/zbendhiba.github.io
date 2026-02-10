@@ -1,0 +1,9 @@
+<div class="footer-social">
+  {#for entry in brand.entrySet()}
+  {#if site.data.get(entry.key)??}
+  <a href="{entry.value.prefix()}{site.data.get(entry.key)}" target="_blank" aria-label="{entry.key}">
+    <i class="{entry.value.icon()}" aria-hidden="true"></i>
+  </a>
+  {/if}
+  {/for}
+</div>
