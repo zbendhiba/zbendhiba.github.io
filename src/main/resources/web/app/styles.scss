@@ -115,6 +115,31 @@ a:focus {
   color: color.adjust($accent, $lightness: -5%) !important;
 }
 
+/* Code blocks */
+pre {
+  background: $accent;
+  color: #f0eaf8;
+  padding: 1.2rem 1.4rem;
+  border-radius: .6rem;
+  overflow-x: auto;
+  font-size: .9rem;
+  line-height: 1.6;
+}
+
+pre code {
+  background: none;
+  color: inherit;
+  padding: 0;
+}
+
+code {
+  background: $accent-soft;
+  color: $accent;
+  padding: .15rem .4rem;
+  border-radius: .3rem;
+  font-size: .88em;
+}
+
 /* Bio */
 .zb-bio {
   display: grid;
