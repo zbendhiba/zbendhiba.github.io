@@ -22,7 +22,7 @@ jobs:
         uses: quarkiverse/quarkus-roq@v1
         with:
           github-pages: false
-          site-url: https://zbendhiba.github.io/pr-preview/pr-${{ github.event.pull_request.number }}
+          site-url: /pr-preview/pr-${{ github.event.pull_request.number }}
       - name: Deploy PR preview
         uses: rossjrw/pr-preview-action@v1
         with:

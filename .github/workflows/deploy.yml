@@ -15,11 +15,21 @@ jobs:
       url: https://zbendhiba.github.io
     steps:
       - uses: actions/checkout@v4
+      - name: Get GitHub Pages URL
+        id: pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          url=$(gh api "repos/$GITHUB_REPOSITORY/pages" --jq '.html_url' 2>/dev/null || echo '')
+          if [ -z "$url" ]; then
+            echo "::warning::Could not fetch GitHub Pages URL. Falling back to empty site-url."
+          fi
+          echo "url=$url" >> $GITHUB_OUTPUT
       - name: Build Roq site
         uses: quarkiverse/quarkus-roq@v1
         with:
           github-pages: false
-          site-url: https://zbendhiba.github.io
+          site-url: ${{ steps.pages.outputs.url }}
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
