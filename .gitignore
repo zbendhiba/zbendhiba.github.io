@@ -38,6 +38,9 @@ Gemfile.lock
 # Quarkus
 .quarkus/
 
+# Web Bundler
+node_modules/
+
 # ROQ build artifacts
 META-INF/
 

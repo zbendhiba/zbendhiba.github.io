@@ -13,8 +13,12 @@ body {
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 }
 
-/* Homepage only: hide pagination (posts are already limited via frontmatter).
+/* Homepage only: show 5 latest posts and hide pagination.
    .zb-hero only exists on the homepage, not on /posts */
+.hero:has(.zb-hero) ~ article.post:nth-of-type(n+6) {
+  display: none;
+}
+
 .hero:has(.zb-hero) ~ .container {
   display: none;
 }
