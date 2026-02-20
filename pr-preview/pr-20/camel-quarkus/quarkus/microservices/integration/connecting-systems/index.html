@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8">
+
+
+
+  <!-- SEO TITLE -->
+  
+  <title>Connecting disparate systems in a lightweight way - Zineb Bendhiba</title>
+  <meta property="og:title" content="Connecting disparate systems in a lightweight way" />
+  <meta name="twitter:title" content="Connecting disparate systems in a lightweight way">
+  <meta property="og:site_name" content="Zineb Bendhiba">
+  <!-- SEO DESCRIPTION -->
+  <meta name="description" content="My talk on integrating microservices with external systems using Apache Camel and Quarkus">
+  <meta property="og:description" content="My talk on integrating microservices with external systems using Apache Camel and Quarkus" />
+  <meta name="twitter:description" content="My talk on integrating microservices with external systems using Apache Camel and Quarkus">
+  <!-- SEO AUTHOR -->
+  <meta property="article:author" content="zineb" />
+  <meta name="author" content="zineb" />
+  <!-- SEO URL -->
+  <link rel="canonical" href="https://zbendhiba.github.io/pr-preview/pr-20/camel-quarkus/quarkus/microservices/integration/connecting-systems/" />
+  <meta property="og:url" content="https://zbendhiba.github.io/pr-preview/pr-20/camel-quarkus/quarkus/microservices/integration/connecting-systems/" />
+  <meta name="twitter:url" content="https://zbendhiba.github.io/pr-preview/pr-20/camel-quarkus/quarkus/microservices/integration/connecting-systems/">
+
+  <!-- SEO TYPE -->
+  <meta property="og:type" content="article" />
+  <meta property="article:published_time" content="2024-03-01T00:00Z[Etc/UTC]" />
+
+  <!-- SEO IMAGE -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:image:src" content="https://zbendhiba.github.io/pr-preview/pr-20/images/zineb_bendhiba_2022-cropped.jpg" />
+  <meta property="og:image" content="https://zbendhiba.github.io/pr-preview/pr-20/images/zineb_bendhiba_2022-cropped.jpg" />
+  <!-- SEO COLLECTION PAGES -->
+  <link rel="prev" href="https://zbendhiba.github.io/pr-preview/pr-20/tech%2520talks/tech%2520speaker/podcast/geeksblabla-tech-talks/" />
+  <link rel="next" href="https://zbendhiba.github.io/pr-preview/pr-20/conference/podcast/message-caractere-informatique-93/" />
+  <!-- SEO LOCALE -->
+  <meta property="og:locale" content="en" />
+  <!-- SEO GENERATOR -->
+  <meta name="generator" content="Quarkus Roq v2.0.4" />
+
+<link rel="alternate" type="application/rss+xml" title="Zineb Bendhiba" href="https://zbendhiba.github.io/pr-preview/pr-20/rss.xml"/>
+<link rel="icon" href="/images/site-icon.png" type="image/png">
+
+<base href="/pr-preview/pr-20/camel-quarkus/quarkus/microservices/integration/connecting-systems/">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+
+<meta name="theme-color" content="#263959">
+<meta name="msapplication-navbutton-color" content="#263959">
+<meta name="apple-mobile-web-app-status-bar-style" content="#263959">
+<link rel="stylesheet" href="/pr-preview/pr-20/static/bundle/roq.css?id=dfd27c65-42a6-4f44-98e7-fe29912b9f8e">
+
+    <script type="module" src="/pr-preview/pr-20/static/bundle/app-6YXW4NN3.js"></script>
+      <link rel="stylesheet" href="/pr-preview/pr-20/static/bundle/app-RWD7NKDD.css" />
+
+</head>
+<body class="default">
+
+  <div class="wrapper">
+
+
+<aside class="sidebar main">
+  <header>
+<div class="navbar-brand">
+  <a href="/pr-preview/pr-20/"><img class="navbar-avatar" src="/pr-preview/pr-20/images/zineb_bendhiba_2022-cropped.jpg" alt="Zineb Bendhiba"></a>
+  <a href="/pr-preview/pr-20/" class="navbar-site-name">Zineb Bendhiba</a>
+</div>
+
+<button class="navbar-hamburger" aria-label="Toggle menu" aria-expanded="false">
+  <span></span>
+  <span></span>
+  <span></span>
+</button>
+
+<ul class="navbar-links">
+  <li>
+    <a href="/pr-preview/pr-20/" >
+      <i class="fa-regular fa-newspaper" aria-hidden="true"></i> Home
+    </a>
+  </li>
+  <li>
+    <a href="/pr-preview/pr-20/posts" >
+      <i class="fa-solid fa-blog" aria-hidden="true"></i> Blog
+    </a>
+  </li>
+  <li>
+    <a href="/pr-preview/pr-20/conf/" >
+      <i class="fa-solid fa-microphone" aria-hidden="true"></i> Talks
+    </a>
+  </li>
+  <li>
+    <a href="/pr-preview/pr-20/podcast/" >
+      <i class="fa-solid fa-podcast" aria-hidden="true"></i> Podcasts
+    </a>
+  </li>
+  <li>
+    <a href="/pr-preview/pr-20/publications/" >
+      <i class="fa-regular fa-file-lines" aria-hidden="true"></i> Articles
+    </a>
+  </li>
+  <li>
+    <a href="/pr-preview/pr-20/bio/" >
+      <i class="fa-regular fa-user" aria-hidden="true"></i> Bio
+    </a>
+  </li>
+</ul>
+
+<ul class="navbar-dropdown">
+  <li>
+    <a href="/pr-preview/pr-20/" >
+      <i class="fa-regular fa-newspaper" aria-hidden="true"></i> Home
+    </a>
+  </li>
+  <li>
+    <a href="/pr-preview/pr-20/posts" >
+      <i class="fa-solid fa-blog" aria-hidden="true"></i> Blog
+    </a>
+  </li>
+  <li>
+    <a href="/pr-preview/pr-20/conf/" >
+      <i class="fa-solid fa-microphone" aria-hidden="true"></i> Talks
+    </a>
+  </li>
+  <li>
+    <a href="/pr-preview/pr-20/podcast/" >
+      <i class="fa-solid fa-podcast" aria-hidden="true"></i> Podcasts
+    </a>
+  </li>
+  <li>
+    <a href="/pr-preview/pr-20/publications/" >
+      <i class="fa-regular fa-file-lines" aria-hidden="true"></i> Articles
+    </a>
+  </li>
+  <li>
+    <a href="/pr-preview/pr-20/bio/" >
+      <i class="fa-regular fa-user" aria-hidden="true"></i> Bio
+    </a>
+  </li>
+</ul>
+  </header> <!-- End Header -->
+  <footer>
+<div class="footer-social">
+  <a href="https://github.com/zbendhiba" target="_blank" aria-label="social-github">
+    <i class="fa-brands fa-github" aria-hidden="true"></i>
+  </a>
+  <a href="https://youtube.com/@zinebbendhiba" target="_blank" aria-label="social-youtube">
+    <i class="fa-brands fa-youtube" aria-hidden="true"></i>
+  </a>
+  <a href="https://twitter.com/ZinebBendhiba" target="_blank" aria-label="social-twitter">
+    <i class="fa-brands fa-twitter" aria-hidden="true"></i>
+  </a>
+  <a href="mailto:contact@zinebbendhiba.com" target="_blank" aria-label="social-email">
+    <i class="fa fa-envelope" aria-hidden="true"></i>
+  </a>
+  <a href="https://mastodon.social/@zbendhiba" target="_blank" aria-label="social-mastodon">
+    <i class="fa-brands fa-mastodon" aria-hidden="true"></i>
+  </a>
+  <a href="https://in.linkedin.com/in/zbendhiba" target="_blank" aria-label="social-linkedin">
+    <i class="fa-brands fa-linkedin" aria-hidden="true"></i>
+  </a>
+  <a href="https://bsky.app/profile/zinebbendhiba.com" target="_blank" aria-label="social-bluesky">
+    <i class="fa-brands fa-bluesky" aria-hidden="true"></i>
+  </a>
+  <a href="/rss.xml" target="_blank" aria-label="RSS Feed">
+    <i class="fa fa-rss" aria-hidden="true"></i>
+  </a>
+</div>
+<p class="footer-copyright">2026 &copy; Zineb Bendhiba. Powered by Quarkus Roq.</p>
+  </footer> <!-- End Footer -->
+</aside> <!-- End Sidebar -->
+<div class="content-box clearfix">
+
+
+
+<article class="article-page" xmlns="http://www.w3.org/1999/html">
+  <section class="page-content">
+    <div class="page-cover-image">
+      <figure>
+        <img class="page-image" src="/pr-preview/pr-20/images/zineb_bendhiba_2022-cropped.jpg" alt="Connecting disparate systems in a lightweight way">
+      </figure>
+    </div> <!-- End Page Cover Image -->
+    <section class="wrap-content">
+      <header class="header-page">
+        <h1 class="page-title">Connecting disparate systems in a lightweight way</h1>
+        <div class="page-date"><span>2024, Mar 01&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
+      </header>
+      <section>
+<p>Have you ever struggled with connecting systems that were not designed to communicate with each other? This is a common challenge faced by many microservices architectures today.</p>
+<p>In the last quarter, I gave a talk where I explored some of the tools and approaches that can help you break down these silos and integrate your microservices with external systems seamlessly, allowing for faster development cycles and more efficient integration.</p>
+<p>The talk combines my current experience as a thought leader in the integration space, working on the Apache Camel project, and my past experiences where I encountered many integration challenges developing Microservices.</p>
+<p>The recording from the DevNation Day: Modern App Dev is already available.</p>
+<iframe src="https://www.youtube.com/embed/dofHDRf-l-Q?si=px1E4pFj5J3EO39T" width="560" height="315" frameborder="0"> </iframe>
+You can access the presentation slides and code [here](/talk/connecting-disparate-systems/).
+<p>If you have any questions or feedback, please feel free to reach out.</p>
+<p>Enjoy the talk!</p>
+      </section>
+      <div class="page-footer">
+        <div class="footer-links">
+          <div class="page-share">
+            <a href="https://twitter.com/intent/tweet?text=Connecting disparate systems in a lightweight way&url=https%3A%2F%2Fzbendhiba.github.io%2Fpr-preview%2Fpr-20%2Fcamel-quarkus%2Fquarkus%2Fmicroservices%2Fintegration%2Fconnecting-systems%2F"
+               title="Share on Twitter" rel="nofollow" target="_blank">Twitter</a>
+            <a href="https://facebook.com/sharer.php?u=https%3A%2F%2Fzbendhiba.github.io%2Fpr-preview%2Fpr-20%2Fcamel-quarkus%2Fquarkus%2Fmicroservices%2Fintegration%2Fconnecting-systems%2F" title="Share on Facebook"
+               rel="nofollow" target="_blank">Facebook</a>
+            <a href="https://bsky.app/intent/compose?text=Connecting disparate systems in a lightweight way%0ACheck%20it%20out%20https%3A%2F%2Fzbendhiba.github.io%2Fpr-preview%2Fpr-20%2Fcamel-quarkus%2Fquarkus%2Fmicroservices%2Fintegration%2Fconnecting-systems%2F" title="Share on Bluesky"
+                           rel="nofollow" target="_blank">Bluesky</a>
+          </div>
+          <div class="page-tag">
+            <a href="/pr-preview/pr-20/posts/tag/ApacheCamel" class="tag">&#35; ApacheCamel</a>
+            <a href="/pr-preview/pr-20/posts/tag/Java" class="tag">&#35; Java</a>
+            <a href="/pr-preview/pr-20/posts/tag/Quarkus" class="tag">&#35; Quarkus</a>
+            <a href="/pr-preview/pr-20/posts/tag/IntegrationPatterns" class="tag">&#35; IntegrationPatterns</a>
+            <a href="/pr-preview/pr-20/posts/tag/Rest" class="tag">&#35; Rest</a>
+            <a href="/pr-preview/pr-20/posts/tag/Microservices" class="tag">&#35; Microservices</a>
+          </div>
+
+        </div>
+        <div class="author">
+          <img src="/pr-preview/pr-20/images/zineb_bendhiba_2022-cropped.jpg" alt="author-zineb"/>
+          <div class="author-data">
+            <a target="_blank" href="https://www.linkedin.com/in/zbendhiba/"
+               class="author-name">Zineb Bendhiba</a>
+            <span class="author-job-title">Principal Software Engineer – AI &amp; Enterprise Integration</span>
+          </div>
+        </div>
+      </div>
+    </section> <!-- End Wrap Content -->
+  </section> <!-- End Page Content -->
+</article> <!-- End Article Page -->
+
+
+</div>
+
+  </div>
+  
+</body>
+</html>

@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8">
+
+
+
+  <!-- SEO TITLE -->
+  
+  <title>Serverless Integration with Camel Quarkus - Zineb Bendhiba</title>
+  <meta property="og:title" content="Serverless Integration with Camel Quarkus" />
+  <meta name="twitter:title" content="Serverless Integration with Camel Quarkus">
+  <meta property="og:site_name" content="Zineb Bendhiba">
+  <!-- SEO DESCRIPTION -->
+  <meta name="description" content="Principal Software Engineer">
+  <meta property="og:description" content="Principal Software Engineer" />
+  <meta name="twitter:description" content="Principal Software Engineer">
+  <!-- SEO URL -->
+  <link rel="canonical" href="https://zbendhiba.github.io/pr-preview/pr-20/talk/serverless-integration-camel/" />
+  <meta property="og:url" content="https://zbendhiba.github.io/pr-preview/pr-20/talk/serverless-integration-camel/" />
+  <meta name="twitter:url" content="https://zbendhiba.github.io/pr-preview/pr-20/talk/serverless-integration-camel/">
+
+  <!-- SEO TYPE -->
+  <meta property="og:type" content="article" />
+  <meta property="article:published_time" content="2026-02-20T12:17:41.225453799Z[Etc/UTC]" />
+
+  <!-- SEO IMAGE -->
+  <meta name="twitter:card" content="summary">
+  <!-- SEO LOCALE -->
+  <meta property="og:locale" content="en" />
+  <!-- SEO GENERATOR -->
+  <meta name="generator" content="Quarkus Roq v2.0.4" />
+
+<link rel="alternate" type="application/rss+xml" title="Zineb Bendhiba" href="https://zbendhiba.github.io/pr-preview/pr-20/rss.xml"/>
+<link rel="icon" href="/images/site-icon.png" type="image/png">
+
+<base href="/pr-preview/pr-20/talk/serverless-integration-camel/">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+
+<meta name="theme-color" content="#263959">
+<meta name="msapplication-navbutton-color" content="#263959">
+<meta name="apple-mobile-web-app-status-bar-style" content="#263959">
+<link rel="stylesheet" href="/pr-preview/pr-20/static/bundle/roq.css?id=dfd27c65-42a6-4f44-98e7-fe29912b9f8e">
+
+    <script type="module" src="/pr-preview/pr-20/static/bundle/app-6YXW4NN3.js"></script>
+      <link rel="stylesheet" href="/pr-preview/pr-20/static/bundle/app-RWD7NKDD.css" />
+
+</head>
+<body class="default">
+
+  <div class="wrapper">
+
+
+<aside class="sidebar main">
+  <header>
+<div class="navbar-brand">
+  <a href="/pr-preview/pr-20/"><img class="navbar-avatar" src="/pr-preview/pr-20/images/zineb_bendhiba_2022-cropped.jpg" alt="Zineb Bendhiba"></a>
+  <a href="/pr-preview/pr-20/" class="navbar-site-name">Zineb Bendhiba</a>
+</div>
+
+<button class="navbar-hamburger" aria-label="Toggle menu" aria-expanded="false">
+  <span></span>
+  <span></span>
+  <span></span>
+</button>
+
+<ul class="navbar-links">
+  <li>
+    <a href="/pr-preview/pr-20/" >
+      <i class="fa-regular fa-newspaper" aria-hidden="true"></i> Home
+    </a>
+  </li>
+  <li>
+    <a href="/pr-preview/pr-20/posts" >
+      <i class="fa-solid fa-blog" aria-hidden="true"></i> Blog
+    </a>
+  </li>
+  <li>
+    <a href="/pr-preview/pr-20/conf/" >
+      <i class="fa-solid fa-microphone" aria-hidden="true"></i> Talks
+    </a>
+  </li>
+  <li>
+    <a href="/pr-preview/pr-20/podcast/" >
+      <i class="fa-solid fa-podcast" aria-hidden="true"></i> Podcasts
+    </a>
+  </li>
+  <li>
+    <a href="/pr-preview/pr-20/publications/" >
+      <i class="fa-regular fa-file-lines" aria-hidden="true"></i> Articles
+    </a>
+  </li>
+  <li>
+    <a href="/pr-preview/pr-20/bio/" >
+      <i class="fa-regular fa-user" aria-hidden="true"></i> Bio
+    </a>
+  </li>
+</ul>
+
+<ul class="navbar-dropdown">
+  <li>
+    <a href="/pr-preview/pr-20/" >
+      <i class="fa-regular fa-newspaper" aria-hidden="true"></i> Home
+    </a>
+  </li>
+  <li>
+    <a href="/pr-preview/pr-20/posts" >
+      <i class="fa-solid fa-blog" aria-hidden="true"></i> Blog
+    </a>
+  </li>
+  <li>
+    <a href="/pr-preview/pr-20/conf/" >
+      <i class="fa-solid fa-microphone" aria-hidden="true"></i> Talks
+    </a>
+  </li>
+  <li>
+    <a href="/pr-preview/pr-20/podcast/" >
+      <i class="fa-solid fa-podcast" aria-hidden="true"></i> Podcasts
+    </a>
+  </li>
+  <li>
+    <a href="/pr-preview/pr-20/publications/" >
+      <i class="fa-regular fa-file-lines" aria-hidden="true"></i> Articles
+    </a>
+  </li>
+  <li>
+    <a href="/pr-preview/pr-20/bio/" >
+      <i class="fa-regular fa-user" aria-hidden="true"></i> Bio
+    </a>
+  </li>
+</ul>
+  </header> <!-- End Header -->
+  <footer>
+<div class="footer-social">
+  <a href="https://github.com/zbendhiba" target="_blank" aria-label="social-github">
+    <i class="fa-brands fa-github" aria-hidden="true"></i>
+  </a>
+  <a href="https://youtube.com/@zinebbendhiba" target="_blank" aria-label="social-youtube">
+    <i class="fa-brands fa-youtube" aria-hidden="true"></i>
+  </a>
+  <a href="https://twitter.com/ZinebBendhiba" target="_blank" aria-label="social-twitter">
+    <i class="fa-brands fa-twitter" aria-hidden="true"></i>
+  </a>
+  <a href="mailto:contact@zinebbendhiba.com" target="_blank" aria-label="social-email">
+    <i class="fa fa-envelope" aria-hidden="true"></i>
+  </a>
+  <a href="https://mastodon.social/@zbendhiba" target="_blank" aria-label="social-mastodon">
+    <i class="fa-brands fa-mastodon" aria-hidden="true"></i>
+  </a>
+  <a href="https://in.linkedin.com/in/zbendhiba" target="_blank" aria-label="social-linkedin">
+    <i class="fa-brands fa-linkedin" aria-hidden="true"></i>
+  </a>
+  <a href="https://bsky.app/profile/zinebbendhiba.com" target="_blank" aria-label="social-bluesky">
+    <i class="fa-brands fa-bluesky" aria-hidden="true"></i>
+  </a>
+  <a href="/rss.xml" target="_blank" aria-label="RSS Feed">
+    <i class="fa fa-rss" aria-hidden="true"></i>
+  </a>
+</div>
+<p class="footer-copyright">2026 &copy; Zineb Bendhiba. Powered by Quarkus Roq.</p>
+  </footer> <!-- End Footer -->
+</aside> <!-- End Sidebar -->
+<div class="content-box clearfix">
+
+
+<div class="page-content">
+<h1 id="-serverless-integration-with-camel-quarkus">🇬🇧 Serverless Integration with Camel Quarkus</h1>
+<h4 id="co-talk-with-kevin-dubois">Co-talk with <a href="https://twitter.com/kevindubois">Kevin Dubois</a></h4>
+<p>When you build an application you will undoubtedly need to integrate it with other applications and systems, and transform data from one format to another. The <a href="https://camel.apache.org/">Apache Camel</a> project's goal is to simplify the way we do these kinds of integration, using the book <a href="https://www.enterpriseintegrationpatterns.com/">&quot;Enterprise Integration Patterns&quot;</a> as the gold standard.</p>
+<p><a href="https://camel.apache.org/">Apache Camel</a> has been around for a while, but it is more relevant now than it has ever been. In this session we'll show you how Camel can leverage Quarkus' fast startup time and developer experience to build modern, distributed and cloud native integration workloads. As a bonus it can make use of technologies like serverless computing (eg. Knative) and data streaming (eg. Kafka) to remove bottlenecks, integrate faster and better than ever before, and save resources and money on top of it.</p>
+<p>Attendees should come away from this talk with the following:</p>
+<ul>
+<li>Why you would want to use <a href="https://camel.apache.org/">Apache Camel</a> to create easy to understand, reusable and distributed integration components.</li>
+<li>How the next iteration of <a href="https://camel.apache.org/">Apache Camel</a> (based on <a href="https://quarkus.io/">Quarkus</a>) can leverage Kubernetes and/or Serverless computing and event driven architectures to deploy early and often.</li>
+</ul>
+<h3 id="links">Links</h3>
+<p><a href="https://github.com/zbendhiba/telegram-kafka/tree/20200201-rhte">DEMO</a></p>
+</div>
+
+
+
+</div>
+
+  </div>
+  
+</body>
+</html>
