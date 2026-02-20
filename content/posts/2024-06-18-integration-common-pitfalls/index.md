@@ -2,7 +2,7 @@
 title: "Mastering Integration: 3 Common Pitfalls and Why Apache Camel is the Solution"
 description: "Stop wasting time on protocol implementation. Discover the 3 most common integration mistakes and how Apache Camel helps you focus on business logic through flexibility and robust monitoring."
 image: integration-ai-generated-2024.jpeg
-tags: Integration, Apache Camel
+tags: Integration, ApacheCamel
 author: zineb
 ---
 

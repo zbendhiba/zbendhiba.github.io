@@ -2,7 +2,7 @@
 title: "How Dancing Unlocked My Professional Potential"
 description: "Think hobbies are just for fun? Discover how dancing helped me overcome perfectionism, embrace teamwork, and build the confidence to lead and speak in public."
 image: dance-ai-generated.jpeg
-tags: Dance, , Career Growth
+tags: Dance, CareerGrowth
 author: zineb
 ---
 

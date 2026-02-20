@@ -2,7 +2,7 @@
 title: "Graduating from Red Hat Engineering Leadership Accelerator (ELA)"
 description: "Reflecting on nine months of growth, strategic collaboration, and leadership insights following my graduation from the Red Hat Engineering Leadership Accelerator (ELA)."
 image: 202406-ELA1.jpeg
-tags: Leadership Development, Engineering Leadership, Red Hat, Career Growth
+tags: LeadershipDevelopment, EngineeringLeadership, RedHat, CareerGrowth
 author: zineb
 ---
 

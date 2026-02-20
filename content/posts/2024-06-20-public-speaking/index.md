@@ -2,7 +2,7 @@
 title: "Finding My Voice: 3 Tips for New Tech Speakers"
 description: "Overcoming stage fear and finding joy in public speaking. Sharing my journey and advice for those ready to take the stage."
 image: 202205-devoxx-uk-speaker.jpg
-tags: Leadership Development, Public Speaking, Career Growth
+tags: LeadershipDevelopment, PublicSpeaking, CareerGrowth
 author: zineb
 ---
 
