@@ -2,14 +2,31 @@ name: CI
 
 on:
   pull_request:
+    types: [opened, synchronize, reopened, closed]
     branches: [main]
 
+concurrency:
+  group: preview-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
-  build:
+  preview:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
     steps:
       - uses: actions/checkout@v4
       - name: Build Roq site
+        if: github.event.action != 'closed'
         uses: quarkiverse/quarkus-roq@v1
         with:
           github-pages: false
+          site-url: https://zbendhiba.github.io/pr-preview/pr-${{ github.event.pull_request.number }}
+      - name: Deploy PR preview
+        uses: rossjrw/pr-preview-action@v1
+        with:
+          source-dir: target/roq
+          preview-branch: gh-pages
+          umbrella-dir: pr-preview
+          action: auto
