@@ -383,6 +383,21 @@ aside.sidebar.main {
   margin: 0;
 }
 
+/* Share buttons on blog posts */
+.page-share {
+  display: flex;
+  gap: 1.2rem;
+}
+
+.page-share a {
+  font-size: 1.25rem;
+  transition: opacity .15s;
+}
+
+.page-share a:hover {
+  opacity: .7;
+}
+
 /* Pages conf & podcast */
 h2 {
   color: $accent;
