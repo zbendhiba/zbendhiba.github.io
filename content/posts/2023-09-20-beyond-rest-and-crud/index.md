@@ -2,7 +2,7 @@
 title: "Beyond REST and CRUD - Integration patterns in Microservices"
 description: "Co-presentation with Erin Schnabel on Microservices Integration Patterns using Apache Camel"
 image: 2023-rest-and-crud.png
-tags: ApacheCamel, Java, Quarkus, Integration patterns, Rest, Microservices
+tags: ApacheCamel, Java, Quarkus, IntegrationPatterns, Rest, Microservices
 link: /camel-quarkus/quarkus/microservices/beyond-rest-and-crud/
 author: zineb
 ---

@@ -2,7 +2,7 @@
 title: "Quarkus meets AI: Build your own LLM-powered application"
 description: "Co-presentation with Dimitris Andreadis at Devoxx Greece on building LLM-powered applications with Quarkus and LangChain4j"
 image: 2024_devoxx-greece.JPG
-tags: Java, Cloud-Native, Quarkus, Apache Camel, AI, LangChain4j
+tags: Java, Cloud-Native, Quarkus, ApacheCamel, AI, LangChain4j
 link: /quarkus/langchain4j/ai/quarkus-meets-ai/
 author: zineb
 ---

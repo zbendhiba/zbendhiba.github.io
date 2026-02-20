@@ -2,7 +2,7 @@
 title: "Connecting disparate systems in a lightweight way"
 description: "My talk on integrating microservices with external systems using Apache Camel and Quarkus"
 image: zineb_bendhiba_2022-cropped.jpg
-tags: ApacheCamel, Java, Quarkus, Integration patterns, Rest, Microservices
+tags: ApacheCamel, Java, Quarkus, IntegrationPatterns, Rest, Microservices
 link: /camel-quarkus/quarkus/microservices/integration/connecting-systems/
 author: zineb
 ---
