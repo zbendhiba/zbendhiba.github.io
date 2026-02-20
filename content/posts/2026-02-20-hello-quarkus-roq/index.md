@@ -2,8 +2,11 @@
 title: "Hello Quarkus Roq!"
 description: "How I migrated my blog from Jekyll to Quarkus Roq, and my first full vibe coding experience with Claude Code"
 tags: Quarkus, Roq, Claude Code, Vibe Coding
+image: hello-quarkus-roq-avatar.png
 author: zineb
 ---
+
+![Vibe coding with Quarkus Roq](/images/hello-quarkus-roq-avatar.png)
 
 For years, my personal website ran on Jekyll. It worked, but as a Quarkus developer, I always felt a bit out of place running `jekyll serve` and dealing with cryptic Ruby errors that had nothing to do with my daily work. I wanted my blog to feel like home.
 
