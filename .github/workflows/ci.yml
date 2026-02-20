@@ -17,28 +17,16 @@ jobs:
       pull-requests: write
     steps:
       - uses: actions/checkout@v4
-      - name: Get GitHub Pages URL
-        id: pages
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          raw=$(gh api "repos/$GITHUB_REPOSITORY/pages" --jq '.html_url' 2>/dev/null || echo '')
-          url=$(echo "$raw" | sed 's|https\?://||; s|/$||')
-          if [ -z "$url" ]; then
-            echo "::warning::Could not fetch GitHub Pages URL. Falling back to empty pages-base-url."
-          fi
-          echo "url=$url" >> $GITHUB_OUTPUT
       - name: Build Roq site
         if: github.event.action != 'closed'
         uses: quarkiverse/quarkus-roq@v1
         with:
           github-pages: false
-          site-url: /pr-preview/pr-${{ github.event.pull_request.number }}
+          site-url: https://zinebbendhiba.com/pr-preview/pr-${{ github.event.pull_request.number }}
       - name: Deploy PR preview
         uses: rossjrw/pr-preview-action@v1
         with:
           source-dir: target/roq
           preview-branch: gh-pages
           umbrella-dir: pr-preview
-          pages-base-url: ${{ steps.pages.outputs.url }}
           action: auto
