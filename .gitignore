@@ -81,3 +81,5 @@ replay_pid*
 
 # Claude code
 CLAUDE.md
+.claude/
+.bob/
