@@ -26,7 +26,7 @@ You could check my Resume on my [Linkedin profile](https://www.linkedin.com/in/z
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="98007dfb-f456-4271-b2a6-235debd03720" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ## Short bio
-Zineb Bendhiba is a Principal Software Engineer at IBM, specializing in AI and Enterprise Integration. She is an Apache Camel PMC member and a core maintainer for Camel Quarkus, with deep expertise in the Quarkus ecosystem. Passionate about open source innovation, Zineb is a frequent speaker at events like Devoxx and Red Hat Summit, where she shares her insights on evolving developer ecosystems.
+I'm Zineb Bendhiba. I love building things that solve real problems for users. Principal Software Engineer at IBM, working on Enterprise Integration. Right now I'm focused on bringing AI into the open source projects I contribute to. Apache Camel PMC member, Camel Quarkus maintainer. I'm a frequent speaker at events like Devoxx and Red Hat Summit.
 
 <script>
   document.addEventListener('DOMContentLoaded', function() {
