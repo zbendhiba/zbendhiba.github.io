@@ -6,7 +6,9 @@ layout: :theme/page
 
 ## Upcoming
 
-
+| Date | Event | Details |
+| ------------- |---------------|:------:|
+| 05-06 | [Duchess France](https://www.duchess-france.fr/)|🇫🇷 [L'intégration intelligente : Quand vos flux de données deviennent autonomes](https://luma.com/p3bidzcf) |
 
 ## 2025
 
