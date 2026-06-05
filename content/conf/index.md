@@ -4,16 +4,11 @@ link: /conf/
 layout: page
 ---
 
-## Upcoming
-
-| Date | Event | Details |
-| ------------- |---------------|:------:|
-| 05-06 | [Duchess France](https://www.duchess-france.fr/)|🇫🇷 [L'intégration intelligente : Quand vos flux de données deviennent autonomes](/talk/integration-intelligente/) |
-
 ## 2026
 
 | Date | Event | Details |
 | ------------- |---------------|:------:|
+| 05-06 | [Duchess France](https://www.duchess-france.fr/)|🇫🇷 [L'intégration intelligente : Quand vos flux de données deviennent autonomes](/talk/integration-intelligente/) |
 | 04-23 | [Devoxx France](https://www.devoxx.fr/)|🇫🇷🇬🇧 [Meet with Quarkus](https://m.devoxx.com/events/devoxxfr2026/talks/165202/meet-with-quarkus) with [Max Rydahl Andersen](https://www.linkedin.com/in/maxrydahlandersen/) |
 
 ## 2025

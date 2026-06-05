@@ -55,7 +55,7 @@ For a task that touches the pom.xml, 11 templates, the CSS, and 30 content files
 
 If you're a Java dev running Jekyll, Hugo, or something else, here's what I learned:
 
-1. **Quarkus Roq is ready.** It works, it's simple, and it's Quarkus. Hot reload in dev mode, Qute templates, Markdown for content. They even have a <a href="https://iamroq.dev/docs/getting-started/" target="_blank">CLI</a>: `roq create my-site` and you're up and running.
+1. **Quarkus Roq is ready.** It works, it's simple, and it's Quarkus. Hot reload in dev mode, Qute templates, Markdown for content. They even have a <a href="https://iamroq.dev/docs/getting-started/" target="_blank">CLI</a>: `roq create my-site` and you're up and running. Check the <a href="https://iamroq.dev/docs/migrating/" target="_blank">migration guide</a> if you're coming from Jekyll or Hugo.
 2. **Preserve your URLs and feed.** Use the <a href="https://iamroq.dev/plugin/aliases/" target="_blank">aliases plugin</a> to redirect your old URLs. And if your old RSS was at `/feed.xml`, create a `content/feed.xml` that includes Roq's RSS template. Your SEO and subscribers will thank you.
 3. **Set an image in your frontmatter.** Roq's SEO tag uses the `image` field to generate <a href="https://iamroq.dev/posts/out-of-the-box-awesome-seo/" target="_blank">Open Graph meta tags</a>. That's the preview image people see when your post is shared on Twitter, LinkedIn, or Bluesky. Very handy for blog posts.
 4. **Know when to use the default theme.** The default Roq theme is great for building quick sites. I use it for my workshop websites for instance. You can also override parts of it for small customizations. But if you want your site to feel truly unique, going custom Tailwind gives you full control over your design.
