@@ -17,19 +17,32 @@ h2 { color: #5b3ea6; }
 
 /* ===== Code blocks ===== */
 
-pre {
-  background: #5b3ea6;
-  color: #f0eaf8;
-  padding: 1.2rem 1.4rem;
-  border-radius: .6rem;
+pre, .prose pre {
+  background: #1e293b !important;
+  color: #e2e8f0 !important;
+  padding: 1.4rem 1.4rem 1.2rem;
+  border-radius: .75rem;
   overflow-x: auto;
   font-size: .9rem;
   line-height: 1.6;
+  position: relative;
 }
 
-pre code {
-  background: none;
-  color: inherit;
+pre::before, .prose pre::before {
+  content: "● ● ●";
+  display: block;
+  font-size: .55rem;
+  letter-spacing: .35em;
+  margin-bottom: .8rem;
+  background: linear-gradient(90deg, #ff5f57 0%, #ff5f57 18%, transparent 18%, transparent 33%, #febc2e 33%, #febc2e 51%, transparent 51%, transparent 66%, #28c840 66%, #28c840 84%, transparent 84%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+pre code, .prose pre code {
+  background: none !important;
+  color: inherit !important;
   padding: 0;
 }
 
