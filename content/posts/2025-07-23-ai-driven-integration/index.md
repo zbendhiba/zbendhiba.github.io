@@ -3,7 +3,6 @@ title: "Enterprise Integration Is Dead! Long Live AI-Driven Integration with Apa
 description: "Markus Eisele and Bruno Meseguer present AI-driven integration with Apache Camel, LangChain4j and Wanaku at Devoxx UK"
 image: 2025_devoxxuk-marcus-bruno.png
 tags: ApacheCamel, LangChain4j, AI, Integration, Devoxx
-aliases: [/apache camel/langchain4j/ai/integration/ai-driven-integration/]
 author: zineb
 ---
 
