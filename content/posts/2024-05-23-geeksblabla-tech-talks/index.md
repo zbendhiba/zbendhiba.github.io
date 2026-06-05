@@ -3,7 +3,7 @@ title: "Episode #177 of GeeksBlabla: DevRel and Tech Talks Insights"
 description: "Joining a Moroccan panel on GeeksBlabla to discuss tech speaking, DevRel and conference tips"
 image: 2024-geeksblabla-devrel.png
 tags: TechSpeaker, TechTalks
-aliases: [/tech%20talks/tech%20speaker/podcast/geeksblabla-tech-talks/]
+aliases: [/tech talks/tech speaker/podcast/geeksblabla-tech-talks/]
 author: zineb
 ---
 
