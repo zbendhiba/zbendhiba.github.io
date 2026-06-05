@@ -1,7 +1,7 @@
 ---
 title: Quarkus Insights - Episode 110 - Apache Camel
 link: /talk/quarkus-insights-110/
-layout: :theme/page
+layout: page
 ---
 
 # 🇬🇧 Quarkus Insights - Episode 110 - Apache Camel

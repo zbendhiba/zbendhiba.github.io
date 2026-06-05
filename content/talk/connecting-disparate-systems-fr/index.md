@@ -1,6 +1,6 @@
 ---
 title: "Interconnecter des systèmes disparates de manière efficace"
-layout: :theme/page
+layout: page
 link: /talk/connecting-disparate-systems-fr/
 ---
 

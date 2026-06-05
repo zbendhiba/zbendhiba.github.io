@@ -1,7 +1,7 @@
 ---
 title: Build a Multichannel Hub with Apache Camel and Quarkus
 link: /lab/multichannel-hub-camel-quarkus/
-layout: :theme/page
+layout: page
 ---
 
 # 🇬🇧  Build a Multichannel Hub with Apache Camel and Quarkus

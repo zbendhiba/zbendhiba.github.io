@@ -1,0 +1,48 @@
+{@io.quarkiverse.roq.frontmatter.runtime.model.Site site}
+
+<footer class="w-full bg-gray-50 border-t border-gray-200 py-8 px-6 text-center">
+  <div class="flex justify-center gap-5 mb-3 text-xl">
+    {#if site.data.get('social-twitter')??}
+    <a href="https://twitter.com/{site.data.get('social-twitter')}" target="_blank" aria-label="Twitter" class="hover:opacity-70 transition-opacity">
+      <i class="fab fa-x-twitter" aria-hidden="true"></i>
+    </a>
+    {/if}
+    {#if site.data.get('social-github')??}
+    <a href="https://github.com/{site.data.get('social-github')}" target="_blank" aria-label="GitHub" class="hover:opacity-70 transition-opacity">
+      <i class="fab fa-github" aria-hidden="true"></i>
+    </a>
+    {/if}
+    {#if site.data.get('social-linkedin')??}
+    <a href="https://www.linkedin.com/in/{site.data.get('social-linkedin')}" target="_blank" aria-label="LinkedIn" class="hover:opacity-70 transition-opacity">
+      <i class="fab fa-linkedin" aria-hidden="true"></i>
+    </a>
+    {/if}
+    {#if site.data.get('social-youtube')??}
+    <a href="https://www.youtube.com/{site.data.get('social-youtube')}" target="_blank" aria-label="YouTube" class="hover:opacity-70 transition-opacity">
+      <i class="fab fa-youtube" aria-hidden="true"></i>
+    </a>
+    {/if}
+    {#if site.data.get('social-bluesky')??}
+    <a href="https://bsky.app/profile/{site.data.get('social-bluesky')}" target="_blank" aria-label="Bluesky" class="hover:opacity-70 transition-opacity">
+      <i class="fab fa-bluesky" aria-hidden="true"></i>
+    </a>
+    {/if}
+    {#if site.data.get('social-mastodon')??}
+    <a href="{site.data.get('social-mastodon')}" target="_blank" aria-label="Mastodon" class="hover:opacity-70 transition-opacity">
+      <i class="fab fa-mastodon" aria-hidden="true"></i>
+    </a>
+    {/if}
+    {#if site.data.get('social-instagram')??}
+    <a href="https://www.instagram.com/{site.data.get('social-instagram')}" target="_blank" aria-label="Instagram" class="hover:opacity-70 transition-opacity">
+      <i class="fab fa-instagram" aria-hidden="true"></i>
+    </a>
+    {/if}
+    <a href="https://www.credly.com/users/zineb-bendhiba/badges" target="_blank" aria-label="Credly" class="hover:opacity-70 transition-opacity">
+      <i class="fa fa-certificate" aria-hidden="true"></i>
+    </a>
+    <a href="/rss.xml" target="_blank" aria-label="RSS Feed" class="hover:opacity-70 transition-opacity">
+      <i class="fa fa-rss" aria-hidden="true"></i>
+    </a>
+  </div>
+  <p class="text-gray-500 text-sm m-0">{now.format('Y')} &copy; {site.data.name}. Powered by Quarkus Roq.</p>
+</footer>

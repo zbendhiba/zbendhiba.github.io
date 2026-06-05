@@ -1,6 +1,6 @@
 ---
 title: "Communauté, tu aideras. Sagesse et force, tu gagneras"
-layout: :theme/page
+layout: page
 link: /talk/contribution-fr/
 ---
 

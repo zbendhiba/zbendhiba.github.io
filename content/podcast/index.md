@@ -1,7 +1,7 @@
 ---
 title: "Podcasts"
 link: /podcast/
-layout: :theme/page
+layout: page
 ---
 
 ## 2025

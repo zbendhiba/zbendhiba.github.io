@@ -1,7 +1,7 @@
 ---
 title: Serverless Integration with Camel Quarkus
 link: /talk/serverless-integration-camel/
-layout: :theme/page
+layout: page
 ---
 
 # 🇬🇧 Serverless Integration with Camel Quarkus

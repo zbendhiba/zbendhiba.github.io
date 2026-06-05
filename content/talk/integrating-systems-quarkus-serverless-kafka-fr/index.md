@@ -1,6 +1,6 @@
 ---
 title: "Intégration à l'ère du cloud avec Camel Quarkus"
-layout: :theme/page
+layout: page
 link: /talk/integrating-systems-quarkus-serverless-kafka-fr/
 ---
 

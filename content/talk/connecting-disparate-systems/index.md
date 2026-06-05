@@ -1,6 +1,6 @@
 ---
 title: "Connecting disparate systems in a lightweight way"
-layout: :theme/page
+layout: page
 link: /talk/connecting-disparate-systems/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "A Story about Serverless Camels Living in Containers"
-layout: :theme/page
+layout: page
 link: /talk/serverless-camels/
 ---
 

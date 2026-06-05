@@ -1,7 +1,7 @@
 ---
 title: Supersonic Subatomic Apache Camel
 link: /talk/supersonic-subatomic-apache-camel/
-layout: :theme/page
+layout: page
 ---
 
 # 🇬🇧 🇲🇦 Supersonic Subatomic Apache Camel

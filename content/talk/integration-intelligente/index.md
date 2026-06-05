@@ -1,6 +1,6 @@
 ---
 title: "L'intégration intelligente : Quand vos flux de données deviennent autonomes"
-layout: :theme/page
+layout: page
 link: /talk/integration-intelligente/
 ---
 

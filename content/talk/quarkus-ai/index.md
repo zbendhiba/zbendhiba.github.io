@@ -1,6 +1,6 @@
 ---
 title: "Quarkus meets AI - Build your own LLM-powered application"
-layout: :theme/page
+layout: page
 link: /talk/quarkus-ai/
 ---
 

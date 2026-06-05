@@ -1,0 +1,73 @@
+---
+layout: main
+asciidoc-attributes:
+  notitle: true
+---
+
+{@io.quarkiverse.roq.frontmatter.runtime.model.DocumentPage page}
+
+<article class="max-w-none">
+  {#if page.image}
+  <div class="mb-6">
+    <figure>
+      <img class="w-full rounded-lg" src="{page.image}" alt="{page.title}">
+      {#if page.data.figCaption??}
+      <figcaption class="text-center text-sm text-gray-500 mt-2">{page.data.figCaption}</figcaption>
+      {/if}
+    </figure>
+  </div>
+  {/if}
+
+  <header class="mb-6">
+    <h1 class="text-3xl font-bold mb-2">{page.title}</h1>
+    <div class="text-gray-400 text-sm">{page.date.format('yyyy, MMM dd')}</div>
+  </header>
+
+  <div class="prose">
+    {#insert /}
+  </div>
+
+  <div class="mt-8 pt-6 border-t border-gray-200">
+    <div class="flex flex-wrap items-center justify-between gap-4">
+      <div class="page-share">
+        <a href="https://twitter.com/intent/tweet?text={page.title}&url={page.url.absolute}"
+           title="Share on Twitter" rel="nofollow" target="_blank" aria-label="Share on Twitter">
+          <i class="fab fa-x-twitter" aria-hidden="true"></i>
+        </a>
+        <a href="https://bsky.app/intent/compose?text={page.title}%0ACheck%20it%20out%20{page.url.absolute}"
+           title="Share on Bluesky" rel="nofollow" target="_blank" aria-label="Share on Bluesky">
+          <i class="fab fa-bluesky" aria-hidden="true"></i>
+        </a>
+        <a href="https://www.linkedin.com/sharing/share-offsite/?url={page.url.absolute}"
+           title="Share on LinkedIn" rel="nofollow" target="_blank" aria-label="Share on LinkedIn">
+          <i class="fab fa-linkedin" aria-hidden="true"></i>
+        </a>
+        <a href="https://facebook.com/sharer.php?u={page.url.absolute}"
+           title="Share on Facebook" rel="nofollow" target="_blank" aria-label="Share on Facebook">
+          <i class="fab fa-facebook" aria-hidden="true"></i>
+        </a>
+      </div>
+      <div class="flex flex-wrap gap-2">
+        {#for tag in page.data.tags.asStrings}
+        {#let tagSlug = tag.slugify}
+        <a href="{site.url('/posts/tag', tagSlug)}" class="text-sm px-2 py-1 rounded bg-accent-soft !no-underline">&#35; {tagSlug}</a>
+        {/let}
+        {/for}
+      </div>
+    </div>
+
+    {#if page.data.author??}
+    {#let author=cdi:authors.get(page.data.author)}
+    {#if author}
+    <div class="flex items-center gap-4 mt-6">
+      <img class="w-12 h-12 rounded-full" src="{site.image(author.avatar)}" alt="author-{page.data.author}">
+      <div>
+        <a target="_blank" href="{author.profile}" class="font-semibold !no-underline">{author.name}</a>
+        <span class="block text-gray-500 text-sm">{author.job}</span>
+      </div>
+    </div>
+    {/if}
+    {/let}
+    {/if}
+  </div>
+</article>

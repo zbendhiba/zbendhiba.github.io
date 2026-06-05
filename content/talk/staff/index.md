@@ -1,6 +1,6 @@
 ---
 title: "Leading Beyond Code - My Journey as a Staff Engineer"
-layout: :theme/page
+layout: page
 link: /talk/staff/
 ---
 

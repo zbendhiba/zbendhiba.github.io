@@ -1,7 +1,7 @@
 ---
 title: "About"
 link: /bio/
-layout: :theme/page
+layout: page
 ---
 
 <div class="zb-bio">

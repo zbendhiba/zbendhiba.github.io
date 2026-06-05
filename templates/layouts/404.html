@@ -1,0 +1,15 @@
+---
+title: "Page not found"
+layout: default
+link: 404.html
+sitemap: false
+search: false
+---
+
+{@io.quarkiverse.roq.frontmatter.runtime.model.Site site}
+
+<div class="flex flex-col items-center justify-center min-h-screen text-center px-6">
+  <h1 class="text-6xl font-bold text-gray-300 mb-4">404</h1>
+  <p class="text-xl text-gray-600 mb-6">Oops! This page doesn't exist.</p>
+  <a href="{site.url}" class="zb-btn-primary">Back to home</a>
+</div>

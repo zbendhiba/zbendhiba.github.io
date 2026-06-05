@@ -1,6 +1,6 @@
 ---
 title: "MCP in Action: Connecting AI to Enterprise Systems"
-layout: :theme/page
+layout: page
 link: /talk/mcp-in-action/
 ---
 

@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+{@io.quarkiverse.roq.frontmatter.runtime.model.Site site}
+
+<div class="flex flex-col min-h-screen">
+  {#include partials/header.html menu=cdi:menu.items /}
+
+  <main class="flex-1 w-full max-w-[1120px] mx-auto px-4 md:px-8 py-4">
+    {#insert /}
+  </main>
+
+  {#include partials/footer.html /}
+</div>

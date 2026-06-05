@@ -1,0 +1,41 @@
+{@io.quarkiverse.roq.frontmatter.runtime.model.Site site}
+{@java.util.List<io.vertx.core.json.JsonObject> menu}
+
+<header class="sticky top-0 z-50 bg-white border-b-2 border-accent-soft shadow-sm px-6 py-2.5">
+  <div class="flex items-center">
+    <div class="flex items-center gap-2.5 no-underline">
+      {#if site.image}
+      <a href="{site.url}"><img class="w-10 h-10 rounded-full object-cover" src="{site.image}" alt="{site.data.name}"></a>
+      {/if}
+      <a href="{site.url}" class="font-semibold text-gray-900 !no-underline">{site.data.name}</a>
+    </div>
+
+    <ul class="hidden md:flex ml-auto list-none gap-0.5 m-0 p-0">
+      {#for item in menu}
+      <li>
+        <a href="{site.url(item.path)}" {#if item.target??}target="{item.target}"{/if}
+           class="inline-flex items-center gap-1.5 px-3 py-2 rounded-md text-sm font-medium hover:bg-accent-soft !no-underline transition-colors">
+          <i class="{item.icon}" aria-hidden="true"></i> {item.title}
+        </a>
+      </li>
+      {/for}
+    </ul>
+
+    <button class="navbar-hamburger md:hidden" aria-label="Toggle menu" aria-expanded="false">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+  </div>
+
+  <ul class="navbar-dropdown hidden list-none m-0 p-2 absolute left-0 right-0 bg-white border-b-2 border-accent-soft shadow-md" style="top: 100%;">
+    {#for item in menu}
+    <li>
+      <a href="{site.url(item.path)}" {#if item.target??}target="{item.target}"{/if}
+         class="flex items-center gap-2 px-6 py-3 text-base font-medium hover:bg-accent-soft !no-underline transition-colors">
+        <i class="{item.icon}" aria-hidden="true"></i> {item.title}
+      </a>
+    </li>
+    {/for}
+  </ul>
+</header>

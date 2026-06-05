@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 link: /publications/
-layout: :theme/page
+layout: page
 ---
 
 ## Publications

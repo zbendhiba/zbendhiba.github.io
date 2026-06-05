@@ -1,7 +1,7 @@
 ---
 title: Openshift Commons - Integration in OpenShift
 link: /talk/openshift-commons-2021/
-layout: :theme/page
+layout: page
 ---
 
 # 🇬🇧 Openshift Commons - Integration in OpenShift

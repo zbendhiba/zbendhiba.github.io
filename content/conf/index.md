@@ -1,7 +1,7 @@
 ---
 title: "Talks and Workshops"
 link: /conf/
-layout: :theme/page
+layout: page
 ---
 
 ## Upcoming

@@ -1,0 +1,29 @@
+---
+layout: main
+---
+
+{@io.quarkiverse.roq.frontmatter.runtime.model.NormalPage page}
+
+<div class="hero">
+  {#insert /}
+</div>
+
+{#if site.collections.get('posts')}
+{#for post in site.collections.get('posts').paginated(page.paginator)}
+<article class="post flex gap-6 mb-8 pb-8 border-b border-gray-100">
+  {#if post.image}
+  <a class="post-thumbnail shrink-0" style='background-image: url("{post.image}")' href="{post.url}"></a>
+  {/if}
+  <div class="flex flex-col justify-center">
+    <h2 class="text-xl font-semibold mb-2"><a href="{post.url}" class="!no-underline">{post.title}</a></h2>
+    <p class="text-gray-600 mb-2">{post.description ?: post.contentAbstract}</p>
+    <div>
+      <span class="text-gray-400 text-sm">{post.date.format('yyyy, MMM dd')}&nbsp;&nbsp;&nbsp;—&nbsp;</span>
+      <span class="text-gray-400 text-sm">{post.readTime} minute(s) read</span>
+    </div>
+  </div>
+</article>
+{/for}
+
+{#include partials/pagination.html /}
+{/if}

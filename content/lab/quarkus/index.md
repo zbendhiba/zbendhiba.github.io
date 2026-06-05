@@ -1,7 +1,7 @@
 ---
 title: Cloud Native Java Development with Quarkus
 link: /lab/quarkus/
-layout: :theme/page
+layout: page
 ---
 
 # 🇬🇧  Cloud Native Java Development with Quarkus

@@ -1,6 +1,6 @@
 ---
 title: "MCP en action - Connecter les IA aux systèmes d'entreprise"
-layout: :theme/page
+layout: page
 link: /talk/mcp-in-action-fr/
 ---
 
