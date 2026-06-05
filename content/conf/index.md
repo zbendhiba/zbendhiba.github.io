@@ -1,6 +1,6 @@
 ---
 title: "Talks and Workshops"
-aliases: [/conf/]
+link: /conf/
 layout: page
 ---
 

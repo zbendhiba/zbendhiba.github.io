@@ -1,7 +1,7 @@
 ---
 title: "Améliorez votre intégration de systèmes avec Apache Camel Quarkus"
 layout: page
-aliases: [/lab/camel-quarkus-workshop-fr/]
+link: /lab/camel-quarkus-workshop-fr/
 ---
 
 # 🇫🇷 Améliorez votre intégration de systèmes avec Apache Camel Quarkus

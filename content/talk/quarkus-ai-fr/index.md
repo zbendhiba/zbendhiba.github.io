@@ -1,7 +1,7 @@
 ---
 title: "Quarkus et Langchain4j - les clés pour intégrer les LLMs dans vos applications Java"
 layout: page
-aliases: [/talk/quarkus-ai-fr/]
+link: /talk/quarkus-ai-fr/
 ---
 
 # 🇫🇷 Quarkus et Langchain4j - les clés pour intégrer les LLMs dans vos applications Java

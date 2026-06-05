@@ -1,6 +1,6 @@
 ---
 title: Quarkus Insights - Episode 110 - Apache Camel
-aliases: [/talk/quarkus-insights-110/]
+link: /talk/quarkus-insights-110/
 layout: page
 ---
 

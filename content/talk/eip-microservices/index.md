@@ -1,7 +1,7 @@
 ---
 title: "Beyond REST and CRUD - Integration patterns in Microservices"
 layout: page
-aliases: [/talk/eip-microservices/]
+link: /talk/eip-microservices/
 ---
 
 # 🇬🇧 Beyond REST and CRUD - Integration patterns in Microservices

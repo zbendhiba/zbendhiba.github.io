@@ -1,6 +1,6 @@
 ---
 title: Cloud Native Java Development with Quarkus
-aliases: [/lab/quarkus/]
+link: /lab/quarkus/
 layout: page
 ---
 

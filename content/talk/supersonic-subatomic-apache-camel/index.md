@@ -1,6 +1,6 @@
 ---
 title: Supersonic Subatomic Apache Camel
-aliases: [/talk/supersonic-subatomic-apache-camel/]
+link: /talk/supersonic-subatomic-apache-camel/
 layout: page
 ---
 

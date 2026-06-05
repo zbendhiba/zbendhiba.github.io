@@ -1,7 +1,7 @@
 ---
 title: "MCP in Action: Connecting AI to Enterprise Systems"
 layout: page
-aliases: [/talk/mcp-in-action/]
+link: /talk/mcp-in-action/
 ---
 
 # 🇬🇧  MCP in Action: Connecting AI to Enterprise Systems

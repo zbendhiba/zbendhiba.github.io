@@ -1,7 +1,7 @@
 ---
 title: "Leading Beyond Code - My Journey as a Staff Engineer"
 layout: page
-aliases: [/talk/staff/]
+link: /talk/staff/
 ---
 
 # 🇲🇦 Leading Beyond Code - My Journey as a Staff Engineer

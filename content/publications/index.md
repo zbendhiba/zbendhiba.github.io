@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-aliases: [/publications/]
+link: /publications/
 layout: page
 ---
 

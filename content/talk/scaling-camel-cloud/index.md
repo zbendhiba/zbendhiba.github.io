@@ -1,6 +1,6 @@
 ---
 title: Scaling Camel to the Cloud
-aliases: [/talk/scaling-camel-cloud/]
+link: /talk/scaling-camel-cloud/
 layout: page
 ---
 

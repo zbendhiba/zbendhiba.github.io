@@ -1,7 +1,7 @@
 ---
 title: "Connecting disparate systems with the Red Hat Build of Apache Camel and Red Hat AMQ"
 layout: page
-aliases: [/talk/connecting-systems-rh-summit/]
+link: /talk/connecting-systems-rh-summit/
 ---
 
 # 🇬🇧  Connecting disparate systems with the Red Hat Build of Apache Camel and Red Hat AMQ

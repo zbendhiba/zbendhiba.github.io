@@ -1,7 +1,7 @@
 ---
 title: "Interconnecter des systèmes disparates de manière efficace"
 layout: page
-aliases: [/talk/connecting-disparate-systems-fr/]
+link: /talk/connecting-disparate-systems-fr/
 ---
 
 # 🇫🇷 Interconnecter des systèmes disparates de manière efficace

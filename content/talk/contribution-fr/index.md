@@ -1,7 +1,7 @@
 ---
 title: "Communauté, tu aideras. Sagesse et force, tu gagneras"
 layout: page
-aliases: [/talk/contribution-fr/]
+link: /talk/contribution-fr/
 ---
 
 # 🇫🇷 Communauté, tu aideras. Sagesse et force, tu gagneras

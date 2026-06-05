@@ -1,7 +1,7 @@
 ---
 title: "A Story about Serverless Camels Living in Containers"
 layout: page
-aliases: [/talk/serverless-camels/]
+link: /talk/serverless-camels/
 ---
 
 # 🇬🇧 A Story about Serverless Camels Living in Containers

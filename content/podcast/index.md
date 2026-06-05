@@ -1,6 +1,6 @@
 ---
 title: "Podcasts"
-aliases: [/podcast/]
+link: /podcast/
 layout: page
 ---
 
