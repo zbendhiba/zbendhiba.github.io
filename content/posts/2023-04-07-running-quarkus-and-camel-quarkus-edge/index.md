@@ -3,7 +3,7 @@ title: "Running Quarkus and Camel Quarkus on Microshift"
 description: "A quick POC to run Quarkus and Camel Quarkus applications on Microshift for edge computing"
 image: zineb_bendhiba_2022-cropped.jpg
 tags: ApacheCamel, Java, Quarkus, Integration, Edge, Microshift
-link: /camel-quarkus/quarkus/running-quarkus-and-camel-quarkus-edge/
+aliases: [/camel-quarkus/quarkus/running-quarkus-and-camel-quarkus-edge/]
 author: zineb
 ---
 

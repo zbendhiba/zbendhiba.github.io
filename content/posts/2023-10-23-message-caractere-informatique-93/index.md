@@ -3,7 +3,7 @@ title: "Message à caractère informatique at Devoxx Morocco - Clever Cloud podc
 description: "My appearance on the Message à caractère informatique podcast episode 93 at Devoxx Morocco"
 image: zineb_bendhiba_2022-cropped.jpg
 tags: ApacheCamel, podcast, conference
-link: /conference/podcast/message-caractere-informatique-93/
+aliases: [/conference/podcast/message-caractere-informatique-93/]
 author: zineb
 ---
 

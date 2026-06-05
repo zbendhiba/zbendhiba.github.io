@@ -3,7 +3,7 @@ title: "If This Then Dev: MCP Servers"
 description: "Mon passage dans le podcast If This Then Dev pour parler de MCP Servers"
 image: zineb_bendhiba_2022-cropped.jpg
 tags: AI, MCP, podcast
-link: /ai/mcp/podcast/if-this-then-dev-mcp-servers/
+aliases: [/ai/mcp/podcast/if-this-then-dev-mcp-servers/]
 author: zineb
 ---
 

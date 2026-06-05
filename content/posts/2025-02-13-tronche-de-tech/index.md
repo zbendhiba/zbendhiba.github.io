@@ -3,7 +3,7 @@ title: "Tronche de Tech: Vivre d'Open Source"
 description: "Mon interview sur Tronche de Tech : parcours, open source, licenciement, retour au code"
 image: troncheTech.jpg
 tags: career
-link: /career/tronche-de-tech/
+aliases: [/career/tronche-de-tech/]
 author: zineb
 ---
 

@@ -3,7 +3,7 @@ title: "2022, That's a Wrap!"
 description: "A look back at my 2022 highlights: Apache Camel PMC, conferences, communities and personal growth"
 image: 202205-quarkus.JPG
 tags: personal
-link: /personal/2022-wrap/
+aliases: [/personal/2022-wrap/]
 author: zineb
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Intégration Serverless avec Apache Camel"
 layout: page
-link: /talk/serverless-integration-camel-fr/
+aliases: [/talk/serverless-integration-camel-fr/]
 ---
 
 # 🇫🇷 Intégration Serverless avec Apache Camel

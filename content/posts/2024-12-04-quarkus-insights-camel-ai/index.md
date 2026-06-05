@@ -3,7 +3,7 @@ title: "Quarkus Insights #187: Camel with AI"
 description: "Co-presentation with Otavio Piske on integrating GenAI with Apache Camel, LangChain4j and Quarkus"
 image: 2024-Quarkus-Insights.png
 tags: ApacheCamel, Java, Quarkus, AI, LangChain4j
-link: /apachecamel/quarkus/ai/langchain4j/quarkus-insights-camel-ai/
+aliases: [/apachecamel/quarkus/ai/langchain4j/quarkus-insights-camel-ai/]
 author: zineb
 ---
 

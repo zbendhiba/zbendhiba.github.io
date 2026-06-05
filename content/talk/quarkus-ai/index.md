@@ -1,7 +1,7 @@
 ---
 title: "Quarkus meets AI - Build your own LLM-powered application"
 layout: page
-link: /talk/quarkus-ai/
+aliases: [/talk/quarkus-ai/]
 ---
 
 # 🇬🇧🇲🇦  Quarkus meets AI - Build your own LLM-powered application

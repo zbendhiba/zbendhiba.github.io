@@ -3,7 +3,7 @@ title: "Workshop Getting started with Camel Quarkus"
 description: "A workshop to get started with Apache Camel and Camel Quarkus, created with Alexandre Gallice"
 image: 2022-devoxx-fr-lab1.jpg
 tags: ApacheCamel, Java, Quarkus, Integration
-link: /camel-quarkus/getting-started-with-camel-quarkus-workshop/
+aliases: [/camel-quarkus/getting-started-with-camel-quarkus-workshop/]
 author: zineb
 ---
 

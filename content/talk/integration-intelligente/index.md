@@ -1,7 +1,7 @@
 ---
 title: "L'intégration intelligente : Quand vos flux de données deviennent autonomes"
 layout: page
-link: /talk/integration-intelligente/
+aliases: [/talk/integration-intelligente/]
 ---
 
 # 🇫🇷 L'intégration intelligente : Quand vos flux de données deviennent autonomes

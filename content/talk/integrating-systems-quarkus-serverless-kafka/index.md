@@ -1,7 +1,7 @@
 ---
 title: "Integrating systems in the age of Quarkus, serverless and Kafka"
 layout: page
-link: /talk/integrating-systems-quarkus-serverless-kafka/
+aliases: [/talk/integrating-systems-quarkus-serverless-kafka/]
 ---
 
 # 🇬🇧  Integrating systems in the age of Quarkus, serverless and Kafka

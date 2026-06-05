@@ -1,6 +1,6 @@
 ---
 title: "About"
-link: /bio/
+aliases: [/bio/]
 layout: page
 ---
 

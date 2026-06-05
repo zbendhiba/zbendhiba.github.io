@@ -1,6 +1,6 @@
 ---
 title: Openshift Commons - Integration in OpenShift
-link: /talk/openshift-commons-2021/
+aliases: [/talk/openshift-commons-2021/]
 layout: page
 ---
 

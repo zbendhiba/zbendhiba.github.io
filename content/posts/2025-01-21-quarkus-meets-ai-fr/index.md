@@ -3,7 +3,7 @@ title: "Quarkus et Langchain4j : les clés pour intégrer les LLMs dans vos appl
 description: "Ma conférence à Open Source Experience sur l'intégration des LLMs dans les applications Java avec Quarkus et LangChain4j"
 image: OSXP_2025.jpg
 tags: Java, Cloud-Native, Quarkus, AI, LangChain4j
-link: /quarkus/langchain4j/ai/quarkus-meets-ai-fr/
+aliases: [/quarkus/langchain4j/ai/quarkus-meets-ai-fr/]
 author: zineb
 ---
 

@@ -3,7 +3,7 @@ title: "Getting started with Camel Quarkus - Part 1 - Create your first applicat
 description: "Step by step guide to create and run your first Camel Quarkus application with the Timer extension"
 image: zineb_bendhiba_2022-cropped.jpg
 tags: ApacheCamel, Java, Quarkus, Integration
-link: /camel-quarkus/getting-started-with-camel-quarkus-01/
+aliases: [/camel-quarkus/getting-started-with-camel-quarkus-01/]
 author: zineb
 ---
 

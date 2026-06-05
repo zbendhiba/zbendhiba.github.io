@@ -1,7 +1,7 @@
 ---
 title: "Créer des Applications Intelligentes avec Quarkus et LangChain4j"
 layout: page
-link: /talk/fr-langchain4j/
+aliases: [/talk/fr-langchain4j/]
 ---
 
 # 🇫🇷 Créer des Applications Intelligentes avec Quarkus et LangChain4j

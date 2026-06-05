@@ -1,7 +1,7 @@
 ---
 title: "Connecting disparate systems in a lightweight way"
 layout: page
-link: /talk/connecting-disparate-systems/
+aliases: [/talk/connecting-disparate-systems/]
 ---
 
 # 🇬🇧  Connecting disparate systems in a lightweight way

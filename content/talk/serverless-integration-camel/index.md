@@ -1,6 +1,6 @@
 ---
 title: Serverless Integration with Camel Quarkus
-link: /talk/serverless-integration-camel/
+aliases: [/talk/serverless-integration-camel/]
 layout: page
 ---
 

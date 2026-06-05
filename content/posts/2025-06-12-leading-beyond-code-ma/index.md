@@ -3,7 +3,7 @@ title: "Leading Beyond Code - My Journey as a Staff Engineer"
 description: "My talk at Blabla conf about the Staff Engineer role, challenges, and my path to Principal Software Engineer"
 image: 2025-geeksblabla.png
 tags: career
-link: /career/leading-beyond-code-ma/
+aliases: [/career/leading-beyond-code-ma/]
 author: zineb
 ---
 
