@@ -59,7 +59,7 @@ If you're a Java dev running Jekyll, Hugo, or something else, here's what I lear
 2. **Preserve your URLs and feed.** Use the <a href="https://iamroq.dev/plugin/aliases/" target="_blank">aliases plugin</a> to redirect your old URLs. And if your old RSS was at `/feed.xml`, create a `content/feed.xml` that includes Roq's RSS template. Your SEO and subscribers will thank you.
 3. **Set an image in your frontmatter.** Roq's SEO tag uses the `image` field to generate <a href="https://iamroq.dev/posts/out-of-the-box-awesome-seo/" target="_blank">Open Graph meta tags</a>. That's the preview image people see when your post is shared on Twitter, LinkedIn, or Bluesky. Very handy for blog posts.
 4. **Know when to use the default theme.** The default Roq theme is great for building quick sites. I use it for my workshop websites for instance. You can also override parts of it for small customizations. But if you want your site to feel truly unique, going custom Tailwind gives you full control over your design.
-5. **Look at existing projects.** I looked at how <a href="https://blog.sunix.org/" target="_blank">Sun Tan</a> structured his Roq blog with Tailwind. It gave me the right architecture to follow.
+5. **Look at existing projects.** I looked at how <a href="https://blog.sunix.org/" target="_blank">Sun Tan</a> structured his Roq blog with Tailwind. He also <a href="https://iamroq.dev/posts/how-ai-helped-me-rebuild-my-blog-and-move-from-jekyll-to-quarkus-roq/" target="_blank">blogged about his own migration from Jekyll to Quarkus Roq</a>. It gave me the right architecture to follow.
 
 ## The final setup
 
