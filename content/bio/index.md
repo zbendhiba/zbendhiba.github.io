@@ -26,6 +26,8 @@ You could check my Resume on my [Linkedin profile](https://www.linkedin.com/in/z
 <div style="display: flex; gap: 1.5rem; flex-wrap: wrap;">
   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="98007dfb-f456-4271-b2a6-235debd03720" data-share-badge-host="https://www.credly.com"></div>
   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3255fcdf-391f-485d-83a8-352674f3226c" data-share-badge-host="https://www.credly.com"></div>
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="906e7f93-0f9c-4da4-8703-fe67fac98a69" data-share-badge-host="https://www.credly.com"></div>
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a1c6d874-3ff5-4069-93d6-2859c4438192" data-share-badge-host="https://www.credly.com"></div>
 </div>
 <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
