@@ -8,7 +8,7 @@ layout: page
   <div class="zb-bio-text">
     <h3>Hello there 👋</h3>
     <p>I'm Zineb Bendhiba. I love building things that solve real problems for users. Currently, I'm a Principal Software Engineer (ex Red Hat) at IBM, working at the intersection of AI and Enterprise Integration.</p>
-    <p>I'm a big believer in open source and collaboration. I'm a PMC member for Apache Camel and a maintainer for Camel Quarkus, with a deep focus on the Quarkus ecosystem. Most of my work is dedicated to these core projects, but I also focus on bringing new innovation into the ecosystem. I enjoy exploring new concepts and helping kick-start initiatives that move our community forward. This is how I've helped shape the early visions for projects like Wanaku, Kaoto, and Camel AI.</p>
+    <p>I'm a big believer in open source and collaboration. I'm a PMC member for Apache Camel and a maintainer for Camel Quarkus and Quarkus Qdrant, with a deep focus on the Quarkus ecosystem. Most of my work is dedicated to these core projects, but I also focus on bringing new innovation into the ecosystem. I enjoy exploring new concepts and helping kick-start initiatives that move our community forward. This is how I've helped shape the early visions for projects like Wanaku, Kaoto, and Camel AI.</p>
   </div>
   <div class="zb-bio-photo">
     <img src="/images/202406-boston.jpeg" alt="Zineb Bendhiba speaking at Devoxx">
@@ -30,7 +30,7 @@ You could check my Resume on my [Linkedin profile](https://www.linkedin.com/in/z
 <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ## Short bio
-I'm Zineb Bendhiba. I love building things that solve real problems for users. Principal Software Engineer at IBM, working on Enterprise Integration. Right now I'm focused on bringing AI into the open source projects I contribute to. Apache Camel PMC member, Camel Quarkus maintainer. I'm a frequent speaker at events like Devoxx and Red Hat Summit.
+I'm Zineb Bendhiba. I love building things that solve real problems for users. Principal Software Engineer at IBM, working on Enterprise Integration. Right now I'm focused on bringing AI into the open source projects I contribute to. Apache Camel PMC member, Camel Quarkus and Quarkus Qdrant maintainer. I'm a frequent speaker at events like Devoxx and Red Hat Summit.
 
 <script>
   document.addEventListener('DOMContentLoaded', function() {
