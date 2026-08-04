@@ -8,9 +8,9 @@ layout: page
 
 | Date | Publisher | Details |
 | ------------- |---------------|:------:|
-| 2026-04-16 | Apache Camel | 🇬🇧 [Apache Camel AI: Building an Email Triage Agent with OpenAI, Gmail Transformers, and Camel JBang](https://camel.apache.org/blog/2026/04/email-triage-agent/) |
-| 2024-05-28 | Red Hat Developer | 🇬🇧 [Feeding LLMs efficiently: data ingestion to vector databases with Apache Camel](https://developers.redhat.com/blog/2024/05/28/feeding-llms-efficiently-data-ingestion-vector-databases-apache-camel) |
-| 2021-11-01 | Programmez ! | 🇫🇷 [Intégration Camel Quarkus](https://www.programmez.com/magazine/article/integration-camel-quarkus) |
+| Apr-16-2026 | Apache Camel | 🇬🇧 [Apache Camel AI: Building an Email Triage Agent with OpenAI, Gmail Transformers, and Camel JBang](https://camel.apache.org/blog/2026/04/email-triage-agent/) |
+| May-28-2024 | Red Hat Developer | 🇬🇧 [Feeding LLMs efficiently: data ingestion to vector databases with Apache Camel](https://developers.redhat.com/blog/2024/05/28/feeding-llms-efficiently-data-ingestion-vector-databases-apache-camel) |
+| Nov-01-2021 | Programmez ! | 🇫🇷 [Intégration Camel Quarkus](https://www.programmez.com/magazine/article/integration-camel-quarkus) |
 
 <script>
   document.addEventListener('DOMContentLoaded', function() {
