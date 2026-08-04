@@ -1,60 +1,33 @@
 # zbendhiba.github.io
 
-This project uses Quarkus, the Supersonic Subatomic Java Framework.
+My personal portfolio and blog at [zinebbendhiba.com](https://zinebbendhiba.com/). I'm Zineb Bendhiba, Principal Software Engineer at IBM. Apache Camel PMC member, Camel Quarkus maintainer, and Quarkus Qdrant maintainer.
 
-If you want to learn more about Quarkus, please visit its website: <https://quarkus.io/>.
+Built with [Quarkus](https://quarkus.io/) and [Roq](https://iamroq.com/).
 
-## Running the application in dev mode
+## Running locally
 
-You can run your application in dev mode that enables live coding using:
-
-```shell script
-./mvnw quarkus:dev
+```bash
+roq start
 ```
 
-> **_NOTE:_**  Quarkus now ships with a Dev UI, which is available in dev mode only at <http://localhost:8080/q/dev/>.
+Site runs at [localhost:8080](http://localhost:8080) with hot reload.
 
-## Packaging and running the application
+## Content
 
-The application can be packaged using:
+| Section | Path |
+|---|---|
+| Blog posts | `content/posts/` |
+| Conference talks | `content/talk/` |
+| Publications | `content/publications/` |
+| Podcasts | `content/podcast/` |
+| Labs / demos | `content/lab/` |
+| Bio | `content/bio/` |
 
-```shell script
-./mvnw package
-```
+Blog posts follow the `YYYY-MM-DD-slug/index.md` naming convention with YAML frontmatter.
 
-It produces the `quarkus-run.jar` file in the `target/quarkus-app/` directory.
-Be aware that it’s not an _über-jar_ as the dependencies are copied into the `target/quarkus-app/lib/` directory.
+## Tech stack
 
-The application is now runnable using `java -jar target/quarkus-app/quarkus-run.jar`.
-
-If you want to build an _über-jar_, execute the following command:
-
-```shell script
-./mvnw package -Dquarkus.package.jar.type=uber-jar
-```
-
-The application, packaged as an _über-jar_, is now runnable using `java -jar target/*-runner.jar`.
-
-## Creating a native executable
-
-You can create a native executable using:
-
-```shell script
-./mvnw package -Dnative
-```
-
-Or, if you don't have GraalVM installed, you can run the native executable build in a container using:
-
-```shell script
-./mvnw package -Dnative -Dquarkus.native.container-build=true
-```
-
-You can then execute your native executable with: `./target/zbendhiba.github.io-1.0.0-SNAPSHOT-runner`
-
-If you want to learn more about building native executables, please consult <https://quarkus.io/guides/maven-tooling>.
-
-## Related Guides
-
-- Roq ([guide](https://iamroq.com/docs/)): Hello, world! I’m Roq — a fun little SSG (Static Site Generator) with a Java soul and Quarkus energy.
-
-## Provided Code
+- [Quarkus](https://quarkus.io/) + [Roq](https://iamroq.com/) for static site generation
+- [Qute](https://quarkus.io/guides/qute) for templating
+- SCSS for styling
+- Deployed via GitHub Pages
