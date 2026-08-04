@@ -4,6 +4,12 @@ link: /conf/
 layout: page
 ---
 
+## Upcoming
+
+| Date | Event | Details |
+| ------------- |---------------|:------:|
+| 12-09/10 | [Open Source Experience 2026](https://www.opensource-experience.com/)|🇫🇷 Des "good first issues" à contributeur régulier : comment proposer une échelle de progression ? - Table ronde animée par [Marie Sacksick](https://www.linkedin.com/in/marie-sacksick/) |
+
 ## 2026
 
 | Date | Event | Details |
