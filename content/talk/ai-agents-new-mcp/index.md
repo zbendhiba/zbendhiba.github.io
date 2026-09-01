@@ -4,7 +4,7 @@ layout: page
 link: /talk/ai-agents-new-mcp/
 ---
 
-# 🇬🇧🇲🇦  AI Agents Meet the New MCP
+# 🇬🇧  AI Agents Meet the New MCP
 
 #### Abstract
 

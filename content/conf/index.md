@@ -9,6 +9,7 @@ layout: page
 | Date | Event | Details |
 | ------------- |---------------|:------:|
 | Dec-09/10 | [Open Source Experience 2026](https://www.opensource-experience.com/)|🇫🇷 Des "good first issues" à contributeur régulier : comment proposer une échelle de progression ? - Table ronde animée par [Marie Sacksick](https://www.linkedin.com/in/marie-sacksick/) |
+| Nov-04 | [Devoxx Morocco](https://devoxx.ma/)|🇬🇧 [AI Agents Meet the New MCP](/talk/ai-agents-new-mcp/) |
 
 ## 2026
 
