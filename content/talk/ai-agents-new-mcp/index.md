@@ -13,3 +13,11 @@ The Model Context Protocol (MCP) quickly established itself as the open standard
 [Quarkus MCP Server](https://docs.quarkiverse.io/quarkus-mcp-server/dev/) 2.0 fully embraces the new specification. In this talk, I will show how to build a Quarkus MCP server aligned with the latest protocol, and connect it to an AI agent powered by [LangChain4j](https://docs.langchain4j.dev/). Through live demos, you'll see an agent discover MCP tools at runtime, chain actions across enterprise systems, and act on the results. All through [Quarkus](https://quarkus.io/).
 
 Join me to explore how the new MCP, combined with Quarkus and LangChain4j, takes us from connecting AI to enterprise systems to building agents that act autonomously!
+
+
+### Slides
+- [November 4th, 2026 - Devoxx Morocco](https://speakerdeck.com/zbendhiba/devoxxma-2026)
+
+
+### Code
+- [November 4th, 2026 - Devoxx Morocco](https://github.com/zbendhiba/demo-ai-agents-new-mcp)
